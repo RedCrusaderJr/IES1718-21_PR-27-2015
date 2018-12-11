@@ -13,28 +13,28 @@ namespace FTN.ESI.SIMES.CIM.CIMAdapter
 {
 	public class CIMAdapter
 	{
-        private NetworkModelGDAProxy gdaQueryProxy = null;
-       
+		private NetworkModelGDAProxy gdaQueryProxy = null;
+	   
 		public CIMAdapter()
 		{
 		}
 
-        private NetworkModelGDAProxy GdaQueryProxy
-        {
-            get
-            {
-                if (gdaQueryProxy != null)
-                {
-                    gdaQueryProxy.Abort();
-                    gdaQueryProxy = null;
-                }
+		private NetworkModelGDAProxy GdaQueryProxy
+		{
+			get
+			{
+				if (gdaQueryProxy != null)
+				{
+					gdaQueryProxy.Abort();
+					gdaQueryProxy = null;
+				}
 
-                gdaQueryProxy = new NetworkModelGDAProxy("NetworkModelGDAEndpoint");
-                gdaQueryProxy.Open();
+				gdaQueryProxy = new NetworkModelGDAProxy("NetworkModelGDAEndpoint");
+				gdaQueryProxy.Open();
 
-                return gdaQueryProxy;
-            }
-        }
+				return gdaQueryProxy;
+			}
+		}
 
 		public Delta CreateDelta(Stream extract, SupportedProfiles extractType, out string log)
 		{
@@ -62,7 +62,7 @@ namespace FTN.ESI.SIMES.CIM.CIMAdapter
 			if ((delta != null) && (delta.NumberOfOperations != 0))
 			{
 				//// NetworkModelService->ApplyUpdates
-                updateResult = GdaQueryProxy.ApplyUpdate(delta).ToString();
+				updateResult = GdaQueryProxy.ApplyUpdate(delta).ToString();
 			}
 
 			Thread.CurrentThread.CurrentCulture = culture;
@@ -143,6 +143,10 @@ namespace FTN.ESI.SIMES.CIM.CIMAdapter
 
 							break;
 						}
+                    case SupportedProfiles.IES21:
+                        {
+                            //TODO:
+                        }
 					default:
 						{
 							LogManager.Log(string.Format("Import of {0} data is NOT SUPPORTED.", extractType), LogLevel.Warning);

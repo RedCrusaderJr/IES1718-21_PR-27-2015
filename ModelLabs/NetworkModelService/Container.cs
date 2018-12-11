@@ -130,7 +130,7 @@ namespace FTN.Services.NetworkModelService
 					io = new Location(globalId);
 					break;
 				case DMSType.POWERTR:
-					io = new PowerTransformer(globalId);
+					io = new Conductor(globalId);
 					break;
 				case DMSType.POWERTRWINDING:
 					io = new TransformerWinding(globalId);
