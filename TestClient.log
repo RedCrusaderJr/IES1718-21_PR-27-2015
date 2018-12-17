@@ -1,0 +1,20 @@
+12-Dec-18 15:03:14 : Network Model Service Test Client is up and running...
+12-Dec-18 15:03:14 : Result directory: ../Results
+12-Dec-18 17:15:41 : Network Model Service Test Client is up and running...
+12-Dec-18 17:15:41 : Result directory: ../Results
+12-Dec-18 17:16:02 : Getting values method started.
+12-Dec-18 17:16:03 : Getting values method successfully finished.
+12-Dec-18 17:17:24 : Getting extent values method started.
+12-Dec-18 17:17:24 : Getting extent values method successfully finished.
+12-Dec-18 17:17:28 : Apply update method started.
+12-Dec-18 17:17:33 : Apply update method finished. 
+Update result: Succeeded
+Message: Applying delta to network model successfully finished.
+GlobalId pairs:
+Client globalId: 0x00000001ffffffff	 - Server globalId: 0x0000000100000005
+Client globalId: 0x00000002ffffffff	 - Server globalId: 0x0000000200000003
+Client globalId: 0x00000003ffffffff	 - Server globalId: 0x0000000300000006
+Client globalId: 0x00000004ffffffff	 - Server globalId: 0x0000000400000003
+Client globalId: 0x00000005ffffffff	 - Server globalId: 0x0000000500000003
+Client globalId: 0x00000006ffffffff	 - Server globalId: 0x0000000600000004
+

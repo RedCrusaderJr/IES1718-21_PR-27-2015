@@ -1,0 +1,2111 @@
+12-Dec-18 15:03:01 : Starting Network Model Serivice...
+12-Dec-18 15:03:03 : The WCF service GenericDataAccess is ready.
+12-Dec-18 15:03:03 : Endpoints:
+12-Dec-18 15:03:03 : net.tcp://localhost:10000/NetworkModelService/GDA/
+12-Dec-18 15:03:03 : Connection string: ../NetworkModelData.data
+12-Dec-18 15:03:03 : Trace level: Info
+12-Dec-18 15:03:03 : The Network Model Service is started.
+12-Dec-18 15:03:03 : Press <Enter> to stop the service.
+12-Dec-18 15:57:03 : Starting Network Model Serivice...
+12-Dec-18 15:57:04 : The WCF service GenericDataAccess is ready.
+12-Dec-18 15:57:04 : Endpoints:
+12-Dec-18 15:57:04 : net.tcp://localhost:10000/NetworkModelService/GDA/
+12-Dec-18 15:57:04 : Connection string: ../NetworkModelData.data
+12-Dec-18 15:57:04 : Trace level: Info
+12-Dec-18 15:57:04 : The Network Model Service is started.
+12-Dec-18 15:57:04 : Press <Enter> to stop the service.
+12-Dec-18 16:09:24 : Starting Network Model Serivice...
+12-Dec-18 16:09:25 : The WCF service GenericDataAccess is ready.
+12-Dec-18 16:09:25 : Endpoints:
+12-Dec-18 16:09:25 : net.tcp://localhost:10000/NetworkModelService/GDA/
+12-Dec-18 16:09:25 : Connection string: ../NetworkModelData.data
+12-Dec-18 16:09:25 : Trace level: Info
+12-Dec-18 16:09:25 : The Network Model Service is started.
+12-Dec-18 16:09:25 : Press <Enter> to stop the service.
+12-Dec-18 16:12:30 : Starting Network Model Serivice...
+12-Dec-18 16:12:31 : The WCF service GenericDataAccess is ready.
+12-Dec-18 16:12:31 : Endpoints:
+12-Dec-18 16:12:31 : net.tcp://localhost:10000/NetworkModelService/GDA/
+12-Dec-18 16:12:31 : Connection string: ../NetworkModelData.data
+12-Dec-18 16:12:31 : Trace level: Info
+12-Dec-18 16:12:31 : The Network Model Service is started.
+12-Dec-18 16:12:31 : Press <Enter> to stop the service.
+12-Dec-18 16:15:11 : Starting Network Model Serivice...
+12-Dec-18 16:15:12 : The WCF service GenericDataAccess is ready.
+12-Dec-18 16:15:12 : Endpoints:
+12-Dec-18 16:15:12 : net.tcp://localhost:10000/NetworkModelService/GDA/
+12-Dec-18 16:15:12 : Connection string: ../NetworkModelData.data
+12-Dec-18 16:15:12 : Trace level: Info
+12-Dec-18 16:15:12 : The Network Model Service is started.
+12-Dec-18 16:15:12 : Press <Enter> to stop the service.
+12-Dec-18 16:33:56 : Starting Network Model Serivice...
+12-Dec-18 16:33:57 : The WCF service GenericDataAccess is ready.
+12-Dec-18 16:33:57 : Endpoints:
+12-Dec-18 16:33:57 : net.tcp://localhost:10000/NetworkModelService/GDA/
+12-Dec-18 16:33:57 : Connection string: ../NetworkModelData.data
+12-Dec-18 16:33:57 : Trace level: Info
+12-Dec-18 16:33:57 : The Network Model Service is started.
+12-Dec-18 16:33:57 : Press <Enter> to stop the service.
+12-Dec-18 16:41:31 : Starting Network Model Serivice...
+12-Dec-18 16:41:33 : The WCF service GenericDataAccess is ready.
+12-Dec-18 16:41:33 : Endpoints:
+12-Dec-18 16:41:33 : net.tcp://localhost:10000/NetworkModelService/GDA/
+12-Dec-18 16:41:33 : Connection string: ../NetworkModelData.data
+12-Dec-18 16:41:33 : Trace level: Info
+12-Dec-18 16:41:33 : The Network Model Service is started.
+12-Dec-18 16:41:33 : Press <Enter> to stop the service.
+12-Dec-18 16:46:00 : Applying  delta to network model.
+12-Dec-18 16:46:00 : Inserting entity with GID (0000000200000001).
+12-Dec-18 16:46:00 : Inserting entity with GID (0000000200000002).
+12-Dec-18 16:46:00 : Inserting entity with GID (0000000100000001).
+12-Dec-18 16:46:00 : Inserting entity with GID (0000000100000002).
+12-Dec-18 16:46:00 : Inserting entity with GID (0000000100000003).
+12-Dec-18 16:46:00 : Inserting entity with GID (0000000100000004).
+12-Dec-18 16:46:00 : Inserting entity with GID (0000000500000001).
+12-Dec-18 16:46:00 : Inserting entity with GID (0000000500000002).
+12-Dec-18 16:46:00 : Inserting entity with GID (0000000600000001).
+12-Dec-18 16:46:00 : Inserting entity with GID (0000000600000002).
+12-Dec-18 16:46:00 : Inserting entity with GID (0000000600000003).
+12-Dec-18 16:46:00 : Inserting entity with GID (0000000400000001).
+12-Dec-18 16:46:00 : Inserting entity with GID (0000000400000002).
+12-Dec-18 16:46:00 : Inserting entity with GID (0000000300000001).
+12-Dec-18 16:46:00 : Failed to insert entity (GID = 0x0000000300000001) into model. Object reference not set to an instance of an object.
+12-Dec-18 16:46:00 : Applying delta to network model failed. Failed to insert entity (GID = 0x0000000300000001) into model. Object reference not set to an instance of an object..
+12-Dec-18 16:47:10 : Starting Network Model Serivice...
+12-Dec-18 16:47:11 : The WCF service GenericDataAccess is ready.
+12-Dec-18 16:47:11 : Endpoints:
+12-Dec-18 16:47:11 : net.tcp://localhost:10000/NetworkModelService/GDA/
+12-Dec-18 16:47:11 : Connection string: ../NetworkModelData.data
+12-Dec-18 16:47:11 : Trace level: Info
+12-Dec-18 16:47:11 : The Network Model Service is started.
+12-Dec-18 16:47:11 : Press <Enter> to stop the service.
+12-Dec-18 16:49:51 : Applying  delta to network model.
+12-Dec-18 16:50:51 : Inserting entity with GID (0000000200000001).
+12-Dec-18 16:52:36 : Inserting entity with GID (0000000200000002).
+12-Dec-18 16:52:42 : Inserting entity with GID (0000000100000001).
+12-Dec-18 16:52:59 : Inserting entity with GID (0000000100000002).
+12-Dec-18 16:53:13 : Inserting entity with GID (0000000100000003).
+12-Dec-18 16:53:18 : Inserting entity with GID (0000000100000004).
+12-Dec-18 16:53:23 : Inserting entity with GID (0000000500000001).
+12-Dec-18 16:53:38 : Inserting entity with GID (0000000500000002).
+12-Dec-18 16:53:49 : Inserting entity with GID (0000000600000001).
+12-Dec-18 16:53:54 : Inserting entity with GID (0000000600000002).
+12-Dec-18 16:53:58 : Inserting entity with GID (0000000600000003).
+12-Dec-18 16:54:01 : Inserting entity with GID (0000000400000001).
+12-Dec-18 16:54:04 : Inserting entity with GID (0000000400000002).
+12-Dec-18 16:54:06 : Inserting entity with GID (0000000300000001).
+12-Dec-18 16:54:06 : Failed to insert entity (GID = 0x0000000300000001) into model. Object reference not set to an instance of an object.
+12-Dec-18 16:56:39 : Starting Network Model Serivice...
+12-Dec-18 16:56:40 : The WCF service GenericDataAccess is ready.
+12-Dec-18 16:56:40 : Endpoints:
+12-Dec-18 16:56:40 : net.tcp://localhost:10000/NetworkModelService/GDA/
+12-Dec-18 16:56:40 : Connection string: ../NetworkModelData.data
+12-Dec-18 16:56:40 : Trace level: Info
+12-Dec-18 16:56:40 : The Network Model Service is started.
+12-Dec-18 16:56:40 : Press <Enter> to stop the service.
+12-Dec-18 16:57:04 : Applying  delta to network model.
+12-Dec-18 16:57:04 : Inserting entity with GID (0000000200000001).
+12-Dec-18 16:57:04 : Inserting entity with GID (0000000200000002).
+12-Dec-18 16:57:04 : Inserting entity with GID (0000000100000001).
+12-Dec-18 16:57:04 : Inserting entity with GID (0000000100000002).
+12-Dec-18 16:57:04 : Inserting entity with GID (0000000100000003).
+12-Dec-18 16:57:04 : Inserting entity with GID (0000000100000004).
+12-Dec-18 16:57:04 : Inserting entity with GID (0000000500000001).
+12-Dec-18 16:57:04 : Inserting entity with GID (0000000500000002).
+12-Dec-18 16:57:04 : Inserting entity with GID (0000000600000001).
+12-Dec-18 16:57:04 : Inserting entity with GID (0000000600000002).
+12-Dec-18 16:57:04 : Inserting entity with GID (0000000600000003).
+12-Dec-18 16:57:04 : Inserting entity with GID (0000000400000001).
+12-Dec-18 16:57:04 : Inserting entity with GID (0000000400000002).
+12-Dec-18 16:57:04 : Inserting entity with GID (0000000300000001).
+12-Dec-18 16:57:04 : Inserting entity with GID (0000000300000002).
+12-Dec-18 16:57:04 : Inserting entity with GID (0000000300000003).
+12-Dec-18 16:57:04 : Inserting entity with GID (0000000300000004).
+12-Dec-18 16:57:04 : Inserting entity with GID (0000000300000005).
+12-Dec-18 16:57:04 : Applying delta to network model successfully finished.
+12-Dec-18 17:17:33 : Applying  delta to network model.
+12-Dec-18 17:17:33 : Inserting entity with GID (0000000200000003).
+12-Dec-18 17:17:33 : Inserting entity with GID (0000000100000005).
+12-Dec-18 17:17:33 : Inserting entity with GID (0000000500000003).
+12-Dec-18 17:17:33 : Inserting entity with GID (0000000600000004).
+12-Dec-18 17:17:33 : Inserting entity with GID (0000000400000003).
+12-Dec-18 17:17:33 : Inserting entity with GID (0000000300000006).
+12-Dec-18 17:17:33 : Applying delta to network model successfully finished.
+12-Dec-18 17:30:50 : Starting Network Model Serivice...
+12-Dec-18 17:30:51 : The WCF service GenericDataAccess is ready.
+12-Dec-18 17:30:51 : Endpoints:
+12-Dec-18 17:30:51 : net.tcp://localhost:10000/NetworkModelService/GDA/
+12-Dec-18 17:30:51 : Connection string: ../NetworkModelData.data
+12-Dec-18 17:30:51 : Trace level: Info
+12-Dec-18 17:30:51 : The Network Model Service is started.
+12-Dec-18 17:30:51 : Press <Enter> to stop the service.
+12-Dec-18 17:31:17 : Applying  delta to network model.
+12-Dec-18 17:31:17 : Inserting entity with GID (0000000200000001).
+12-Dec-18 17:31:17 : Inserting entity with GID (0000000200000002).
+12-Dec-18 17:31:17 : Inserting entity with GID (0000000100000001).
+12-Dec-18 17:31:17 : Inserting entity with GID (0000000100000002).
+12-Dec-18 17:31:17 : Inserting entity with GID (0000000100000003).
+12-Dec-18 17:31:17 : Inserting entity with GID (0000000100000004).
+12-Dec-18 17:31:17 : Inserting entity with GID (0000000500000001).
+12-Dec-18 17:31:17 : Inserting entity with GID (0000000500000002).
+12-Dec-18 17:31:17 : Inserting entity with GID (0000000600000001).
+12-Dec-18 17:31:17 : Inserting entity with GID (0000000600000002).
+12-Dec-18 17:31:17 : Inserting entity with GID (0000000600000003).
+12-Dec-18 17:31:17 : Inserting entity with GID (0000000400000001).
+12-Dec-18 17:31:17 : Inserting entity with GID (0000000400000002).
+12-Dec-18 17:31:17 : Inserting entity with GID (0000000300000001).
+12-Dec-18 17:31:17 : Inserting entity with GID (0000000300000002).
+12-Dec-18 17:31:17 : Inserting entity with GID (0000000300000003).
+12-Dec-18 17:31:17 : Inserting entity with GID (0000000300000004).
+12-Dec-18 17:31:17 : Inserting entity with GID (0000000300000005).
+12-Dec-18 17:31:17 : Applying delta to network model successfully finished.
+13-Dec-18 14:26:32 : Starting Network Model Serivice...
+13-Dec-18 14:26:33 : Inserting entity with GID (0000000200000001).
+13-Dec-18 14:26:33 : Inserting entity with GID (0000000200000002).
+13-Dec-18 14:26:33 : Inserting entity with GID (0000000100000001).
+13-Dec-18 14:26:33 : Inserting entity with GID (0000000100000002).
+13-Dec-18 14:26:33 : Inserting entity with GID (0000000100000003).
+13-Dec-18 14:26:33 : Inserting entity with GID (0000000100000004).
+13-Dec-18 14:26:33 : Inserting entity with GID (0000000500000001).
+13-Dec-18 14:26:33 : Inserting entity with GID (0000000500000002).
+13-Dec-18 14:26:33 : Inserting entity with GID (0000000600000001).
+13-Dec-18 14:26:33 : Inserting entity with GID (0000000600000002).
+13-Dec-18 14:26:33 : Inserting entity with GID (0000000600000003).
+13-Dec-18 14:26:33 : Inserting entity with GID (0000000400000001).
+13-Dec-18 14:26:33 : Inserting entity with GID (0000000400000002).
+13-Dec-18 14:26:33 : Inserting entity with GID (0000000300000001).
+13-Dec-18 14:26:33 : Inserting entity with GID (0000000300000002).
+13-Dec-18 14:26:33 : Inserting entity with GID (0000000300000003).
+13-Dec-18 14:26:33 : Inserting entity with GID (0000000300000004).
+13-Dec-18 14:26:33 : Inserting entity with GID (0000000300000005).
+13-Dec-18 14:26:36 : The WCF service GenericDataAccess is ready.
+13-Dec-18 14:26:36 : Endpoints:
+13-Dec-18 14:26:36 : net.tcp://localhost:10000/NetworkModelService/GDA/
+13-Dec-18 14:26:36 : Connection string: ../NetworkModelData.data
+13-Dec-18 14:26:36 : Trace level: Info
+13-Dec-18 14:26:36 : The Network Model Service is started.
+13-Dec-18 14:26:36 : Press <Enter> to stop the service.
+13-Dec-18 14:27:14 : Starting Network Model Serivice...
+13-Dec-18 14:27:14 : Inserting entity with GID (0000000200000001).
+13-Dec-18 14:27:14 : Inserting entity with GID (0000000200000002).
+13-Dec-18 14:27:14 : Inserting entity with GID (0000000100000001).
+13-Dec-18 14:27:14 : Inserting entity with GID (0000000100000002).
+13-Dec-18 14:27:14 : Inserting entity with GID (0000000100000003).
+13-Dec-18 14:27:14 : Inserting entity with GID (0000000100000004).
+13-Dec-18 14:27:14 : Inserting entity with GID (0000000500000001).
+13-Dec-18 14:27:14 : Inserting entity with GID (0000000500000002).
+13-Dec-18 14:27:14 : Inserting entity with GID (0000000600000001).
+13-Dec-18 14:27:14 : Inserting entity with GID (0000000600000002).
+13-Dec-18 14:27:14 : Inserting entity with GID (0000000600000003).
+13-Dec-18 14:27:14 : Inserting entity with GID (0000000400000001).
+13-Dec-18 14:27:14 : Inserting entity with GID (0000000400000002).
+13-Dec-18 14:27:14 : Inserting entity with GID (0000000300000001).
+13-Dec-18 14:27:14 : Inserting entity with GID (0000000300000002).
+13-Dec-18 14:27:14 : Inserting entity with GID (0000000300000003).
+13-Dec-18 14:27:14 : Inserting entity with GID (0000000300000004).
+13-Dec-18 14:27:14 : Inserting entity with GID (0000000300000005).
+13-Dec-18 14:27:15 : The WCF service GenericDataAccess is ready.
+13-Dec-18 14:27:15 : Endpoints:
+13-Dec-18 14:27:15 : net.tcp://localhost:10000/NetworkModelService/GDA/
+13-Dec-18 14:27:15 : Connection string: ../NetworkModelData.data
+13-Dec-18 14:27:15 : Trace level: Info
+13-Dec-18 14:27:15 : The Network Model Service is started.
+13-Dec-18 14:27:15 : Press <Enter> to stop the service.
+13-Dec-18 14:28:05 : Starting Network Model Serivice...
+13-Dec-18 14:28:05 : Inserting entity with GID (0000000200000001).
+13-Dec-18 14:28:05 : Inserting entity with GID (0000000200000002).
+13-Dec-18 14:28:05 : Inserting entity with GID (0000000100000001).
+13-Dec-18 14:28:05 : Inserting entity with GID (0000000100000002).
+13-Dec-18 14:28:05 : Inserting entity with GID (0000000100000003).
+13-Dec-18 14:28:05 : Inserting entity with GID (0000000100000004).
+13-Dec-18 14:28:05 : Inserting entity with GID (0000000500000001).
+13-Dec-18 14:28:05 : Inserting entity with GID (0000000500000002).
+13-Dec-18 14:28:05 : Inserting entity with GID (0000000600000001).
+13-Dec-18 14:28:05 : Inserting entity with GID (0000000600000002).
+13-Dec-18 14:28:05 : Inserting entity with GID (0000000600000003).
+13-Dec-18 14:28:05 : Inserting entity with GID (0000000400000001).
+13-Dec-18 14:28:05 : Inserting entity with GID (0000000400000002).
+13-Dec-18 14:28:05 : Inserting entity with GID (0000000300000001).
+13-Dec-18 14:28:05 : Inserting entity with GID (0000000300000002).
+13-Dec-18 14:28:05 : Inserting entity with GID (0000000300000003).
+13-Dec-18 14:28:05 : Inserting entity with GID (0000000300000004).
+13-Dec-18 14:28:05 : Inserting entity with GID (0000000300000005).
+13-Dec-18 14:28:07 : The WCF service GenericDataAccess is ready.
+13-Dec-18 14:28:07 : Endpoints:
+13-Dec-18 14:28:07 : net.tcp://localhost:10000/NetworkModelService/GDA/
+13-Dec-18 14:28:07 : Connection string: ../NetworkModelData.data
+13-Dec-18 14:28:07 : Trace level: Info
+13-Dec-18 14:28:07 : The Network Model Service is started.
+13-Dec-18 14:28:07 : Press <Enter> to stop the service.
+13-Dec-18 14:32:14 : Starting Network Model Serivice...
+13-Dec-18 14:32:14 : Inserting entity with GID (0000000200000001).
+13-Dec-18 14:32:14 : Inserting entity with GID (0000000200000002).
+13-Dec-18 14:32:14 : Inserting entity with GID (0000000100000001).
+13-Dec-18 14:32:14 : Inserting entity with GID (0000000100000002).
+13-Dec-18 14:32:14 : Inserting entity with GID (0000000100000003).
+13-Dec-18 14:32:14 : Inserting entity with GID (0000000100000004).
+13-Dec-18 14:32:14 : Inserting entity with GID (0000000500000001).
+13-Dec-18 14:32:14 : Inserting entity with GID (0000000500000002).
+13-Dec-18 14:32:14 : Inserting entity with GID (0000000600000001).
+13-Dec-18 14:32:14 : Inserting entity with GID (0000000600000002).
+13-Dec-18 14:32:14 : Inserting entity with GID (0000000600000003).
+13-Dec-18 14:32:14 : Inserting entity with GID (0000000400000001).
+13-Dec-18 14:32:14 : Inserting entity with GID (0000000400000002).
+13-Dec-18 14:32:14 : Inserting entity with GID (0000000300000001).
+13-Dec-18 14:32:14 : Inserting entity with GID (0000000300000002).
+13-Dec-18 14:32:14 : Inserting entity with GID (0000000300000003).
+13-Dec-18 14:32:14 : Inserting entity with GID (0000000300000004).
+13-Dec-18 14:32:14 : Inserting entity with GID (0000000300000005).
+13-Dec-18 14:32:16 : The WCF service GenericDataAccess is ready.
+13-Dec-18 14:32:16 : Endpoints:
+13-Dec-18 14:32:16 : net.tcp://localhost:10000/NetworkModelService/GDA/
+13-Dec-18 14:32:16 : Connection string: ../NetworkModelData.data
+13-Dec-18 14:32:16 : Trace level: Info
+13-Dec-18 14:32:16 : The Network Model Service is started.
+13-Dec-18 14:32:16 : Press <Enter> to stop the service.
+13-Dec-18 14:33:27 : Applying  delta to network model.
+13-Dec-18 14:33:28 : Inserting entity with GID (0000000200000003).
+13-Dec-18 14:33:28 : Inserting entity with GID (0000000200000004).
+13-Dec-18 14:33:28 : Inserting entity with GID (0000000100000005).
+13-Dec-18 14:33:28 : Inserting entity with GID (0000000100000006).
+13-Dec-18 14:33:28 : Inserting entity with GID (0000000100000007).
+13-Dec-18 14:33:28 : Inserting entity with GID (0000000100000008).
+13-Dec-18 14:33:28 : Inserting entity with GID (0000000500000003).
+13-Dec-18 14:33:28 : Inserting entity with GID (0000000500000004).
+13-Dec-18 14:33:28 : Inserting entity with GID (0000000600000004).
+13-Dec-18 14:33:28 : Inserting entity with GID (0000000600000005).
+13-Dec-18 14:33:28 : Inserting entity with GID (0000000600000006).
+13-Dec-18 14:33:28 : Inserting entity with GID (0000000400000003).
+13-Dec-18 14:33:28 : Inserting entity with GID (0000000400000004).
+13-Dec-18 14:33:28 : Inserting entity with GID (0000000300000006).
+13-Dec-18 14:33:28 : Inserting entity with GID (0000000300000007).
+13-Dec-18 14:33:28 : Inserting entity with GID (0000000300000008).
+13-Dec-18 14:33:28 : Inserting entity with GID (0000000300000009).
+13-Dec-18 14:33:28 : Inserting entity with GID (000000030000000a).
+13-Dec-18 14:33:28 : Applying delta to network model successfully finished.
+13-Dec-18 14:37:01 : Starting Network Model Serivice...
+13-Dec-18 14:37:01 : Inserting entity with GID (0000000200000001).
+13-Dec-18 14:37:01 : Inserting entity with GID (0000000200000002).
+13-Dec-18 14:37:01 : Inserting entity with GID (0000000100000001).
+13-Dec-18 14:37:01 : Inserting entity with GID (0000000100000002).
+13-Dec-18 14:37:01 : Inserting entity with GID (0000000100000003).
+13-Dec-18 14:37:01 : Inserting entity with GID (0000000100000004).
+13-Dec-18 14:37:01 : Inserting entity with GID (0000000500000001).
+13-Dec-18 14:37:01 : Inserting entity with GID (0000000500000002).
+13-Dec-18 14:37:01 : Inserting entity with GID (0000000600000001).
+13-Dec-18 14:37:01 : Inserting entity with GID (0000000600000002).
+13-Dec-18 14:37:01 : Inserting entity with GID (0000000600000003).
+13-Dec-18 14:37:01 : Inserting entity with GID (0000000400000001).
+13-Dec-18 14:37:01 : Inserting entity with GID (0000000400000002).
+13-Dec-18 14:37:01 : Inserting entity with GID (0000000300000001).
+13-Dec-18 14:37:01 : Inserting entity with GID (0000000300000002).
+13-Dec-18 14:37:01 : Inserting entity with GID (0000000300000003).
+13-Dec-18 14:37:01 : Inserting entity with GID (0000000300000004).
+13-Dec-18 14:37:01 : Inserting entity with GID (0000000300000005).
+13-Dec-18 14:37:01 : Inserting entity with GID (0000000200000003).
+13-Dec-18 14:37:01 : Inserting entity with GID (0000000200000004).
+13-Dec-18 14:37:01 : Inserting entity with GID (0000000100000005).
+13-Dec-18 14:37:01 : Inserting entity with GID (0000000100000006).
+13-Dec-18 14:37:01 : Inserting entity with GID (0000000100000007).
+13-Dec-18 14:37:01 : Inserting entity with GID (0000000100000008).
+13-Dec-18 14:37:01 : Inserting entity with GID (0000000500000003).
+13-Dec-18 14:37:01 : Inserting entity with GID (0000000500000004).
+13-Dec-18 14:37:01 : Inserting entity with GID (0000000600000004).
+13-Dec-18 14:37:01 : Inserting entity with GID (0000000600000005).
+13-Dec-18 14:37:01 : Inserting entity with GID (0000000600000006).
+13-Dec-18 14:37:01 : Inserting entity with GID (0000000400000003).
+13-Dec-18 14:37:01 : Inserting entity with GID (0000000400000004).
+13-Dec-18 14:37:01 : Inserting entity with GID (0000000300000006).
+13-Dec-18 14:37:01 : Inserting entity with GID (0000000300000007).
+13-Dec-18 14:37:01 : Inserting entity with GID (0000000300000008).
+13-Dec-18 14:37:01 : Inserting entity with GID (0000000300000009).
+13-Dec-18 14:37:01 : Inserting entity with GID (000000030000000a).
+13-Dec-18 14:37:02 : The WCF service GenericDataAccess is ready.
+13-Dec-18 14:37:02 : Endpoints:
+13-Dec-18 14:37:02 : net.tcp://localhost:10000/NetworkModelService/GDA/
+13-Dec-18 14:37:02 : Connection string: ../NetworkModelData.data
+13-Dec-18 14:37:02 : Trace level: Info
+13-Dec-18 14:37:02 : The Network Model Service is started.
+13-Dec-18 14:37:02 : Press <Enter> to stop the service.
+13-Dec-18 14:38:08 : Starting Network Model Serivice...
+13-Dec-18 14:38:08 : Inserting entity with GID (0000000200000001).
+13-Dec-18 14:38:08 : Inserting entity with GID (0000000200000002).
+13-Dec-18 14:38:08 : Inserting entity with GID (0000000100000001).
+13-Dec-18 14:38:08 : Inserting entity with GID (0000000100000002).
+13-Dec-18 14:38:08 : Inserting entity with GID (0000000100000003).
+13-Dec-18 14:38:08 : Inserting entity with GID (0000000100000004).
+13-Dec-18 14:38:08 : Inserting entity with GID (0000000500000001).
+13-Dec-18 14:38:08 : Inserting entity with GID (0000000500000002).
+13-Dec-18 14:38:08 : Inserting entity with GID (0000000600000001).
+13-Dec-18 14:38:08 : Inserting entity with GID (0000000600000002).
+13-Dec-18 14:38:08 : Inserting entity with GID (0000000600000003).
+13-Dec-18 14:38:08 : Inserting entity with GID (0000000400000001).
+13-Dec-18 14:38:08 : Inserting entity with GID (0000000400000002).
+13-Dec-18 14:38:08 : Inserting entity with GID (0000000300000001).
+13-Dec-18 14:38:08 : Inserting entity with GID (0000000300000002).
+13-Dec-18 14:38:08 : Inserting entity with GID (0000000300000003).
+13-Dec-18 14:38:08 : Inserting entity with GID (0000000300000004).
+13-Dec-18 14:38:08 : Inserting entity with GID (0000000300000005).
+13-Dec-18 14:38:08 : Inserting entity with GID (0000000200000003).
+13-Dec-18 14:38:08 : Inserting entity with GID (0000000200000004).
+13-Dec-18 14:38:08 : Inserting entity with GID (0000000100000005).
+13-Dec-18 14:38:08 : Inserting entity with GID (0000000100000006).
+13-Dec-18 14:38:08 : Inserting entity with GID (0000000100000007).
+13-Dec-18 14:38:08 : Inserting entity with GID (0000000100000008).
+13-Dec-18 14:38:08 : Inserting entity with GID (0000000500000003).
+13-Dec-18 14:38:08 : Inserting entity with GID (0000000500000004).
+13-Dec-18 14:38:08 : Inserting entity with GID (0000000600000004).
+13-Dec-18 14:38:08 : Inserting entity with GID (0000000600000005).
+13-Dec-18 14:38:08 : Inserting entity with GID (0000000600000006).
+13-Dec-18 14:38:08 : Inserting entity with GID (0000000400000003).
+13-Dec-18 14:38:08 : Inserting entity with GID (0000000400000004).
+13-Dec-18 14:38:08 : Inserting entity with GID (0000000300000006).
+13-Dec-18 14:38:08 : Inserting entity with GID (0000000300000007).
+13-Dec-18 14:38:08 : Inserting entity with GID (0000000300000008).
+13-Dec-18 14:38:08 : Inserting entity with GID (0000000300000009).
+13-Dec-18 14:38:08 : Inserting entity with GID (000000030000000a).
+13-Dec-18 14:38:09 : The WCF service GenericDataAccess is ready.
+13-Dec-18 14:38:09 : Endpoints:
+13-Dec-18 14:38:09 : net.tcp://localhost:10000/NetworkModelService/GDA/
+13-Dec-18 14:38:09 : Connection string: ../NetworkModelData.data
+13-Dec-18 14:38:09 : Trace level: Info
+13-Dec-18 14:38:09 : The Network Model Service is started.
+13-Dec-18 14:38:09 : Press <Enter> to stop the service.
+13-Dec-18 14:40:12 : Starting Network Model Serivice...
+13-Dec-18 14:40:12 : Inserting entity with GID (0000000200000001).
+13-Dec-18 14:40:12 : Inserting entity with GID (0000000200000002).
+13-Dec-18 14:40:12 : Inserting entity with GID (0000000100000001).
+13-Dec-18 14:40:12 : Inserting entity with GID (0000000100000002).
+13-Dec-18 14:40:12 : Inserting entity with GID (0000000100000003).
+13-Dec-18 14:40:12 : Inserting entity with GID (0000000100000004).
+13-Dec-18 14:40:12 : Inserting entity with GID (0000000500000001).
+13-Dec-18 14:40:12 : Inserting entity with GID (0000000500000002).
+13-Dec-18 14:40:12 : Inserting entity with GID (0000000600000001).
+13-Dec-18 14:40:12 : Inserting entity with GID (0000000600000002).
+13-Dec-18 14:40:12 : Inserting entity with GID (0000000600000003).
+13-Dec-18 14:40:12 : Inserting entity with GID (0000000400000001).
+13-Dec-18 14:40:12 : Inserting entity with GID (0000000400000002).
+13-Dec-18 14:40:12 : Inserting entity with GID (0000000300000001).
+13-Dec-18 14:40:12 : Inserting entity with GID (0000000300000002).
+13-Dec-18 14:40:12 : Inserting entity with GID (0000000300000003).
+13-Dec-18 14:40:12 : Inserting entity with GID (0000000300000004).
+13-Dec-18 14:40:12 : Inserting entity with GID (0000000300000005).
+13-Dec-18 14:40:12 : Inserting entity with GID (0000000200000003).
+13-Dec-18 14:40:12 : Inserting entity with GID (0000000200000004).
+13-Dec-18 14:40:12 : Inserting entity with GID (0000000100000005).
+13-Dec-18 14:40:12 : Inserting entity with GID (0000000100000006).
+13-Dec-18 14:40:12 : Inserting entity with GID (0000000100000007).
+13-Dec-18 14:40:12 : Inserting entity with GID (0000000100000008).
+13-Dec-18 14:40:12 : Inserting entity with GID (0000000500000003).
+13-Dec-18 14:40:12 : Inserting entity with GID (0000000500000004).
+13-Dec-18 14:40:12 : Inserting entity with GID (0000000600000004).
+13-Dec-18 14:40:12 : Inserting entity with GID (0000000600000005).
+13-Dec-18 14:40:12 : Inserting entity with GID (0000000600000006).
+13-Dec-18 14:40:12 : Inserting entity with GID (0000000400000003).
+13-Dec-18 14:40:12 : Inserting entity with GID (0000000400000004).
+13-Dec-18 14:40:12 : Inserting entity with GID (0000000300000006).
+13-Dec-18 14:40:12 : Inserting entity with GID (0000000300000007).
+13-Dec-18 14:40:12 : Inserting entity with GID (0000000300000008).
+13-Dec-18 14:40:12 : Inserting entity with GID (0000000300000009).
+13-Dec-18 14:40:12 : Inserting entity with GID (000000030000000a).
+13-Dec-18 14:40:13 : The WCF service GenericDataAccess is ready.
+13-Dec-18 14:40:13 : Endpoints:
+13-Dec-18 14:40:13 : net.tcp://localhost:10000/NetworkModelService/GDA/
+13-Dec-18 14:40:13 : Connection string: ../NetworkModelData.data
+13-Dec-18 14:40:13 : Trace level: Info
+13-Dec-18 14:40:13 : The Network Model Service is started.
+13-Dec-18 14:40:13 : Press <Enter> to stop the service.
+13-Dec-18 14:41:20 : Starting Network Model Serivice...
+13-Dec-18 14:41:20 : Inserting entity with GID (0000000200000001).
+13-Dec-18 14:41:20 : Inserting entity with GID (0000000200000002).
+13-Dec-18 14:41:20 : Inserting entity with GID (0000000100000001).
+13-Dec-18 14:41:20 : Inserting entity with GID (0000000100000002).
+13-Dec-18 14:41:20 : Inserting entity with GID (0000000100000003).
+13-Dec-18 14:41:20 : Inserting entity with GID (0000000100000004).
+13-Dec-18 14:41:20 : Inserting entity with GID (0000000500000001).
+13-Dec-18 14:41:20 : Inserting entity with GID (0000000500000002).
+13-Dec-18 14:41:20 : Inserting entity with GID (0000000600000001).
+13-Dec-18 14:41:20 : Inserting entity with GID (0000000600000002).
+13-Dec-18 14:41:20 : Inserting entity with GID (0000000600000003).
+13-Dec-18 14:41:20 : Inserting entity with GID (0000000400000001).
+13-Dec-18 14:41:20 : Inserting entity with GID (0000000400000002).
+13-Dec-18 14:41:20 : Inserting entity with GID (0000000300000001).
+13-Dec-18 14:41:20 : Inserting entity with GID (0000000300000002).
+13-Dec-18 14:41:20 : Inserting entity with GID (0000000300000003).
+13-Dec-18 14:41:20 : Inserting entity with GID (0000000300000004).
+13-Dec-18 14:41:20 : Inserting entity with GID (0000000300000005).
+13-Dec-18 14:41:20 : Inserting entity with GID (0000000200000003).
+13-Dec-18 14:41:20 : Inserting entity with GID (0000000200000004).
+13-Dec-18 14:41:20 : Inserting entity with GID (0000000100000005).
+13-Dec-18 14:41:20 : Inserting entity with GID (0000000100000006).
+13-Dec-18 14:41:20 : Inserting entity with GID (0000000100000007).
+13-Dec-18 14:41:20 : Inserting entity with GID (0000000100000008).
+13-Dec-18 14:41:20 : Inserting entity with GID (0000000500000003).
+13-Dec-18 14:41:20 : Inserting entity with GID (0000000500000004).
+13-Dec-18 14:41:20 : Inserting entity with GID (0000000600000004).
+13-Dec-18 14:41:20 : Inserting entity with GID (0000000600000005).
+13-Dec-18 14:41:20 : Inserting entity with GID (0000000600000006).
+13-Dec-18 14:41:20 : Inserting entity with GID (0000000400000003).
+13-Dec-18 14:41:20 : Inserting entity with GID (0000000400000004).
+13-Dec-18 14:41:20 : Inserting entity with GID (0000000300000006).
+13-Dec-18 14:41:20 : Inserting entity with GID (0000000300000007).
+13-Dec-18 14:41:20 : Inserting entity with GID (0000000300000008).
+13-Dec-18 14:41:20 : Inserting entity with GID (0000000300000009).
+13-Dec-18 14:41:20 : Inserting entity with GID (000000030000000a).
+13-Dec-18 14:41:22 : The WCF service GenericDataAccess is ready.
+13-Dec-18 14:41:22 : Endpoints:
+13-Dec-18 14:41:22 : net.tcp://localhost:10000/NetworkModelService/GDA/
+13-Dec-18 14:41:22 : Connection string: ../NetworkModelData.data
+13-Dec-18 14:41:22 : Trace level: Info
+13-Dec-18 14:41:22 : The Network Model Service is started.
+13-Dec-18 14:41:22 : Press <Enter> to stop the service.
+13-Dec-18 14:43:12 : Starting Network Model Serivice...
+13-Dec-18 14:43:12 : Inserting entity with GID (0000000200000001).
+13-Dec-18 14:43:12 : Inserting entity with GID (0000000200000002).
+13-Dec-18 14:43:12 : Inserting entity with GID (0000000100000001).
+13-Dec-18 14:43:12 : Inserting entity with GID (0000000100000002).
+13-Dec-18 14:43:12 : Inserting entity with GID (0000000100000003).
+13-Dec-18 14:43:12 : Inserting entity with GID (0000000100000004).
+13-Dec-18 14:43:12 : Inserting entity with GID (0000000500000001).
+13-Dec-18 14:43:12 : Inserting entity with GID (0000000500000002).
+13-Dec-18 14:43:12 : Inserting entity with GID (0000000600000001).
+13-Dec-18 14:43:12 : Inserting entity with GID (0000000600000002).
+13-Dec-18 14:43:12 : Inserting entity with GID (0000000600000003).
+13-Dec-18 14:43:12 : Inserting entity with GID (0000000400000001).
+13-Dec-18 14:43:12 : Inserting entity with GID (0000000400000002).
+13-Dec-18 14:43:12 : Inserting entity with GID (0000000300000001).
+13-Dec-18 14:43:12 : Inserting entity with GID (0000000300000002).
+13-Dec-18 14:43:12 : Inserting entity with GID (0000000300000003).
+13-Dec-18 14:43:12 : Inserting entity with GID (0000000300000004).
+13-Dec-18 14:43:12 : Inserting entity with GID (0000000300000005).
+13-Dec-18 14:43:12 : Inserting entity with GID (0000000200000003).
+13-Dec-18 14:43:12 : Inserting entity with GID (0000000200000004).
+13-Dec-18 14:43:12 : Inserting entity with GID (0000000100000005).
+13-Dec-18 14:43:12 : Inserting entity with GID (0000000100000006).
+13-Dec-18 14:43:12 : Inserting entity with GID (0000000100000007).
+13-Dec-18 14:43:12 : Inserting entity with GID (0000000100000008).
+13-Dec-18 14:43:12 : Inserting entity with GID (0000000500000003).
+13-Dec-18 14:43:12 : Inserting entity with GID (0000000500000004).
+13-Dec-18 14:43:12 : Inserting entity with GID (0000000600000004).
+13-Dec-18 14:43:12 : Inserting entity with GID (0000000600000005).
+13-Dec-18 14:43:12 : Inserting entity with GID (0000000600000006).
+13-Dec-18 14:43:12 : Inserting entity with GID (0000000400000003).
+13-Dec-18 14:43:12 : Inserting entity with GID (0000000400000004).
+13-Dec-18 14:43:12 : Inserting entity with GID (0000000300000006).
+13-Dec-18 14:43:12 : Inserting entity with GID (0000000300000007).
+13-Dec-18 14:43:12 : Inserting entity with GID (0000000300000008).
+13-Dec-18 14:43:12 : Inserting entity with GID (0000000300000009).
+13-Dec-18 14:43:12 : Inserting entity with GID (000000030000000a).
+13-Dec-18 14:43:13 : The WCF service GenericDataAccess is ready.
+13-Dec-18 14:43:13 : Endpoints:
+13-Dec-18 14:43:13 : net.tcp://localhost:10000/NetworkModelService/GDA/
+13-Dec-18 14:43:13 : Connection string: ../NetworkModelData.data
+13-Dec-18 14:43:13 : Trace level: Info
+13-Dec-18 14:43:13 : The Network Model Service is started.
+13-Dec-18 14:43:13 : Press <Enter> to stop the service.
+13-Dec-18 15:02:57 : Starting Network Model Serivice...
+13-Dec-18 15:02:57 : Inserting entity with GID (0000000200000001).
+13-Dec-18 15:02:57 : Inserting entity with GID (0000000200000002).
+13-Dec-18 15:02:57 : Inserting entity with GID (0000000100000001).
+13-Dec-18 15:02:57 : Inserting entity with GID (0000000100000002).
+13-Dec-18 15:02:57 : Inserting entity with GID (0000000100000003).
+13-Dec-18 15:02:57 : Inserting entity with GID (0000000100000004).
+13-Dec-18 15:02:57 : Inserting entity with GID (0000000500000001).
+13-Dec-18 15:02:57 : Inserting entity with GID (0000000500000002).
+13-Dec-18 15:02:57 : Inserting entity with GID (0000000600000001).
+13-Dec-18 15:02:57 : Inserting entity with GID (0000000600000002).
+13-Dec-18 15:02:57 : Inserting entity with GID (0000000600000003).
+13-Dec-18 15:02:57 : Inserting entity with GID (0000000400000001).
+13-Dec-18 15:02:57 : Inserting entity with GID (0000000400000002).
+13-Dec-18 15:02:57 : Inserting entity with GID (0000000300000001).
+13-Dec-18 15:02:57 : Inserting entity with GID (0000000300000002).
+13-Dec-18 15:02:57 : Inserting entity with GID (0000000300000003).
+13-Dec-18 15:02:58 : Inserting entity with GID (0000000300000004).
+13-Dec-18 15:02:58 : Inserting entity with GID (0000000300000005).
+13-Dec-18 15:02:58 : Inserting entity with GID (0000000200000003).
+13-Dec-18 15:02:58 : Inserting entity with GID (0000000200000004).
+13-Dec-18 15:02:58 : Inserting entity with GID (0000000100000005).
+13-Dec-18 15:02:58 : Inserting entity with GID (0000000100000006).
+13-Dec-18 15:02:58 : Inserting entity with GID (0000000100000007).
+13-Dec-18 15:02:58 : Inserting entity with GID (0000000100000008).
+13-Dec-18 15:02:58 : Inserting entity with GID (0000000500000003).
+13-Dec-18 15:02:58 : Inserting entity with GID (0000000500000004).
+13-Dec-18 15:02:58 : Inserting entity with GID (0000000600000004).
+13-Dec-18 15:02:58 : Inserting entity with GID (0000000600000005).
+13-Dec-18 15:02:58 : Inserting entity with GID (0000000600000006).
+13-Dec-18 15:02:58 : Inserting entity with GID (0000000400000003).
+13-Dec-18 15:02:58 : Inserting entity with GID (0000000400000004).
+13-Dec-18 15:02:58 : Inserting entity with GID (0000000300000006).
+13-Dec-18 15:02:58 : Inserting entity with GID (0000000300000007).
+13-Dec-18 15:02:58 : Inserting entity with GID (0000000300000008).
+13-Dec-18 15:02:58 : Inserting entity with GID (0000000300000009).
+13-Dec-18 15:02:58 : Inserting entity with GID (000000030000000a).
+13-Dec-18 15:25:48 : Starting Network Model Serivice...
+13-Dec-18 15:25:48 : Inserting entity with GID (0000000200000001).
+13-Dec-18 15:25:48 : Inserting entity with GID (0000000200000002).
+13-Dec-18 15:25:48 : Inserting entity with GID (0000000100000001).
+13-Dec-18 15:25:48 : Inserting entity with GID (0000000100000002).
+13-Dec-18 15:25:48 : Inserting entity with GID (0000000100000003).
+13-Dec-18 15:25:48 : Inserting entity with GID (0000000100000004).
+13-Dec-18 15:25:48 : Inserting entity with GID (0000000500000001).
+13-Dec-18 15:25:48 : Inserting entity with GID (0000000500000002).
+13-Dec-18 15:25:48 : Inserting entity with GID (0000000600000001).
+13-Dec-18 15:25:48 : Inserting entity with GID (0000000600000002).
+13-Dec-18 15:25:48 : Inserting entity with GID (0000000600000003).
+13-Dec-18 15:25:48 : Inserting entity with GID (0000000400000001).
+13-Dec-18 15:25:48 : Inserting entity with GID (0000000400000002).
+13-Dec-18 15:25:48 : Inserting entity with GID (0000000300000001).
+13-Dec-18 15:25:48 : Inserting entity with GID (0000000300000002).
+13-Dec-18 15:25:48 : Inserting entity with GID (0000000300000003).
+13-Dec-18 15:25:48 : Inserting entity with GID (0000000300000004).
+13-Dec-18 15:25:48 : Inserting entity with GID (0000000300000005).
+13-Dec-18 15:25:48 : Inserting entity with GID (0000000200000003).
+13-Dec-18 15:25:48 : Inserting entity with GID (0000000200000004).
+13-Dec-18 15:25:48 : Inserting entity with GID (0000000100000005).
+13-Dec-18 15:25:48 : Inserting entity with GID (0000000100000006).
+13-Dec-18 15:25:48 : Inserting entity with GID (0000000100000007).
+13-Dec-18 15:25:48 : Inserting entity with GID (0000000100000008).
+13-Dec-18 15:25:48 : Inserting entity with GID (0000000500000003).
+13-Dec-18 15:25:48 : Inserting entity with GID (0000000500000004).
+13-Dec-18 15:25:48 : Inserting entity with GID (0000000600000004).
+13-Dec-18 15:25:48 : Inserting entity with GID (0000000600000005).
+13-Dec-18 15:25:48 : Inserting entity with GID (0000000600000006).
+13-Dec-18 15:25:48 : Inserting entity with GID (0000000400000003).
+13-Dec-18 15:25:48 : Inserting entity with GID (0000000400000004).
+13-Dec-18 15:25:48 : Inserting entity with GID (0000000300000006).
+13-Dec-18 15:25:48 : Inserting entity with GID (0000000300000007).
+13-Dec-18 15:25:48 : Inserting entity with GID (0000000300000008).
+13-Dec-18 15:25:48 : Inserting entity with GID (0000000300000009).
+13-Dec-18 15:25:48 : Inserting entity with GID (000000030000000a).
+13-Dec-18 15:25:50 : The WCF service GenericDataAccess is ready.
+13-Dec-18 15:25:50 : Endpoints:
+13-Dec-18 15:25:50 : net.tcp://localhost:10000/NetworkModelService/GDA/
+13-Dec-18 15:25:50 : Connection string: ../NetworkModelData.data
+13-Dec-18 15:25:50 : Trace level: Info
+13-Dec-18 15:25:50 : The Network Model Service is started.
+13-Dec-18 15:25:50 : Press <Enter> to stop the service.
+13-Dec-18 15:26:39 : Starting Network Model Serivice...
+13-Dec-18 15:26:40 : Inserting entity with GID (0000000200000001).
+13-Dec-18 15:26:40 : Inserting entity with GID (0000000200000002).
+13-Dec-18 15:26:40 : Inserting entity with GID (0000000100000001).
+13-Dec-18 15:26:40 : Inserting entity with GID (0000000100000002).
+13-Dec-18 15:26:40 : Inserting entity with GID (0000000100000003).
+13-Dec-18 15:26:40 : Inserting entity with GID (0000000100000004).
+13-Dec-18 15:26:40 : Inserting entity with GID (0000000500000001).
+13-Dec-18 15:26:40 : Inserting entity with GID (0000000500000002).
+13-Dec-18 15:26:40 : Inserting entity with GID (0000000600000001).
+13-Dec-18 15:26:40 : Inserting entity with GID (0000000600000002).
+13-Dec-18 15:26:40 : Inserting entity with GID (0000000600000003).
+13-Dec-18 15:26:40 : Inserting entity with GID (0000000400000001).
+13-Dec-18 15:26:40 : Inserting entity with GID (0000000400000002).
+13-Dec-18 15:26:40 : Inserting entity with GID (0000000300000001).
+13-Dec-18 15:26:40 : Inserting entity with GID (0000000300000002).
+13-Dec-18 15:26:40 : Inserting entity with GID (0000000300000003).
+13-Dec-18 15:26:40 : Inserting entity with GID (0000000300000004).
+13-Dec-18 15:26:40 : Inserting entity with GID (0000000300000005).
+13-Dec-18 15:26:40 : Inserting entity with GID (0000000200000003).
+13-Dec-18 15:26:40 : Inserting entity with GID (0000000200000004).
+13-Dec-18 15:26:40 : Inserting entity with GID (0000000100000005).
+13-Dec-18 15:26:40 : Inserting entity with GID (0000000100000006).
+13-Dec-18 15:26:40 : Inserting entity with GID (0000000100000007).
+13-Dec-18 15:26:40 : Inserting entity with GID (0000000100000008).
+13-Dec-18 15:26:40 : Inserting entity with GID (0000000500000003).
+13-Dec-18 15:26:40 : Inserting entity with GID (0000000500000004).
+13-Dec-18 15:26:40 : Inserting entity with GID (0000000600000004).
+13-Dec-18 15:26:40 : Inserting entity with GID (0000000600000005).
+13-Dec-18 15:26:40 : Inserting entity with GID (0000000600000006).
+13-Dec-18 15:26:40 : Inserting entity with GID (0000000400000003).
+13-Dec-18 15:26:40 : Inserting entity with GID (0000000400000004).
+13-Dec-18 15:26:40 : Inserting entity with GID (0000000300000006).
+13-Dec-18 15:26:40 : Inserting entity with GID (0000000300000007).
+13-Dec-18 15:26:40 : Inserting entity with GID (0000000300000008).
+13-Dec-18 15:26:40 : Inserting entity with GID (0000000300000009).
+13-Dec-18 15:26:40 : Inserting entity with GID (000000030000000a).
+13-Dec-18 15:26:41 : The WCF service GenericDataAccess is ready.
+13-Dec-18 15:26:41 : Endpoints:
+13-Dec-18 15:26:41 : net.tcp://localhost:10000/NetworkModelService/GDA/
+13-Dec-18 15:26:41 : Connection string: ../NetworkModelData.data
+13-Dec-18 15:26:41 : Trace level: Info
+13-Dec-18 15:26:41 : The Network Model Service is started.
+13-Dec-18 15:26:41 : Press <Enter> to stop the service.
+13-Dec-18 15:28:08 : Starting Network Model Serivice...
+13-Dec-18 15:28:08 : Inserting entity with GID (0000000200000001).
+13-Dec-18 15:28:08 : Inserting entity with GID (0000000200000002).
+13-Dec-18 15:28:08 : Inserting entity with GID (0000000100000001).
+13-Dec-18 15:28:08 : Inserting entity with GID (0000000100000002).
+13-Dec-18 15:28:08 : Inserting entity with GID (0000000100000003).
+13-Dec-18 15:28:08 : Inserting entity with GID (0000000100000004).
+13-Dec-18 15:28:08 : Inserting entity with GID (0000000500000001).
+13-Dec-18 15:28:08 : Inserting entity with GID (0000000500000002).
+13-Dec-18 15:28:08 : Inserting entity with GID (0000000600000001).
+13-Dec-18 15:28:08 : Inserting entity with GID (0000000600000002).
+13-Dec-18 15:28:08 : Inserting entity with GID (0000000600000003).
+13-Dec-18 15:28:08 : Inserting entity with GID (0000000400000001).
+13-Dec-18 15:28:08 : Inserting entity with GID (0000000400000002).
+13-Dec-18 15:28:08 : Inserting entity with GID (0000000300000001).
+13-Dec-18 15:28:08 : Inserting entity with GID (0000000300000002).
+13-Dec-18 15:28:08 : Inserting entity with GID (0000000300000003).
+13-Dec-18 15:28:08 : Inserting entity with GID (0000000300000004).
+13-Dec-18 15:28:08 : Inserting entity with GID (0000000300000005).
+13-Dec-18 15:28:08 : Inserting entity with GID (0000000200000003).
+13-Dec-18 15:28:08 : Inserting entity with GID (0000000200000004).
+13-Dec-18 15:28:08 : Inserting entity with GID (0000000100000005).
+13-Dec-18 15:28:08 : Inserting entity with GID (0000000100000006).
+13-Dec-18 15:28:08 : Inserting entity with GID (0000000100000007).
+13-Dec-18 15:28:08 : Inserting entity with GID (0000000100000008).
+13-Dec-18 15:28:08 : Inserting entity with GID (0000000500000003).
+13-Dec-18 15:28:08 : Inserting entity with GID (0000000500000004).
+13-Dec-18 15:28:08 : Inserting entity with GID (0000000600000004).
+13-Dec-18 15:28:08 : Inserting entity with GID (0000000600000005).
+13-Dec-18 15:28:08 : Inserting entity with GID (0000000600000006).
+13-Dec-18 15:28:08 : Inserting entity with GID (0000000400000003).
+13-Dec-18 15:28:08 : Inserting entity with GID (0000000400000004).
+13-Dec-18 15:28:08 : Inserting entity with GID (0000000300000006).
+13-Dec-18 15:28:08 : Inserting entity with GID (0000000300000007).
+13-Dec-18 15:28:08 : Inserting entity with GID (0000000300000008).
+13-Dec-18 15:28:08 : Inserting entity with GID (0000000300000009).
+13-Dec-18 15:28:08 : Inserting entity with GID (000000030000000a).
+13-Dec-18 15:28:10 : The WCF service GenericDataAccess is ready.
+13-Dec-18 15:28:10 : Endpoints:
+13-Dec-18 15:28:10 : net.tcp://localhost:10000/NetworkModelService/GDA/
+13-Dec-18 15:28:10 : Connection string: ../NetworkModelData.data
+13-Dec-18 15:28:10 : Trace level: Info
+13-Dec-18 15:28:10 : The Network Model Service is started.
+13-Dec-18 15:28:10 : Press <Enter> to stop the service.
+13-Dec-18 15:31:45 : Starting Network Model Serivice...
+13-Dec-18 15:31:45 : Inserting entity with GID (0000000200000001).
+13-Dec-18 15:31:45 : Inserting entity with GID (0000000200000002).
+13-Dec-18 15:31:45 : Inserting entity with GID (0000000100000001).
+13-Dec-18 15:31:45 : Inserting entity with GID (0000000100000002).
+13-Dec-18 15:31:45 : Inserting entity with GID (0000000100000003).
+13-Dec-18 15:31:45 : Inserting entity with GID (0000000100000004).
+13-Dec-18 15:31:45 : Inserting entity with GID (0000000500000001).
+13-Dec-18 15:31:45 : Inserting entity with GID (0000000500000002).
+13-Dec-18 15:31:45 : Inserting entity with GID (0000000600000001).
+13-Dec-18 15:31:45 : Inserting entity with GID (0000000600000002).
+13-Dec-18 15:31:45 : Inserting entity with GID (0000000600000003).
+13-Dec-18 15:31:45 : Inserting entity with GID (0000000400000001).
+13-Dec-18 15:31:45 : Inserting entity with GID (0000000400000002).
+13-Dec-18 15:31:45 : Inserting entity with GID (0000000300000001).
+13-Dec-18 15:31:45 : Inserting entity with GID (0000000300000002).
+13-Dec-18 15:31:45 : Inserting entity with GID (0000000300000003).
+13-Dec-18 15:31:45 : Inserting entity with GID (0000000300000004).
+13-Dec-18 15:31:45 : Inserting entity with GID (0000000300000005).
+13-Dec-18 15:31:45 : Inserting entity with GID (0000000200000003).
+13-Dec-18 15:31:45 : Inserting entity with GID (0000000200000004).
+13-Dec-18 15:31:45 : Inserting entity with GID (0000000100000005).
+13-Dec-18 15:31:45 : Inserting entity with GID (0000000100000006).
+13-Dec-18 15:31:45 : Inserting entity with GID (0000000100000007).
+13-Dec-18 15:31:45 : Inserting entity with GID (0000000100000008).
+13-Dec-18 15:31:45 : Inserting entity with GID (0000000500000003).
+13-Dec-18 15:31:45 : Inserting entity with GID (0000000500000004).
+13-Dec-18 15:31:45 : Inserting entity with GID (0000000600000004).
+13-Dec-18 15:31:45 : Inserting entity with GID (0000000600000005).
+13-Dec-18 15:31:45 : Inserting entity with GID (0000000600000006).
+13-Dec-18 15:31:45 : Inserting entity with GID (0000000400000003).
+13-Dec-18 15:31:45 : Inserting entity with GID (0000000400000004).
+13-Dec-18 15:31:45 : Inserting entity with GID (0000000300000006).
+13-Dec-18 15:31:45 : Inserting entity with GID (0000000300000007).
+13-Dec-18 15:31:45 : Inserting entity with GID (0000000300000008).
+13-Dec-18 15:31:45 : Inserting entity with GID (0000000300000009).
+13-Dec-18 15:31:45 : Inserting entity with GID (000000030000000a).
+13-Dec-18 15:31:46 : The WCF service GenericDataAccess is ready.
+13-Dec-18 15:31:46 : Endpoints:
+13-Dec-18 15:31:46 : net.tcp://localhost:10000/NetworkModelService/GDA/
+13-Dec-18 15:31:46 : Connection string: ../NetworkModelData.data
+13-Dec-18 15:31:46 : Trace level: Info
+13-Dec-18 15:31:46 : The Network Model Service is started.
+13-Dec-18 15:31:46 : Press <Enter> to stop the service.
+13-Dec-18 15:39:03 : Starting Network Model Serivice...
+13-Dec-18 15:39:03 : Inserting entity with GID (0000000200000001).
+13-Dec-18 15:39:03 : Inserting entity with GID (0000000200000002).
+13-Dec-18 15:39:03 : Inserting entity with GID (0000000100000001).
+13-Dec-18 15:39:03 : Inserting entity with GID (0000000100000002).
+13-Dec-18 15:39:03 : Inserting entity with GID (0000000100000003).
+13-Dec-18 15:39:03 : Inserting entity with GID (0000000100000004).
+13-Dec-18 15:39:03 : Inserting entity with GID (0000000500000001).
+13-Dec-18 15:39:03 : Inserting entity with GID (0000000500000002).
+13-Dec-18 15:39:03 : Inserting entity with GID (0000000600000001).
+13-Dec-18 15:39:03 : Inserting entity with GID (0000000600000002).
+13-Dec-18 15:39:03 : Inserting entity with GID (0000000600000003).
+13-Dec-18 15:39:03 : Inserting entity with GID (0000000400000001).
+13-Dec-18 15:39:03 : Inserting entity with GID (0000000400000002).
+13-Dec-18 15:39:03 : Inserting entity with GID (0000000300000001).
+13-Dec-18 15:39:03 : Inserting entity with GID (0000000300000002).
+13-Dec-18 15:39:03 : Inserting entity with GID (0000000300000003).
+13-Dec-18 15:39:03 : Inserting entity with GID (0000000300000004).
+13-Dec-18 15:39:03 : Inserting entity with GID (0000000300000005).
+13-Dec-18 15:39:03 : Inserting entity with GID (0000000200000003).
+13-Dec-18 15:39:03 : Inserting entity with GID (0000000200000004).
+13-Dec-18 15:39:03 : Inserting entity with GID (0000000100000005).
+13-Dec-18 15:39:03 : Inserting entity with GID (0000000100000006).
+13-Dec-18 15:39:03 : Inserting entity with GID (0000000100000007).
+13-Dec-18 15:39:03 : Inserting entity with GID (0000000100000008).
+13-Dec-18 15:39:03 : Inserting entity with GID (0000000500000003).
+13-Dec-18 15:39:03 : Inserting entity with GID (0000000500000004).
+13-Dec-18 15:39:03 : Inserting entity with GID (0000000600000004).
+13-Dec-18 15:39:03 : Inserting entity with GID (0000000600000005).
+13-Dec-18 15:39:03 : Inserting entity with GID (0000000600000006).
+13-Dec-18 15:39:03 : Inserting entity with GID (0000000400000003).
+13-Dec-18 15:39:03 : Inserting entity with GID (0000000400000004).
+13-Dec-18 15:39:03 : Inserting entity with GID (0000000300000006).
+13-Dec-18 15:39:03 : Inserting entity with GID (0000000300000007).
+13-Dec-18 15:39:03 : Inserting entity with GID (0000000300000008).
+13-Dec-18 15:39:03 : Inserting entity with GID (0000000300000009).
+13-Dec-18 15:39:03 : Inserting entity with GID (000000030000000a).
+13-Dec-18 15:39:04 : The WCF service GenericDataAccess is ready.
+13-Dec-18 15:39:04 : Endpoints:
+13-Dec-18 15:39:04 : net.tcp://localhost:10000/NetworkModelService/GDA/
+13-Dec-18 15:39:04 : Connection string: ../NetworkModelData.data
+13-Dec-18 15:39:04 : Trace level: Info
+13-Dec-18 15:39:04 : The Network Model Service is started.
+13-Dec-18 15:39:04 : Press <Enter> to stop the service.
+13-Dec-18 15:44:04 : Starting Network Model Serivice...
+13-Dec-18 15:44:04 : Inserting entity with GID (0000000200000001).
+13-Dec-18 15:44:04 : Inserting entity with GID (0000000200000002).
+13-Dec-18 15:44:04 : Inserting entity with GID (0000000100000001).
+13-Dec-18 15:44:04 : Inserting entity with GID (0000000100000002).
+13-Dec-18 15:44:04 : Inserting entity with GID (0000000100000003).
+13-Dec-18 15:44:04 : Inserting entity with GID (0000000100000004).
+13-Dec-18 15:44:04 : Inserting entity with GID (0000000500000001).
+13-Dec-18 15:44:04 : Inserting entity with GID (0000000500000002).
+13-Dec-18 15:44:04 : Inserting entity with GID (0000000600000001).
+13-Dec-18 15:44:04 : Inserting entity with GID (0000000600000002).
+13-Dec-18 15:44:04 : Inserting entity with GID (0000000600000003).
+13-Dec-18 15:44:04 : Inserting entity with GID (0000000400000001).
+13-Dec-18 15:44:04 : Inserting entity with GID (0000000400000002).
+13-Dec-18 15:44:04 : Inserting entity with GID (0000000300000001).
+13-Dec-18 15:44:04 : Inserting entity with GID (0000000300000002).
+13-Dec-18 15:44:04 : Inserting entity with GID (0000000300000003).
+13-Dec-18 15:44:04 : Inserting entity with GID (0000000300000004).
+13-Dec-18 15:44:04 : Inserting entity with GID (0000000300000005).
+13-Dec-18 15:44:04 : Inserting entity with GID (0000000200000003).
+13-Dec-18 15:44:04 : Inserting entity with GID (0000000200000004).
+13-Dec-18 15:44:04 : Inserting entity with GID (0000000100000005).
+13-Dec-18 15:44:04 : Inserting entity with GID (0000000100000006).
+13-Dec-18 15:44:04 : Inserting entity with GID (0000000100000007).
+13-Dec-18 15:44:04 : Inserting entity with GID (0000000100000008).
+13-Dec-18 15:44:04 : Inserting entity with GID (0000000500000003).
+13-Dec-18 15:44:04 : Inserting entity with GID (0000000500000004).
+13-Dec-18 15:44:04 : Inserting entity with GID (0000000600000004).
+13-Dec-18 15:44:04 : Inserting entity with GID (0000000600000005).
+13-Dec-18 15:44:04 : Inserting entity with GID (0000000600000006).
+13-Dec-18 15:44:04 : Inserting entity with GID (0000000400000003).
+13-Dec-18 15:44:04 : Inserting entity with GID (0000000400000004).
+13-Dec-18 15:44:04 : Inserting entity with GID (0000000300000006).
+13-Dec-18 15:44:04 : Inserting entity with GID (0000000300000007).
+13-Dec-18 15:44:04 : Inserting entity with GID (0000000300000008).
+13-Dec-18 15:44:04 : Inserting entity with GID (0000000300000009).
+13-Dec-18 15:44:04 : Inserting entity with GID (000000030000000a).
+13-Dec-18 15:44:05 : The WCF service GenericDataAccess is ready.
+13-Dec-18 15:44:05 : Endpoints:
+13-Dec-18 15:44:05 : net.tcp://localhost:10000/NetworkModelService/GDA/
+13-Dec-18 15:44:05 : Connection string: ../NetworkModelData.data
+13-Dec-18 15:44:05 : Trace level: Info
+13-Dec-18 15:44:05 : The Network Model Service is started.
+13-Dec-18 15:44:05 : Press <Enter> to stop the service.
+13-Dec-18 15:50:43 : Starting Network Model Serivice...
+13-Dec-18 15:50:44 : Inserting entity with GID (0000000200000001).
+13-Dec-18 15:50:44 : Inserting entity with GID (0000000200000002).
+13-Dec-18 15:50:44 : Inserting entity with GID (0000000100000001).
+13-Dec-18 15:50:44 : Inserting entity with GID (0000000100000002).
+13-Dec-18 15:50:44 : Inserting entity with GID (0000000100000003).
+13-Dec-18 15:50:44 : Inserting entity with GID (0000000100000004).
+13-Dec-18 15:50:44 : Inserting entity with GID (0000000500000001).
+13-Dec-18 15:50:44 : Inserting entity with GID (0000000500000002).
+13-Dec-18 15:50:44 : Inserting entity with GID (0000000600000001).
+13-Dec-18 15:50:44 : Inserting entity with GID (0000000600000002).
+13-Dec-18 15:50:44 : Inserting entity with GID (0000000600000003).
+13-Dec-18 15:50:44 : Inserting entity with GID (0000000400000001).
+13-Dec-18 15:50:44 : Inserting entity with GID (0000000400000002).
+13-Dec-18 15:50:44 : Inserting entity with GID (0000000300000001).
+13-Dec-18 15:50:44 : Inserting entity with GID (0000000300000002).
+13-Dec-18 15:50:44 : Inserting entity with GID (0000000300000003).
+13-Dec-18 15:50:44 : Inserting entity with GID (0000000300000004).
+13-Dec-18 15:50:44 : Inserting entity with GID (0000000300000005).
+13-Dec-18 15:50:44 : Inserting entity with GID (0000000200000003).
+13-Dec-18 15:50:44 : Inserting entity with GID (0000000200000004).
+13-Dec-18 15:50:44 : Inserting entity with GID (0000000100000005).
+13-Dec-18 15:50:44 : Inserting entity with GID (0000000100000006).
+13-Dec-18 15:50:44 : Inserting entity with GID (0000000100000007).
+13-Dec-18 15:50:44 : Inserting entity with GID (0000000100000008).
+13-Dec-18 15:50:44 : Inserting entity with GID (0000000500000003).
+13-Dec-18 15:50:44 : Inserting entity with GID (0000000500000004).
+13-Dec-18 15:50:44 : Inserting entity with GID (0000000600000004).
+13-Dec-18 15:50:44 : Inserting entity with GID (0000000600000005).
+13-Dec-18 15:50:44 : Inserting entity with GID (0000000600000006).
+13-Dec-18 15:50:44 : Inserting entity with GID (0000000400000003).
+13-Dec-18 15:50:44 : Inserting entity with GID (0000000400000004).
+13-Dec-18 15:50:44 : Inserting entity with GID (0000000300000006).
+13-Dec-18 15:50:44 : Inserting entity with GID (0000000300000007).
+13-Dec-18 15:50:44 : Inserting entity with GID (0000000300000008).
+13-Dec-18 15:50:44 : Inserting entity with GID (0000000300000009).
+13-Dec-18 15:50:44 : Inserting entity with GID (000000030000000a).
+13-Dec-18 15:50:45 : The WCF service GenericDataAccess is ready.
+13-Dec-18 15:50:45 : Endpoints:
+13-Dec-18 15:50:45 : net.tcp://localhost:10000/NetworkModelService/GDA/
+13-Dec-18 15:50:45 : Connection string: ../NetworkModelData.data
+13-Dec-18 15:50:45 : Trace level: Info
+13-Dec-18 15:50:45 : The Network Model Service is started.
+13-Dec-18 15:50:45 : Press <Enter> to stop the service.
+13-Dec-18 16:11:56 : Starting Network Model Serivice...
+13-Dec-18 16:11:56 : Inserting entity with GID (0000000200000001).
+13-Dec-18 16:11:56 : Inserting entity with GID (0000000200000002).
+13-Dec-18 16:11:56 : Inserting entity with GID (0000000100000001).
+13-Dec-18 16:11:56 : Inserting entity with GID (0000000100000002).
+13-Dec-18 16:11:56 : Inserting entity with GID (0000000100000003).
+13-Dec-18 16:11:56 : Inserting entity with GID (0000000100000004).
+13-Dec-18 16:11:56 : Inserting entity with GID (0000000500000001).
+13-Dec-18 16:11:56 : Inserting entity with GID (0000000500000002).
+13-Dec-18 16:11:56 : Inserting entity with GID (0000000600000001).
+13-Dec-18 16:11:56 : Inserting entity with GID (0000000600000002).
+13-Dec-18 16:11:56 : Inserting entity with GID (0000000600000003).
+13-Dec-18 16:11:56 : Inserting entity with GID (0000000400000001).
+13-Dec-18 16:11:56 : Inserting entity with GID (0000000400000002).
+13-Dec-18 16:11:56 : Inserting entity with GID (0000000300000001).
+13-Dec-18 16:11:56 : Inserting entity with GID (0000000300000002).
+13-Dec-18 16:11:56 : Inserting entity with GID (0000000300000003).
+13-Dec-18 16:11:56 : Inserting entity with GID (0000000300000004).
+13-Dec-18 16:11:56 : Inserting entity with GID (0000000300000005).
+13-Dec-18 16:11:56 : Inserting entity with GID (0000000200000003).
+13-Dec-18 16:11:56 : Inserting entity with GID (0000000200000004).
+13-Dec-18 16:11:56 : Inserting entity with GID (0000000100000005).
+13-Dec-18 16:11:56 : Inserting entity with GID (0000000100000006).
+13-Dec-18 16:11:56 : Inserting entity with GID (0000000100000007).
+13-Dec-18 16:11:56 : Inserting entity with GID (0000000100000008).
+13-Dec-18 16:11:56 : Inserting entity with GID (0000000500000003).
+13-Dec-18 16:11:56 : Inserting entity with GID (0000000500000004).
+13-Dec-18 16:11:56 : Inserting entity with GID (0000000600000004).
+13-Dec-18 16:11:56 : Inserting entity with GID (0000000600000005).
+13-Dec-18 16:11:56 : Inserting entity with GID (0000000600000006).
+13-Dec-18 16:11:56 : Inserting entity with GID (0000000400000003).
+13-Dec-18 16:11:56 : Inserting entity with GID (0000000400000004).
+13-Dec-18 16:11:56 : Inserting entity with GID (0000000300000006).
+13-Dec-18 16:11:56 : Inserting entity with GID (0000000300000007).
+13-Dec-18 16:11:56 : Inserting entity with GID (0000000300000008).
+13-Dec-18 16:11:56 : Inserting entity with GID (0000000300000009).
+13-Dec-18 16:11:56 : Inserting entity with GID (000000030000000a).
+13-Dec-18 16:11:58 : The WCF service GenericDataAccess is ready.
+13-Dec-18 16:11:58 : Endpoints:
+13-Dec-18 16:11:58 : net.tcp://localhost:10000/NetworkModelService/GDA/
+13-Dec-18 16:11:58 : Connection string: ../NetworkModelData.data
+13-Dec-18 16:11:58 : Trace level: Info
+13-Dec-18 16:11:58 : The Network Model Service is started.
+13-Dec-18 16:11:58 : Press <Enter> to stop the service.
+13-Dec-18 16:29:04 : Starting Network Model Serivice...
+13-Dec-18 16:29:04 : Inserting entity with GID (0000000200000001).
+13-Dec-18 16:29:04 : Inserting entity with GID (0000000200000002).
+13-Dec-18 16:29:04 : Inserting entity with GID (0000000100000001).
+13-Dec-18 16:29:04 : Inserting entity with GID (0000000100000002).
+13-Dec-18 16:29:04 : Inserting entity with GID (0000000100000003).
+13-Dec-18 16:29:04 : Inserting entity with GID (0000000100000004).
+13-Dec-18 16:29:04 : Inserting entity with GID (0000000500000001).
+13-Dec-18 16:29:04 : Inserting entity with GID (0000000500000002).
+13-Dec-18 16:29:04 : Inserting entity with GID (0000000600000001).
+13-Dec-18 16:29:04 : Inserting entity with GID (0000000600000002).
+13-Dec-18 16:29:04 : Inserting entity with GID (0000000600000003).
+13-Dec-18 16:29:04 : Inserting entity with GID (0000000400000001).
+13-Dec-18 16:29:04 : Inserting entity with GID (0000000400000002).
+13-Dec-18 16:29:04 : Inserting entity with GID (0000000300000001).
+13-Dec-18 16:29:04 : Inserting entity with GID (0000000300000002).
+13-Dec-18 16:29:04 : Inserting entity with GID (0000000300000003).
+13-Dec-18 16:29:04 : Inserting entity with GID (0000000300000004).
+13-Dec-18 16:29:04 : Inserting entity with GID (0000000300000005).
+13-Dec-18 16:29:04 : Inserting entity with GID (0000000200000003).
+13-Dec-18 16:29:04 : Inserting entity with GID (0000000200000004).
+13-Dec-18 16:29:04 : Inserting entity with GID (0000000100000005).
+13-Dec-18 16:29:04 : Inserting entity with GID (0000000100000006).
+13-Dec-18 16:29:04 : Inserting entity with GID (0000000100000007).
+13-Dec-18 16:29:04 : Inserting entity with GID (0000000100000008).
+13-Dec-18 16:29:04 : Inserting entity with GID (0000000500000003).
+13-Dec-18 16:29:04 : Inserting entity with GID (0000000500000004).
+13-Dec-18 16:29:04 : Inserting entity with GID (0000000600000004).
+13-Dec-18 16:29:04 : Inserting entity with GID (0000000600000005).
+13-Dec-18 16:29:04 : Inserting entity with GID (0000000600000006).
+13-Dec-18 16:29:04 : Inserting entity with GID (0000000400000003).
+13-Dec-18 16:29:04 : Inserting entity with GID (0000000400000004).
+13-Dec-18 16:29:04 : Inserting entity with GID (0000000300000006).
+13-Dec-18 16:29:04 : Inserting entity with GID (0000000300000007).
+13-Dec-18 16:29:04 : Inserting entity with GID (0000000300000008).
+13-Dec-18 16:29:04 : Inserting entity with GID (0000000300000009).
+13-Dec-18 16:29:04 : Inserting entity with GID (000000030000000a).
+13-Dec-18 16:29:05 : The WCF service GenericDataAccess is ready.
+13-Dec-18 16:29:05 : Endpoints:
+13-Dec-18 16:29:05 : net.tcp://localhost:10000/NetworkModelService/GDA/
+13-Dec-18 16:29:05 : Connection string: ../NetworkModelData.data
+13-Dec-18 16:29:05 : Trace level: Info
+13-Dec-18 16:29:05 : The Network Model Service is started.
+13-Dec-18 16:29:05 : Press <Enter> to stop the service.
+13-Dec-18 16:54:59 : Starting Network Model Serivice...
+13-Dec-18 16:55:00 : Inserting entity with GID (0000000200000001).
+13-Dec-18 16:55:00 : Inserting entity with GID (0000000200000002).
+13-Dec-18 16:55:00 : Inserting entity with GID (0000000100000001).
+13-Dec-18 16:55:00 : Inserting entity with GID (0000000100000002).
+13-Dec-18 16:55:00 : Inserting entity with GID (0000000100000003).
+13-Dec-18 16:55:00 : Inserting entity with GID (0000000100000004).
+13-Dec-18 16:55:00 : Inserting entity with GID (0000000500000001).
+13-Dec-18 16:55:00 : Inserting entity with GID (0000000500000002).
+13-Dec-18 16:55:00 : Inserting entity with GID (0000000600000001).
+13-Dec-18 16:55:00 : Inserting entity with GID (0000000600000002).
+13-Dec-18 16:55:00 : Inserting entity with GID (0000000600000003).
+13-Dec-18 16:55:00 : Inserting entity with GID (0000000400000001).
+13-Dec-18 16:55:00 : Inserting entity with GID (0000000400000002).
+13-Dec-18 16:55:00 : Inserting entity with GID (0000000300000001).
+13-Dec-18 16:55:00 : Inserting entity with GID (0000000300000002).
+13-Dec-18 16:55:00 : Inserting entity with GID (0000000300000003).
+13-Dec-18 16:55:00 : Inserting entity with GID (0000000300000004).
+13-Dec-18 16:55:00 : Inserting entity with GID (0000000300000005).
+13-Dec-18 16:55:00 : Inserting entity with GID (0000000200000003).
+13-Dec-18 16:55:00 : Inserting entity with GID (0000000200000004).
+13-Dec-18 16:55:00 : Inserting entity with GID (0000000100000005).
+13-Dec-18 16:55:00 : Inserting entity with GID (0000000100000006).
+13-Dec-18 16:55:00 : Inserting entity with GID (0000000100000007).
+13-Dec-18 16:55:00 : Inserting entity with GID (0000000100000008).
+13-Dec-18 16:55:00 : Inserting entity with GID (0000000500000003).
+13-Dec-18 16:55:00 : Inserting entity with GID (0000000500000004).
+13-Dec-18 16:55:00 : Inserting entity with GID (0000000600000004).
+13-Dec-18 16:55:00 : Inserting entity with GID (0000000600000005).
+13-Dec-18 16:55:00 : Inserting entity with GID (0000000600000006).
+13-Dec-18 16:55:00 : Inserting entity with GID (0000000400000003).
+13-Dec-18 16:55:00 : Inserting entity with GID (0000000400000004).
+13-Dec-18 16:55:00 : Inserting entity with GID (0000000300000006).
+13-Dec-18 16:55:00 : Inserting entity with GID (0000000300000007).
+13-Dec-18 16:55:00 : Inserting entity with GID (0000000300000008).
+13-Dec-18 16:55:00 : Inserting entity with GID (0000000300000009).
+13-Dec-18 16:55:00 : Inserting entity with GID (000000030000000a).
+13-Dec-18 16:55:01 : The WCF service GenericDataAccess is ready.
+13-Dec-18 16:55:01 : Endpoints:
+13-Dec-18 16:55:01 : net.tcp://localhost:10000/NetworkModelService/GDA/
+13-Dec-18 16:55:01 : Connection string: ../NetworkModelData.data
+13-Dec-18 16:55:01 : Trace level: Info
+13-Dec-18 16:55:01 : The Network Model Service is started.
+13-Dec-18 16:55:01 : Press <Enter> to stop the service.
+13-Dec-18 18:41:50 : Starting Network Model Serivice...
+13-Dec-18 18:41:50 : Inserting entity with GID (0000000200000001).
+13-Dec-18 18:41:50 : Inserting entity with GID (0000000200000002).
+13-Dec-18 18:41:50 : Inserting entity with GID (0000000100000001).
+13-Dec-18 18:41:50 : Inserting entity with GID (0000000100000002).
+13-Dec-18 18:41:50 : Inserting entity with GID (0000000100000003).
+13-Dec-18 18:41:50 : Inserting entity with GID (0000000100000004).
+13-Dec-18 18:41:50 : Inserting entity with GID (0000000500000001).
+13-Dec-18 18:41:50 : Inserting entity with GID (0000000500000002).
+13-Dec-18 18:41:50 : Inserting entity with GID (0000000600000001).
+13-Dec-18 18:41:50 : Inserting entity with GID (0000000600000002).
+13-Dec-18 18:41:50 : Inserting entity with GID (0000000600000003).
+13-Dec-18 18:41:50 : Inserting entity with GID (0000000400000001).
+13-Dec-18 18:41:50 : Inserting entity with GID (0000000400000002).
+13-Dec-18 18:41:50 : Inserting entity with GID (0000000300000001).
+13-Dec-18 18:41:50 : Inserting entity with GID (0000000300000002).
+13-Dec-18 18:41:50 : Inserting entity with GID (0000000300000003).
+13-Dec-18 18:41:50 : Inserting entity with GID (0000000300000004).
+13-Dec-18 18:41:50 : Inserting entity with GID (0000000300000005).
+13-Dec-18 18:41:50 : Inserting entity with GID (0000000200000003).
+13-Dec-18 18:41:50 : Inserting entity with GID (0000000200000004).
+13-Dec-18 18:41:50 : Inserting entity with GID (0000000100000005).
+13-Dec-18 18:41:50 : Inserting entity with GID (0000000100000006).
+13-Dec-18 18:41:50 : Inserting entity with GID (0000000100000007).
+13-Dec-18 18:41:50 : Inserting entity with GID (0000000100000008).
+13-Dec-18 18:41:50 : Inserting entity with GID (0000000500000003).
+13-Dec-18 18:41:50 : Inserting entity with GID (0000000500000004).
+13-Dec-18 18:41:50 : Inserting entity with GID (0000000600000004).
+13-Dec-18 18:41:50 : Inserting entity with GID (0000000600000005).
+13-Dec-18 18:41:50 : Inserting entity with GID (0000000600000006).
+13-Dec-18 18:41:50 : Inserting entity with GID (0000000400000003).
+13-Dec-18 18:41:50 : Inserting entity with GID (0000000400000004).
+13-Dec-18 18:41:50 : Inserting entity with GID (0000000300000006).
+13-Dec-18 18:41:50 : Inserting entity with GID (0000000300000007).
+13-Dec-18 18:41:50 : Inserting entity with GID (0000000300000008).
+13-Dec-18 18:41:50 : Inserting entity with GID (0000000300000009).
+13-Dec-18 18:41:50 : Inserting entity with GID (000000030000000a).
+13-Dec-18 18:41:52 : The WCF service GenericDataAccess is ready.
+13-Dec-18 18:41:52 : Endpoints:
+13-Dec-18 18:41:52 : net.tcp://localhost:10000/NetworkModelService/GDA/
+13-Dec-18 18:41:52 : Connection string: ../NetworkModelData.data
+13-Dec-18 18:41:52 : Trace level: Info
+13-Dec-18 18:41:52 : The Network Model Service is started.
+13-Dec-18 18:41:52 : Press <Enter> to stop the service.
+13-Dec-18 18:48:30 : Starting Network Model Serivice...
+13-Dec-18 18:48:30 : Inserting entity with GID (0000000200000001).
+13-Dec-18 18:48:30 : Inserting entity with GID (0000000200000002).
+13-Dec-18 18:48:30 : Inserting entity with GID (0000000100000001).
+13-Dec-18 18:48:30 : Inserting entity with GID (0000000100000002).
+13-Dec-18 18:48:30 : Inserting entity with GID (0000000100000003).
+13-Dec-18 18:48:30 : Inserting entity with GID (0000000100000004).
+13-Dec-18 18:48:30 : Inserting entity with GID (0000000500000001).
+13-Dec-18 18:48:30 : Inserting entity with GID (0000000500000002).
+13-Dec-18 18:48:30 : Inserting entity with GID (0000000600000001).
+13-Dec-18 18:48:30 : Inserting entity with GID (0000000600000002).
+13-Dec-18 18:48:30 : Inserting entity with GID (0000000600000003).
+13-Dec-18 18:48:30 : Inserting entity with GID (0000000400000001).
+13-Dec-18 18:48:30 : Inserting entity with GID (0000000400000002).
+13-Dec-18 18:48:30 : Inserting entity with GID (0000000300000001).
+13-Dec-18 18:48:30 : Inserting entity with GID (0000000300000002).
+13-Dec-18 18:48:30 : Inserting entity with GID (0000000300000003).
+13-Dec-18 18:48:30 : Inserting entity with GID (0000000300000004).
+13-Dec-18 18:48:30 : Inserting entity with GID (0000000300000005).
+13-Dec-18 18:48:30 : Inserting entity with GID (0000000200000003).
+13-Dec-18 18:48:30 : Inserting entity with GID (0000000200000004).
+13-Dec-18 18:48:30 : Inserting entity with GID (0000000100000005).
+13-Dec-18 18:48:30 : Inserting entity with GID (0000000100000006).
+13-Dec-18 18:48:30 : Inserting entity with GID (0000000100000007).
+13-Dec-18 18:48:30 : Inserting entity with GID (0000000100000008).
+13-Dec-18 18:48:30 : Inserting entity with GID (0000000500000003).
+13-Dec-18 18:48:30 : Inserting entity with GID (0000000500000004).
+13-Dec-18 18:48:30 : Inserting entity with GID (0000000600000004).
+13-Dec-18 18:48:30 : Inserting entity with GID (0000000600000005).
+13-Dec-18 18:48:30 : Inserting entity with GID (0000000600000006).
+13-Dec-18 18:48:30 : Inserting entity with GID (0000000400000003).
+13-Dec-18 18:48:30 : Inserting entity with GID (0000000400000004).
+13-Dec-18 18:48:30 : Inserting entity with GID (0000000300000006).
+13-Dec-18 18:48:30 : Inserting entity with GID (0000000300000007).
+13-Dec-18 18:48:30 : Inserting entity with GID (0000000300000008).
+13-Dec-18 18:48:30 : Inserting entity with GID (0000000300000009).
+13-Dec-18 18:48:30 : Inserting entity with GID (000000030000000a).
+13-Dec-18 18:48:32 : The WCF service GenericDataAccess is ready.
+13-Dec-18 18:48:32 : Endpoints:
+13-Dec-18 18:48:32 : net.tcp://localhost:10000/NetworkModelService/GDA/
+13-Dec-18 18:48:32 : Connection string: ../NetworkModelData.data
+13-Dec-18 18:48:32 : Trace level: Info
+13-Dec-18 18:48:32 : The Network Model Service is started.
+13-Dec-18 18:48:32 : Press <Enter> to stop the service.
+13-Dec-18 18:49:20 : Starting Network Model Serivice...
+13-Dec-18 18:49:20 : Inserting entity with GID (0000000200000001).
+13-Dec-18 18:49:20 : Inserting entity with GID (0000000200000002).
+13-Dec-18 18:49:20 : Inserting entity with GID (0000000100000001).
+13-Dec-18 18:49:20 : Inserting entity with GID (0000000100000002).
+13-Dec-18 18:49:20 : Inserting entity with GID (0000000100000003).
+13-Dec-18 18:49:20 : Inserting entity with GID (0000000100000004).
+13-Dec-18 18:49:20 : Inserting entity with GID (0000000500000001).
+13-Dec-18 18:49:20 : Inserting entity with GID (0000000500000002).
+13-Dec-18 18:49:20 : Inserting entity with GID (0000000600000001).
+13-Dec-18 18:49:20 : Inserting entity with GID (0000000600000002).
+13-Dec-18 18:49:20 : Inserting entity with GID (0000000600000003).
+13-Dec-18 18:49:20 : Inserting entity with GID (0000000400000001).
+13-Dec-18 18:49:20 : Inserting entity with GID (0000000400000002).
+13-Dec-18 18:49:20 : Inserting entity with GID (0000000300000001).
+13-Dec-18 18:49:20 : Inserting entity with GID (0000000300000002).
+13-Dec-18 18:49:20 : Inserting entity with GID (0000000300000003).
+13-Dec-18 18:49:20 : Inserting entity with GID (0000000300000004).
+13-Dec-18 18:49:20 : Inserting entity with GID (0000000300000005).
+13-Dec-18 18:49:20 : Inserting entity with GID (0000000200000003).
+13-Dec-18 18:49:20 : Inserting entity with GID (0000000200000004).
+13-Dec-18 18:49:20 : Inserting entity with GID (0000000100000005).
+13-Dec-18 18:49:20 : Inserting entity with GID (0000000100000006).
+13-Dec-18 18:49:20 : Inserting entity with GID (0000000100000007).
+13-Dec-18 18:49:20 : Inserting entity with GID (0000000100000008).
+13-Dec-18 18:49:20 : Inserting entity with GID (0000000500000003).
+13-Dec-18 18:49:20 : Inserting entity with GID (0000000500000004).
+13-Dec-18 18:49:20 : Inserting entity with GID (0000000600000004).
+13-Dec-18 18:49:20 : Inserting entity with GID (0000000600000005).
+13-Dec-18 18:49:20 : Inserting entity with GID (0000000600000006).
+13-Dec-18 18:49:20 : Inserting entity with GID (0000000400000003).
+13-Dec-18 18:49:20 : Inserting entity with GID (0000000400000004).
+13-Dec-18 18:49:20 : Inserting entity with GID (0000000300000006).
+13-Dec-18 18:49:20 : Inserting entity with GID (0000000300000007).
+13-Dec-18 18:49:20 : Inserting entity with GID (0000000300000008).
+13-Dec-18 18:49:20 : Inserting entity with GID (0000000300000009).
+13-Dec-18 18:49:20 : Inserting entity with GID (000000030000000a).
+13-Dec-18 18:49:21 : The WCF service GenericDataAccess is ready.
+13-Dec-18 18:49:21 : Endpoints:
+13-Dec-18 18:49:21 : net.tcp://localhost:10000/NetworkModelService/GDA/
+13-Dec-18 18:49:21 : Connection string: ../NetworkModelData.data
+13-Dec-18 18:49:21 : Trace level: Info
+13-Dec-18 18:49:21 : The Network Model Service is started.
+13-Dec-18 18:49:21 : Press <Enter> to stop the service.
+13-Dec-18 18:52:58 : Starting Network Model Serivice...
+13-Dec-18 18:52:58 : Inserting entity with GID (0000000200000001).
+13-Dec-18 18:52:58 : Inserting entity with GID (0000000200000002).
+13-Dec-18 18:52:58 : Inserting entity with GID (0000000100000001).
+13-Dec-18 18:52:58 : Inserting entity with GID (0000000100000002).
+13-Dec-18 18:52:58 : Inserting entity with GID (0000000100000003).
+13-Dec-18 18:52:58 : Inserting entity with GID (0000000100000004).
+13-Dec-18 18:52:58 : Inserting entity with GID (0000000500000001).
+13-Dec-18 18:52:58 : Inserting entity with GID (0000000500000002).
+13-Dec-18 18:52:58 : Inserting entity with GID (0000000600000001).
+13-Dec-18 18:52:58 : Inserting entity with GID (0000000600000002).
+13-Dec-18 18:52:58 : Inserting entity with GID (0000000600000003).
+13-Dec-18 18:52:58 : Inserting entity with GID (0000000400000001).
+13-Dec-18 18:52:58 : Inserting entity with GID (0000000400000002).
+13-Dec-18 18:52:58 : Inserting entity with GID (0000000300000001).
+13-Dec-18 18:52:58 : Inserting entity with GID (0000000300000002).
+13-Dec-18 18:52:58 : Inserting entity with GID (0000000300000003).
+13-Dec-18 18:52:58 : Inserting entity with GID (0000000300000004).
+13-Dec-18 18:52:58 : Inserting entity with GID (0000000300000005).
+13-Dec-18 18:52:58 : Inserting entity with GID (0000000200000003).
+13-Dec-18 18:52:58 : Inserting entity with GID (0000000200000004).
+13-Dec-18 18:52:58 : Inserting entity with GID (0000000100000005).
+13-Dec-18 18:52:58 : Inserting entity with GID (0000000100000006).
+13-Dec-18 18:52:58 : Inserting entity with GID (0000000100000007).
+13-Dec-18 18:52:58 : Inserting entity with GID (0000000100000008).
+13-Dec-18 18:52:58 : Inserting entity with GID (0000000500000003).
+13-Dec-18 18:52:58 : Inserting entity with GID (0000000500000004).
+13-Dec-18 18:52:58 : Inserting entity with GID (0000000600000004).
+13-Dec-18 18:52:58 : Inserting entity with GID (0000000600000005).
+13-Dec-18 18:52:58 : Inserting entity with GID (0000000600000006).
+13-Dec-18 18:52:58 : Inserting entity with GID (0000000400000003).
+13-Dec-18 18:52:58 : Inserting entity with GID (0000000400000004).
+13-Dec-18 18:52:58 : Inserting entity with GID (0000000300000006).
+13-Dec-18 18:52:58 : Inserting entity with GID (0000000300000007).
+13-Dec-18 18:52:58 : Inserting entity with GID (0000000300000008).
+13-Dec-18 18:52:58 : Inserting entity with GID (0000000300000009).
+13-Dec-18 18:52:58 : Inserting entity with GID (000000030000000a).
+13-Dec-18 18:53:00 : The WCF service GenericDataAccess is ready.
+13-Dec-18 18:53:00 : Endpoints:
+13-Dec-18 18:53:00 : net.tcp://localhost:10000/NetworkModelService/GDA/
+13-Dec-18 18:53:00 : Connection string: ../NetworkModelData.data
+13-Dec-18 18:53:00 : Trace level: Info
+13-Dec-18 18:53:00 : The Network Model Service is started.
+13-Dec-18 18:53:00 : Press <Enter> to stop the service.
+13-Dec-18 18:59:12 : Starting Network Model Serivice...
+13-Dec-18 18:59:12 : Inserting entity with GID (0000000200000001).
+13-Dec-18 18:59:12 : Inserting entity with GID (0000000200000002).
+13-Dec-18 18:59:12 : Inserting entity with GID (0000000100000001).
+13-Dec-18 18:59:12 : Inserting entity with GID (0000000100000002).
+13-Dec-18 18:59:12 : Inserting entity with GID (0000000100000003).
+13-Dec-18 18:59:12 : Inserting entity with GID (0000000100000004).
+13-Dec-18 18:59:12 : Inserting entity with GID (0000000500000001).
+13-Dec-18 18:59:12 : Inserting entity with GID (0000000500000002).
+13-Dec-18 18:59:12 : Inserting entity with GID (0000000600000001).
+13-Dec-18 18:59:12 : Inserting entity with GID (0000000600000002).
+13-Dec-18 18:59:12 : Inserting entity with GID (0000000600000003).
+13-Dec-18 18:59:12 : Inserting entity with GID (0000000400000001).
+13-Dec-18 18:59:12 : Inserting entity with GID (0000000400000002).
+13-Dec-18 18:59:12 : Inserting entity with GID (0000000300000001).
+13-Dec-18 18:59:12 : Inserting entity with GID (0000000300000002).
+13-Dec-18 18:59:12 : Inserting entity with GID (0000000300000003).
+13-Dec-18 18:59:12 : Inserting entity with GID (0000000300000004).
+13-Dec-18 18:59:12 : Inserting entity with GID (0000000300000005).
+13-Dec-18 18:59:12 : Inserting entity with GID (0000000200000003).
+13-Dec-18 18:59:12 : Inserting entity with GID (0000000200000004).
+13-Dec-18 18:59:12 : Inserting entity with GID (0000000100000005).
+13-Dec-18 18:59:12 : Inserting entity with GID (0000000100000006).
+13-Dec-18 18:59:12 : Inserting entity with GID (0000000100000007).
+13-Dec-18 18:59:12 : Inserting entity with GID (0000000100000008).
+13-Dec-18 18:59:12 : Inserting entity with GID (0000000500000003).
+13-Dec-18 18:59:12 : Inserting entity with GID (0000000500000004).
+13-Dec-18 18:59:12 : Inserting entity with GID (0000000600000004).
+13-Dec-18 18:59:12 : Inserting entity with GID (0000000600000005).
+13-Dec-18 18:59:12 : Inserting entity with GID (0000000600000006).
+13-Dec-18 18:59:12 : Inserting entity with GID (0000000400000003).
+13-Dec-18 18:59:12 : Inserting entity with GID (0000000400000004).
+13-Dec-18 18:59:12 : Inserting entity with GID (0000000300000006).
+13-Dec-18 18:59:12 : Inserting entity with GID (0000000300000007).
+13-Dec-18 18:59:12 : Inserting entity with GID (0000000300000008).
+13-Dec-18 18:59:12 : Inserting entity with GID (0000000300000009).
+13-Dec-18 18:59:12 : Inserting entity with GID (000000030000000a).
+13-Dec-18 18:59:14 : The WCF service GenericDataAccess is ready.
+13-Dec-18 18:59:14 : Endpoints:
+13-Dec-18 18:59:14 : net.tcp://localhost:10000/NetworkModelService/GDA/
+13-Dec-18 18:59:14 : Connection string: ../NetworkModelData.data
+13-Dec-18 18:59:14 : Trace level: Info
+13-Dec-18 18:59:14 : The Network Model Service is started.
+13-Dec-18 18:59:14 : Press <Enter> to stop the service.
+13-Dec-18 19:17:37 : Starting Network Model Serivice...
+13-Dec-18 19:17:37 : Inserting entity with GID (0000000200000001).
+13-Dec-18 19:17:37 : Inserting entity with GID (0000000200000002).
+13-Dec-18 19:17:37 : Inserting entity with GID (0000000100000001).
+13-Dec-18 19:17:37 : Inserting entity with GID (0000000100000002).
+13-Dec-18 19:17:37 : Inserting entity with GID (0000000100000003).
+13-Dec-18 19:17:37 : Inserting entity with GID (0000000100000004).
+13-Dec-18 19:17:37 : Inserting entity with GID (0000000500000001).
+13-Dec-18 19:17:37 : Inserting entity with GID (0000000500000002).
+13-Dec-18 19:17:37 : Inserting entity with GID (0000000600000001).
+13-Dec-18 19:17:37 : Inserting entity with GID (0000000600000002).
+13-Dec-18 19:17:37 : Inserting entity with GID (0000000600000003).
+13-Dec-18 19:17:37 : Inserting entity with GID (0000000400000001).
+13-Dec-18 19:17:37 : Inserting entity with GID (0000000400000002).
+13-Dec-18 19:17:37 : Inserting entity with GID (0000000300000001).
+13-Dec-18 19:17:37 : Inserting entity with GID (0000000300000002).
+13-Dec-18 19:17:37 : Inserting entity with GID (0000000300000003).
+13-Dec-18 19:17:37 : Inserting entity with GID (0000000300000004).
+13-Dec-18 19:17:37 : Inserting entity with GID (0000000300000005).
+13-Dec-18 19:17:37 : Inserting entity with GID (0000000200000003).
+13-Dec-18 19:17:37 : Inserting entity with GID (0000000200000004).
+13-Dec-18 19:17:37 : Inserting entity with GID (0000000100000005).
+13-Dec-18 19:17:37 : Inserting entity with GID (0000000100000006).
+13-Dec-18 19:17:37 : Inserting entity with GID (0000000100000007).
+13-Dec-18 19:17:37 : Inserting entity with GID (0000000100000008).
+13-Dec-18 19:17:37 : Inserting entity with GID (0000000500000003).
+13-Dec-18 19:17:37 : Inserting entity with GID (0000000500000004).
+13-Dec-18 19:17:37 : Inserting entity with GID (0000000600000004).
+13-Dec-18 19:17:37 : Inserting entity with GID (0000000600000005).
+13-Dec-18 19:17:37 : Inserting entity with GID (0000000600000006).
+13-Dec-18 19:17:37 : Inserting entity with GID (0000000400000003).
+13-Dec-18 19:17:37 : Inserting entity with GID (0000000400000004).
+13-Dec-18 19:17:37 : Inserting entity with GID (0000000300000006).
+13-Dec-18 19:17:37 : Inserting entity with GID (0000000300000007).
+13-Dec-18 19:17:38 : Inserting entity with GID (0000000300000008).
+13-Dec-18 19:17:38 : Inserting entity with GID (0000000300000009).
+13-Dec-18 19:17:38 : Inserting entity with GID (000000030000000a).
+13-Dec-18 19:17:40 : The WCF service GenericDataAccess is ready.
+13-Dec-18 19:17:40 : Endpoints:
+13-Dec-18 19:17:40 : net.tcp://localhost:10000/NetworkModelService/GDA/
+13-Dec-18 19:17:40 : Connection string: ../NetworkModelData.data
+13-Dec-18 19:17:40 : Trace level: Info
+13-Dec-18 19:17:40 : The Network Model Service is started.
+13-Dec-18 19:17:40 : Press <Enter> to stop the service.
+15-Dec-18 07:26:03 : Starting Network Model Serivice...
+15-Dec-18 07:26:04 : Inserting entity with GID (0000000200000001).
+15-Dec-18 07:26:04 : Inserting entity with GID (0000000200000002).
+15-Dec-18 07:26:04 : Inserting entity with GID (0000000100000001).
+15-Dec-18 07:26:04 : Inserting entity with GID (0000000100000002).
+15-Dec-18 07:26:04 : Inserting entity with GID (0000000100000003).
+15-Dec-18 07:26:04 : Inserting entity with GID (0000000100000004).
+15-Dec-18 07:26:04 : Inserting entity with GID (0000000500000001).
+15-Dec-18 07:26:04 : Inserting entity with GID (0000000500000002).
+15-Dec-18 07:26:04 : Inserting entity with GID (0000000600000001).
+15-Dec-18 07:26:04 : Inserting entity with GID (0000000600000002).
+15-Dec-18 07:26:04 : Inserting entity with GID (0000000600000003).
+15-Dec-18 07:26:04 : Inserting entity with GID (0000000400000001).
+15-Dec-18 07:26:04 : Inserting entity with GID (0000000400000002).
+15-Dec-18 07:26:04 : Inserting entity with GID (0000000300000001).
+15-Dec-18 07:26:04 : Inserting entity with GID (0000000300000002).
+15-Dec-18 07:26:04 : Inserting entity with GID (0000000300000003).
+15-Dec-18 07:26:04 : Inserting entity with GID (0000000300000004).
+15-Dec-18 07:26:04 : Inserting entity with GID (0000000300000005).
+15-Dec-18 07:26:04 : Inserting entity with GID (0000000200000003).
+15-Dec-18 07:26:04 : Inserting entity with GID (0000000200000004).
+15-Dec-18 07:26:04 : Inserting entity with GID (0000000100000005).
+15-Dec-18 07:26:04 : Inserting entity with GID (0000000100000006).
+15-Dec-18 07:26:04 : Inserting entity with GID (0000000100000007).
+15-Dec-18 07:26:04 : Inserting entity with GID (0000000100000008).
+15-Dec-18 07:26:04 : Inserting entity with GID (0000000500000003).
+15-Dec-18 07:26:04 : Inserting entity with GID (0000000500000004).
+15-Dec-18 07:26:04 : Inserting entity with GID (0000000600000004).
+15-Dec-18 07:26:04 : Inserting entity with GID (0000000600000005).
+15-Dec-18 07:26:04 : Inserting entity with GID (0000000600000006).
+15-Dec-18 07:26:04 : Inserting entity with GID (0000000400000003).
+15-Dec-18 07:26:04 : Inserting entity with GID (0000000400000004).
+15-Dec-18 07:26:04 : Inserting entity with GID (0000000300000006).
+15-Dec-18 07:26:04 : Inserting entity with GID (0000000300000007).
+15-Dec-18 07:26:04 : Inserting entity with GID (0000000300000008).
+15-Dec-18 07:26:04 : Inserting entity with GID (0000000300000009).
+15-Dec-18 07:26:04 : Inserting entity with GID (000000030000000a).
+15-Dec-18 07:26:05 : The WCF service GenericDataAccess is ready.
+15-Dec-18 07:26:05 : Endpoints:
+15-Dec-18 07:26:05 : net.tcp://localhost:10000/NetworkModelService/GDA/
+15-Dec-18 07:26:05 : Connection string: ../NetworkModelData.data
+15-Dec-18 07:26:05 : Trace level: Info
+15-Dec-18 07:26:05 : The Network Model Service is started.
+15-Dec-18 07:26:05 : Press <Enter> to stop the service.
+15-Dec-18 07:32:21 : Starting Network Model Serivice...
+15-Dec-18 07:32:21 : Inserting entity with GID (0000000200000001).
+15-Dec-18 07:32:21 : Inserting entity with GID (0000000200000002).
+15-Dec-18 07:32:21 : Inserting entity with GID (0000000100000001).
+15-Dec-18 07:32:21 : Inserting entity with GID (0000000100000002).
+15-Dec-18 07:32:21 : Inserting entity with GID (0000000100000003).
+15-Dec-18 07:32:21 : Inserting entity with GID (0000000100000004).
+15-Dec-18 07:32:21 : Inserting entity with GID (0000000500000001).
+15-Dec-18 07:32:21 : Inserting entity with GID (0000000500000002).
+15-Dec-18 07:32:21 : Inserting entity with GID (0000000600000001).
+15-Dec-18 07:32:21 : Inserting entity with GID (0000000600000002).
+15-Dec-18 07:32:21 : Inserting entity with GID (0000000600000003).
+15-Dec-18 07:32:21 : Inserting entity with GID (0000000400000001).
+15-Dec-18 07:32:21 : Inserting entity with GID (0000000400000002).
+15-Dec-18 07:32:21 : Inserting entity with GID (0000000300000001).
+15-Dec-18 07:32:21 : Inserting entity with GID (0000000300000002).
+15-Dec-18 07:32:21 : Inserting entity with GID (0000000300000003).
+15-Dec-18 07:32:21 : Inserting entity with GID (0000000300000004).
+15-Dec-18 07:32:21 : Inserting entity with GID (0000000300000005).
+15-Dec-18 07:32:21 : Inserting entity with GID (0000000200000003).
+15-Dec-18 07:32:21 : Inserting entity with GID (0000000200000004).
+15-Dec-18 07:32:21 : Inserting entity with GID (0000000100000005).
+15-Dec-18 07:32:21 : Inserting entity with GID (0000000100000006).
+15-Dec-18 07:32:21 : Inserting entity with GID (0000000100000007).
+15-Dec-18 07:32:21 : Inserting entity with GID (0000000100000008).
+15-Dec-18 07:32:21 : Inserting entity with GID (0000000500000003).
+15-Dec-18 07:32:21 : Inserting entity with GID (0000000500000004).
+15-Dec-18 07:32:21 : Inserting entity with GID (0000000600000004).
+15-Dec-18 07:32:21 : Inserting entity with GID (0000000600000005).
+15-Dec-18 07:32:21 : Inserting entity with GID (0000000600000006).
+15-Dec-18 07:32:21 : Inserting entity with GID (0000000400000003).
+15-Dec-18 07:32:21 : Inserting entity with GID (0000000400000004).
+15-Dec-18 07:32:21 : Inserting entity with GID (0000000300000006).
+15-Dec-18 07:32:21 : Inserting entity with GID (0000000300000007).
+15-Dec-18 07:32:21 : Inserting entity with GID (0000000300000008).
+15-Dec-18 07:32:21 : Inserting entity with GID (0000000300000009).
+15-Dec-18 07:32:21 : Inserting entity with GID (000000030000000a).
+15-Dec-18 07:32:21 : The WCF service GenericDataAccess is ready.
+15-Dec-18 07:32:21 : Endpoints:
+15-Dec-18 07:32:21 : net.tcp://localhost:10000/NetworkModelService/GDA/
+15-Dec-18 07:32:21 : Connection string: ../NetworkModelData.data
+15-Dec-18 07:32:21 : Trace level: Info
+15-Dec-18 07:32:21 : The Network Model Service is started.
+15-Dec-18 07:32:21 : Press <Enter> to stop the service.
+15-Dec-18 07:34:13 : Starting Network Model Serivice...
+15-Dec-18 07:34:13 : Inserting entity with GID (0000000200000001).
+15-Dec-18 07:34:13 : Inserting entity with GID (0000000200000002).
+15-Dec-18 07:34:13 : Inserting entity with GID (0000000100000001).
+15-Dec-18 07:34:13 : Inserting entity with GID (0000000100000002).
+15-Dec-18 07:34:13 : Inserting entity with GID (0000000100000003).
+15-Dec-18 07:34:13 : Inserting entity with GID (0000000100000004).
+15-Dec-18 07:34:13 : Inserting entity with GID (0000000500000001).
+15-Dec-18 07:34:13 : Inserting entity with GID (0000000500000002).
+15-Dec-18 07:34:13 : Inserting entity with GID (0000000600000001).
+15-Dec-18 07:34:13 : Inserting entity with GID (0000000600000002).
+15-Dec-18 07:34:13 : Inserting entity with GID (0000000600000003).
+15-Dec-18 07:34:13 : Inserting entity with GID (0000000400000001).
+15-Dec-18 07:34:13 : Inserting entity with GID (0000000400000002).
+15-Dec-18 07:34:13 : Inserting entity with GID (0000000300000001).
+15-Dec-18 07:34:13 : Inserting entity with GID (0000000300000002).
+15-Dec-18 07:34:13 : Inserting entity with GID (0000000300000003).
+15-Dec-18 07:34:13 : Inserting entity with GID (0000000300000004).
+15-Dec-18 07:34:13 : Inserting entity with GID (0000000300000005).
+15-Dec-18 07:34:13 : Inserting entity with GID (0000000200000003).
+15-Dec-18 07:34:13 : Inserting entity with GID (0000000200000004).
+15-Dec-18 07:34:13 : Inserting entity with GID (0000000100000005).
+15-Dec-18 07:34:13 : Inserting entity with GID (0000000100000006).
+15-Dec-18 07:34:13 : Inserting entity with GID (0000000100000007).
+15-Dec-18 07:34:13 : Inserting entity with GID (0000000100000008).
+15-Dec-18 07:34:13 : Inserting entity with GID (0000000500000003).
+15-Dec-18 07:34:13 : Inserting entity with GID (0000000500000004).
+15-Dec-18 07:34:13 : Inserting entity with GID (0000000600000004).
+15-Dec-18 07:34:13 : Inserting entity with GID (0000000600000005).
+15-Dec-18 07:34:13 : Inserting entity with GID (0000000600000006).
+15-Dec-18 07:34:13 : Inserting entity with GID (0000000400000003).
+15-Dec-18 07:34:13 : Inserting entity with GID (0000000400000004).
+15-Dec-18 07:34:13 : Inserting entity with GID (0000000300000006).
+15-Dec-18 07:34:13 : Inserting entity with GID (0000000300000007).
+15-Dec-18 07:34:13 : Inserting entity with GID (0000000300000008).
+15-Dec-18 07:34:13 : Inserting entity with GID (0000000300000009).
+15-Dec-18 07:34:13 : Inserting entity with GID (000000030000000a).
+15-Dec-18 07:34:13 : The WCF service GenericDataAccess is ready.
+15-Dec-18 07:34:13 : Endpoints:
+15-Dec-18 07:34:13 : net.tcp://localhost:10000/NetworkModelService/GDA/
+15-Dec-18 07:34:13 : Connection string: ../NetworkModelData.data
+15-Dec-18 07:34:13 : Trace level: Info
+15-Dec-18 07:34:13 : The Network Model Service is started.
+15-Dec-18 07:34:13 : Press <Enter> to stop the service.
+15-Dec-18 09:00:13 : Starting Network Model Serivice...
+15-Dec-18 09:00:13 : Inserting entity with GID (0000000200000001).
+15-Dec-18 09:00:13 : Inserting entity with GID (0000000200000002).
+15-Dec-18 09:00:13 : Inserting entity with GID (0000000100000001).
+15-Dec-18 09:00:13 : Inserting entity with GID (0000000100000002).
+15-Dec-18 09:00:13 : Inserting entity with GID (0000000100000003).
+15-Dec-18 09:00:13 : Inserting entity with GID (0000000100000004).
+15-Dec-18 09:00:13 : Inserting entity with GID (0000000500000001).
+15-Dec-18 09:00:13 : Inserting entity with GID (0000000500000002).
+15-Dec-18 09:00:13 : Inserting entity with GID (0000000600000001).
+15-Dec-18 09:00:13 : Inserting entity with GID (0000000600000002).
+15-Dec-18 09:00:13 : Inserting entity with GID (0000000600000003).
+15-Dec-18 09:00:13 : Inserting entity with GID (0000000400000001).
+15-Dec-18 09:00:13 : Inserting entity with GID (0000000400000002).
+15-Dec-18 09:00:13 : Inserting entity with GID (0000000300000001).
+15-Dec-18 09:00:13 : Inserting entity with GID (0000000300000002).
+15-Dec-18 09:00:13 : Inserting entity with GID (0000000300000003).
+15-Dec-18 09:00:13 : Inserting entity with GID (0000000300000004).
+15-Dec-18 09:00:13 : Inserting entity with GID (0000000300000005).
+15-Dec-18 09:00:13 : Inserting entity with GID (0000000200000003).
+15-Dec-18 09:00:13 : Inserting entity with GID (0000000200000004).
+15-Dec-18 09:00:13 : Inserting entity with GID (0000000100000005).
+15-Dec-18 09:00:13 : Inserting entity with GID (0000000100000006).
+15-Dec-18 09:00:13 : Inserting entity with GID (0000000100000007).
+15-Dec-18 09:00:13 : Inserting entity with GID (0000000100000008).
+15-Dec-18 09:00:13 : Inserting entity with GID (0000000500000003).
+15-Dec-18 09:00:13 : Inserting entity with GID (0000000500000004).
+15-Dec-18 09:00:13 : Inserting entity with GID (0000000600000004).
+15-Dec-18 09:00:13 : Inserting entity with GID (0000000600000005).
+15-Dec-18 09:00:13 : Inserting entity with GID (0000000600000006).
+15-Dec-18 09:00:13 : Inserting entity with GID (0000000400000003).
+15-Dec-18 09:00:13 : Inserting entity with GID (0000000400000004).
+15-Dec-18 09:00:13 : Inserting entity with GID (0000000300000006).
+15-Dec-18 09:00:13 : Inserting entity with GID (0000000300000007).
+15-Dec-18 09:00:13 : Inserting entity with GID (0000000300000008).
+15-Dec-18 09:00:13 : Inserting entity with GID (0000000300000009).
+15-Dec-18 09:00:13 : Inserting entity with GID (000000030000000a).
+15-Dec-18 09:00:13 : The WCF service GenericDataAccess is ready.
+15-Dec-18 09:00:13 : Endpoints:
+15-Dec-18 09:00:13 : net.tcp://localhost:10000/NetworkModelService/GDA/
+15-Dec-18 09:00:13 : Connection string: ../NetworkModelData.data
+15-Dec-18 09:00:13 : Trace level: Info
+15-Dec-18 09:00:13 : The Network Model Service is started.
+15-Dec-18 09:00:13 : Press <Enter> to stop the service.
+15-Dec-18 22:15:37 : Starting Network Model Serivice...
+15-Dec-18 22:15:37 : Inserting entity with GID (0000000200000001).
+15-Dec-18 22:15:37 : Inserting entity with GID (0000000200000002).
+15-Dec-18 22:15:37 : Inserting entity with GID (0000000100000001).
+15-Dec-18 22:15:37 : Inserting entity with GID (0000000100000002).
+15-Dec-18 22:15:37 : Inserting entity with GID (0000000100000003).
+15-Dec-18 22:15:37 : Inserting entity with GID (0000000100000004).
+15-Dec-18 22:15:37 : Inserting entity with GID (0000000500000001).
+15-Dec-18 22:15:37 : Inserting entity with GID (0000000500000002).
+15-Dec-18 22:15:37 : Inserting entity with GID (0000000600000001).
+15-Dec-18 22:15:37 : Inserting entity with GID (0000000600000002).
+15-Dec-18 22:15:37 : Inserting entity with GID (0000000600000003).
+15-Dec-18 22:15:37 : Inserting entity with GID (0000000400000001).
+15-Dec-18 22:15:37 : Inserting entity with GID (0000000400000002).
+15-Dec-18 22:15:37 : Inserting entity with GID (0000000300000001).
+15-Dec-18 22:15:37 : Inserting entity with GID (0000000300000002).
+15-Dec-18 22:15:37 : Inserting entity with GID (0000000300000003).
+15-Dec-18 22:15:37 : Inserting entity with GID (0000000300000004).
+15-Dec-18 22:15:37 : Inserting entity with GID (0000000300000005).
+15-Dec-18 22:15:37 : Inserting entity with GID (0000000200000003).
+15-Dec-18 22:15:37 : Inserting entity with GID (0000000200000004).
+15-Dec-18 22:15:37 : Inserting entity with GID (0000000100000005).
+15-Dec-18 22:15:37 : Inserting entity with GID (0000000100000006).
+15-Dec-18 22:15:37 : Inserting entity with GID (0000000100000007).
+15-Dec-18 22:15:37 : Inserting entity with GID (0000000100000008).
+15-Dec-18 22:15:37 : Inserting entity with GID (0000000500000003).
+15-Dec-18 22:15:37 : Inserting entity with GID (0000000500000004).
+15-Dec-18 22:15:37 : Inserting entity with GID (0000000600000004).
+15-Dec-18 22:15:37 : Inserting entity with GID (0000000600000005).
+15-Dec-18 22:15:37 : Inserting entity with GID (0000000600000006).
+15-Dec-18 22:15:37 : Inserting entity with GID (0000000400000003).
+15-Dec-18 22:15:37 : Inserting entity with GID (0000000400000004).
+15-Dec-18 22:15:37 : Inserting entity with GID (0000000300000006).
+15-Dec-18 22:15:37 : Inserting entity with GID (0000000300000007).
+15-Dec-18 22:15:37 : Inserting entity with GID (0000000300000008).
+15-Dec-18 22:15:37 : Inserting entity with GID (0000000300000009).
+15-Dec-18 22:15:37 : Inserting entity with GID (000000030000000a).
+15-Dec-18 22:15:37 : The WCF service GenericDataAccess is ready.
+15-Dec-18 22:15:37 : Endpoints:
+15-Dec-18 22:15:37 : net.tcp://localhost:10000/NetworkModelService/GDA/
+15-Dec-18 22:15:37 : Connection string: ../NetworkModelData.data
+15-Dec-18 22:15:37 : Trace level: Info
+15-Dec-18 22:15:37 : The Network Model Service is started.
+15-Dec-18 22:15:37 : Press <Enter> to stop the service.
+16-Dec-18 01:15:40 : Starting Network Model Serivice...
+16-Dec-18 01:15:40 : Inserting entity with GID (0000000200000001).
+16-Dec-18 01:15:40 : Inserting entity with GID (0000000200000002).
+16-Dec-18 01:15:40 : Inserting entity with GID (0000000100000001).
+16-Dec-18 01:15:40 : Inserting entity with GID (0000000100000002).
+16-Dec-18 01:15:40 : Inserting entity with GID (0000000100000003).
+16-Dec-18 01:15:40 : Inserting entity with GID (0000000100000004).
+16-Dec-18 01:15:40 : Inserting entity with GID (0000000500000001).
+16-Dec-18 01:15:40 : Inserting entity with GID (0000000500000002).
+16-Dec-18 01:15:40 : Inserting entity with GID (0000000600000001).
+16-Dec-18 01:15:40 : Inserting entity with GID (0000000600000002).
+16-Dec-18 01:15:40 : Inserting entity with GID (0000000600000003).
+16-Dec-18 01:15:40 : Inserting entity with GID (0000000400000001).
+16-Dec-18 01:15:40 : Inserting entity with GID (0000000400000002).
+16-Dec-18 01:15:40 : Inserting entity with GID (0000000300000001).
+16-Dec-18 01:15:40 : Inserting entity with GID (0000000300000002).
+16-Dec-18 01:15:40 : Inserting entity with GID (0000000300000003).
+16-Dec-18 01:15:40 : Inserting entity with GID (0000000300000004).
+16-Dec-18 01:15:40 : Inserting entity with GID (0000000300000005).
+16-Dec-18 01:15:40 : Inserting entity with GID (0000000200000003).
+16-Dec-18 01:15:40 : Inserting entity with GID (0000000200000004).
+16-Dec-18 01:15:40 : Inserting entity with GID (0000000100000005).
+16-Dec-18 01:15:40 : Inserting entity with GID (0000000100000006).
+16-Dec-18 01:15:40 : Inserting entity with GID (0000000100000007).
+16-Dec-18 01:15:40 : Inserting entity with GID (0000000100000008).
+16-Dec-18 01:15:40 : Inserting entity with GID (0000000500000003).
+16-Dec-18 01:15:40 : Inserting entity with GID (0000000500000004).
+16-Dec-18 01:15:40 : Inserting entity with GID (0000000600000004).
+16-Dec-18 01:15:40 : Inserting entity with GID (0000000600000005).
+16-Dec-18 01:15:40 : Inserting entity with GID (0000000600000006).
+16-Dec-18 01:15:40 : Inserting entity with GID (0000000400000003).
+16-Dec-18 01:15:40 : Inserting entity with GID (0000000400000004).
+16-Dec-18 01:15:40 : Inserting entity with GID (0000000300000006).
+16-Dec-18 01:15:40 : Inserting entity with GID (0000000300000007).
+16-Dec-18 01:15:40 : Inserting entity with GID (0000000300000008).
+16-Dec-18 01:15:40 : Inserting entity with GID (0000000300000009).
+16-Dec-18 01:15:40 : Inserting entity with GID (000000030000000a).
+16-Dec-18 01:15:40 : The WCF service GenericDataAccess is ready.
+16-Dec-18 01:15:40 : Endpoints:
+16-Dec-18 01:15:40 : net.tcp://localhost:10000/NetworkModelService/GDA/
+16-Dec-18 01:15:40 : Connection string: ../NetworkModelData.data
+16-Dec-18 01:15:40 : Trace level: Info
+16-Dec-18 01:15:40 : The Network Model Service is started.
+16-Dec-18 01:15:40 : Press <Enter> to stop the service.
+16-Dec-18 01:39:49 : Starting Network Model Serivice...
+16-Dec-18 01:39:49 : Inserting entity with GID (0000000200000001).
+16-Dec-18 01:39:49 : Inserting entity with GID (0000000200000002).
+16-Dec-18 01:39:49 : Inserting entity with GID (0000000100000001).
+16-Dec-18 01:39:49 : Inserting entity with GID (0000000100000002).
+16-Dec-18 01:39:49 : Inserting entity with GID (0000000100000003).
+16-Dec-18 01:39:49 : Inserting entity with GID (0000000100000004).
+16-Dec-18 01:39:49 : Inserting entity with GID (0000000500000001).
+16-Dec-18 01:39:49 : Inserting entity with GID (0000000500000002).
+16-Dec-18 01:39:49 : Inserting entity with GID (0000000600000001).
+16-Dec-18 01:39:49 : Inserting entity with GID (0000000600000002).
+16-Dec-18 01:39:49 : Inserting entity with GID (0000000600000003).
+16-Dec-18 01:39:49 : Inserting entity with GID (0000000400000001).
+16-Dec-18 01:39:49 : Inserting entity with GID (0000000400000002).
+16-Dec-18 01:39:49 : Inserting entity with GID (0000000300000001).
+16-Dec-18 01:39:49 : Inserting entity with GID (0000000300000002).
+16-Dec-18 01:39:49 : Inserting entity with GID (0000000300000003).
+16-Dec-18 01:39:49 : Inserting entity with GID (0000000300000004).
+16-Dec-18 01:39:49 : Inserting entity with GID (0000000300000005).
+16-Dec-18 01:39:49 : Inserting entity with GID (0000000200000003).
+16-Dec-18 01:39:49 : Inserting entity with GID (0000000200000004).
+16-Dec-18 01:39:49 : Inserting entity with GID (0000000100000005).
+16-Dec-18 01:39:49 : Inserting entity with GID (0000000100000006).
+16-Dec-18 01:39:49 : Inserting entity with GID (0000000100000007).
+16-Dec-18 01:39:49 : Inserting entity with GID (0000000100000008).
+16-Dec-18 01:39:49 : Inserting entity with GID (0000000500000003).
+16-Dec-18 01:39:49 : Inserting entity with GID (0000000500000004).
+16-Dec-18 01:39:49 : Inserting entity with GID (0000000600000004).
+16-Dec-18 01:39:49 : Inserting entity with GID (0000000600000005).
+16-Dec-18 01:39:49 : Inserting entity with GID (0000000600000006).
+16-Dec-18 01:39:49 : Inserting entity with GID (0000000400000003).
+16-Dec-18 01:39:49 : Inserting entity with GID (0000000400000004).
+16-Dec-18 01:39:49 : Inserting entity with GID (0000000300000006).
+16-Dec-18 01:39:49 : Inserting entity with GID (0000000300000007).
+16-Dec-18 01:39:49 : Inserting entity with GID (0000000300000008).
+16-Dec-18 01:39:49 : Inserting entity with GID (0000000300000009).
+16-Dec-18 01:39:49 : Inserting entity with GID (000000030000000a).
+16-Dec-18 01:39:49 : The WCF service GenericDataAccess is ready.
+16-Dec-18 01:39:50 : Endpoints:
+16-Dec-18 01:39:50 : net.tcp://localhost:10000/NetworkModelService/GDA/
+16-Dec-18 01:39:50 : Connection string: ../NetworkModelData.data
+16-Dec-18 01:39:50 : Trace level: Info
+16-Dec-18 01:39:50 : The Network Model Service is started.
+16-Dec-18 01:39:50 : Press <Enter> to stop the service.
+16-Dec-18 01:44:16 : Starting Network Model Serivice...
+16-Dec-18 01:44:17 : Inserting entity with GID (0000000200000001).
+16-Dec-18 01:44:17 : Inserting entity with GID (0000000200000002).
+16-Dec-18 01:44:17 : Inserting entity with GID (0000000100000001).
+16-Dec-18 01:44:17 : Inserting entity with GID (0000000100000002).
+16-Dec-18 01:44:17 : Inserting entity with GID (0000000100000003).
+16-Dec-18 01:44:17 : Inserting entity with GID (0000000100000004).
+16-Dec-18 01:44:17 : Inserting entity with GID (0000000500000001).
+16-Dec-18 01:44:17 : Inserting entity with GID (0000000500000002).
+16-Dec-18 01:44:17 : Inserting entity with GID (0000000600000001).
+16-Dec-18 01:44:17 : Inserting entity with GID (0000000600000002).
+16-Dec-18 01:44:17 : Inserting entity with GID (0000000600000003).
+16-Dec-18 01:44:17 : Inserting entity with GID (0000000400000001).
+16-Dec-18 01:44:17 : Inserting entity with GID (0000000400000002).
+16-Dec-18 01:44:17 : Inserting entity with GID (0000000300000001).
+16-Dec-18 01:44:17 : Inserting entity with GID (0000000300000002).
+16-Dec-18 01:44:17 : Inserting entity with GID (0000000300000003).
+16-Dec-18 01:44:17 : Inserting entity with GID (0000000300000004).
+16-Dec-18 01:44:17 : Inserting entity with GID (0000000300000005).
+16-Dec-18 01:44:17 : Inserting entity with GID (0000000200000003).
+16-Dec-18 01:44:17 : Inserting entity with GID (0000000200000004).
+16-Dec-18 01:44:17 : Inserting entity with GID (0000000100000005).
+16-Dec-18 01:44:17 : Inserting entity with GID (0000000100000006).
+16-Dec-18 01:44:17 : Inserting entity with GID (0000000100000007).
+16-Dec-18 01:44:17 : Inserting entity with GID (0000000100000008).
+16-Dec-18 01:44:17 : Inserting entity with GID (0000000500000003).
+16-Dec-18 01:44:17 : Inserting entity with GID (0000000500000004).
+16-Dec-18 01:44:17 : Inserting entity with GID (0000000600000004).
+16-Dec-18 01:44:17 : Inserting entity with GID (0000000600000005).
+16-Dec-18 01:44:17 : Inserting entity with GID (0000000600000006).
+16-Dec-18 01:44:17 : Inserting entity with GID (0000000400000003).
+16-Dec-18 01:44:17 : Inserting entity with GID (0000000400000004).
+16-Dec-18 01:44:17 : Inserting entity with GID (0000000300000006).
+16-Dec-18 01:44:17 : Inserting entity with GID (0000000300000007).
+16-Dec-18 01:44:17 : Inserting entity with GID (0000000300000008).
+16-Dec-18 01:44:17 : Inserting entity with GID (0000000300000009).
+16-Dec-18 01:44:17 : Inserting entity with GID (000000030000000a).
+16-Dec-18 01:54:59 : Starting Network Model Serivice...
+16-Dec-18 01:54:59 : Inserting entity with GID (0000000200000001).
+16-Dec-18 01:54:59 : Inserting entity with GID (0000000200000002).
+16-Dec-18 01:54:59 : Inserting entity with GID (0000000100000001).
+16-Dec-18 01:54:59 : Inserting entity with GID (0000000100000002).
+16-Dec-18 01:54:59 : Inserting entity with GID (0000000100000003).
+16-Dec-18 01:54:59 : Inserting entity with GID (0000000100000004).
+16-Dec-18 01:54:59 : Inserting entity with GID (0000000500000001).
+16-Dec-18 01:54:59 : Inserting entity with GID (0000000500000002).
+16-Dec-18 01:54:59 : Inserting entity with GID (0000000600000001).
+16-Dec-18 01:54:59 : Inserting entity with GID (0000000600000002).
+16-Dec-18 01:54:59 : Inserting entity with GID (0000000600000003).
+16-Dec-18 01:54:59 : Inserting entity with GID (0000000400000001).
+16-Dec-18 01:54:59 : Inserting entity with GID (0000000400000002).
+16-Dec-18 01:54:59 : Inserting entity with GID (0000000300000001).
+16-Dec-18 01:54:59 : Inserting entity with GID (0000000300000002).
+16-Dec-18 01:54:59 : Inserting entity with GID (0000000300000003).
+16-Dec-18 01:54:59 : Inserting entity with GID (0000000300000004).
+16-Dec-18 01:54:59 : Inserting entity with GID (0000000300000005).
+16-Dec-18 01:54:59 : Inserting entity with GID (0000000200000003).
+16-Dec-18 01:54:59 : Inserting entity with GID (0000000200000004).
+16-Dec-18 01:54:59 : Inserting entity with GID (0000000100000005).
+16-Dec-18 01:54:59 : Inserting entity with GID (0000000100000006).
+16-Dec-18 01:54:59 : Inserting entity with GID (0000000100000007).
+16-Dec-18 01:54:59 : Inserting entity with GID (0000000100000008).
+16-Dec-18 01:54:59 : Inserting entity with GID (0000000500000003).
+16-Dec-18 01:54:59 : Inserting entity with GID (0000000500000004).
+16-Dec-18 01:54:59 : Inserting entity with GID (0000000600000004).
+16-Dec-18 01:54:59 : Inserting entity with GID (0000000600000005).
+16-Dec-18 01:54:59 : Inserting entity with GID (0000000600000006).
+16-Dec-18 01:54:59 : Inserting entity with GID (0000000400000003).
+16-Dec-18 01:54:59 : Inserting entity with GID (0000000400000004).
+16-Dec-18 01:54:59 : Inserting entity with GID (0000000300000006).
+16-Dec-18 01:54:59 : Inserting entity with GID (0000000300000007).
+16-Dec-18 01:54:59 : Inserting entity with GID (0000000300000008).
+16-Dec-18 01:54:59 : Inserting entity with GID (0000000300000009).
+16-Dec-18 01:54:59 : Inserting entity with GID (000000030000000a).
+16-Dec-18 01:55:00 : The WCF service GenericDataAccess is ready.
+16-Dec-18 01:55:00 : Endpoints:
+16-Dec-18 01:55:00 : net.tcp://localhost:10000/NetworkModelService/GDA/
+16-Dec-18 01:55:00 : Connection string: ../NetworkModelData.data
+16-Dec-18 01:55:00 : Trace level: Info
+16-Dec-18 01:55:00 : The Network Model Service is started.
+16-Dec-18 01:55:00 : Press <Enter> to stop the service.
+16-Dec-18 01:58:28 : Starting Network Model Serivice...
+16-Dec-18 01:58:28 : Inserting entity with GID (0000000200000001).
+16-Dec-18 01:58:28 : Inserting entity with GID (0000000200000002).
+16-Dec-18 01:58:28 : Inserting entity with GID (0000000100000001).
+16-Dec-18 01:58:29 : Inserting entity with GID (0000000100000002).
+16-Dec-18 01:58:29 : Inserting entity with GID (0000000100000003).
+16-Dec-18 01:58:29 : Inserting entity with GID (0000000100000004).
+16-Dec-18 01:58:29 : Inserting entity with GID (0000000500000001).
+16-Dec-18 01:58:29 : Inserting entity with GID (0000000500000002).
+16-Dec-18 01:58:29 : Inserting entity with GID (0000000600000001).
+16-Dec-18 01:58:29 : Inserting entity with GID (0000000600000002).
+16-Dec-18 01:58:29 : Inserting entity with GID (0000000600000003).
+16-Dec-18 01:58:29 : Inserting entity with GID (0000000400000001).
+16-Dec-18 01:58:29 : Inserting entity with GID (0000000400000002).
+16-Dec-18 01:58:29 : Inserting entity with GID (0000000300000001).
+16-Dec-18 01:58:29 : Inserting entity with GID (0000000300000002).
+16-Dec-18 01:58:29 : Inserting entity with GID (0000000300000003).
+16-Dec-18 01:58:29 : Inserting entity with GID (0000000300000004).
+16-Dec-18 01:58:29 : Inserting entity with GID (0000000300000005).
+16-Dec-18 01:58:29 : Inserting entity with GID (0000000200000003).
+16-Dec-18 01:58:29 : Inserting entity with GID (0000000200000004).
+16-Dec-18 01:58:29 : Inserting entity with GID (0000000100000005).
+16-Dec-18 01:58:29 : Inserting entity with GID (0000000100000006).
+16-Dec-18 01:58:29 : Inserting entity with GID (0000000100000007).
+16-Dec-18 01:58:29 : Inserting entity with GID (0000000100000008).
+16-Dec-18 01:58:29 : Inserting entity with GID (0000000500000003).
+16-Dec-18 01:58:29 : Inserting entity with GID (0000000500000004).
+16-Dec-18 01:58:29 : Inserting entity with GID (0000000600000004).
+16-Dec-18 01:58:29 : Inserting entity with GID (0000000600000005).
+16-Dec-18 01:58:29 : Inserting entity with GID (0000000600000006).
+16-Dec-18 01:58:29 : Inserting entity with GID (0000000400000003).
+16-Dec-18 01:58:29 : Inserting entity with GID (0000000400000004).
+16-Dec-18 01:58:29 : Inserting entity with GID (0000000300000006).
+16-Dec-18 01:58:29 : Inserting entity with GID (0000000300000007).
+16-Dec-18 01:58:29 : Inserting entity with GID (0000000300000008).
+16-Dec-18 01:58:29 : Inserting entity with GID (0000000300000009).
+16-Dec-18 01:58:29 : Inserting entity with GID (000000030000000a).
+16-Dec-18 01:58:29 : The WCF service GenericDataAccess is ready.
+16-Dec-18 01:58:29 : Endpoints:
+16-Dec-18 01:58:29 : net.tcp://localhost:10000/NetworkModelService/GDA/
+16-Dec-18 01:58:29 : Connection string: ../NetworkModelData.data
+16-Dec-18 01:58:29 : Trace level: Info
+16-Dec-18 01:58:29 : The Network Model Service is started.
+16-Dec-18 01:58:29 : Press <Enter> to stop the service.
+16-Dec-18 02:28:15 : Starting Network Model Serivice...
+16-Dec-18 02:28:16 : Inserting entity with GID (0000000200000001).
+16-Dec-18 02:28:16 : Inserting entity with GID (0000000200000002).
+16-Dec-18 02:28:16 : Inserting entity with GID (0000000100000001).
+16-Dec-18 02:28:16 : Inserting entity with GID (0000000100000002).
+16-Dec-18 02:28:16 : Inserting entity with GID (0000000100000003).
+16-Dec-18 02:28:16 : Inserting entity with GID (0000000100000004).
+16-Dec-18 02:28:16 : Inserting entity with GID (0000000500000001).
+16-Dec-18 02:28:16 : Inserting entity with GID (0000000500000002).
+16-Dec-18 02:28:16 : Inserting entity with GID (0000000600000001).
+16-Dec-18 02:28:16 : Inserting entity with GID (0000000600000002).
+16-Dec-18 02:28:16 : Inserting entity with GID (0000000600000003).
+16-Dec-18 02:28:16 : Inserting entity with GID (0000000400000001).
+16-Dec-18 02:28:16 : Inserting entity with GID (0000000400000002).
+16-Dec-18 02:28:16 : Inserting entity with GID (0000000300000001).
+16-Dec-18 02:28:16 : Inserting entity with GID (0000000300000002).
+16-Dec-18 02:28:16 : Inserting entity with GID (0000000300000003).
+16-Dec-18 02:28:16 : Inserting entity with GID (0000000300000004).
+16-Dec-18 02:28:16 : Inserting entity with GID (0000000300000005).
+16-Dec-18 02:28:16 : Inserting entity with GID (0000000200000003).
+16-Dec-18 02:28:16 : Inserting entity with GID (0000000200000004).
+16-Dec-18 02:28:16 : Inserting entity with GID (0000000100000005).
+16-Dec-18 02:28:16 : Inserting entity with GID (0000000100000006).
+16-Dec-18 02:28:16 : Inserting entity with GID (0000000100000007).
+16-Dec-18 02:28:16 : Inserting entity with GID (0000000100000008).
+16-Dec-18 02:28:16 : Inserting entity with GID (0000000500000003).
+16-Dec-18 02:28:16 : Inserting entity with GID (0000000500000004).
+16-Dec-18 02:28:16 : Inserting entity with GID (0000000600000004).
+16-Dec-18 02:28:16 : Inserting entity with GID (0000000600000005).
+16-Dec-18 02:28:16 : Inserting entity with GID (0000000600000006).
+16-Dec-18 02:28:16 : Inserting entity with GID (0000000400000003).
+16-Dec-18 02:28:16 : Inserting entity with GID (0000000400000004).
+16-Dec-18 02:28:16 : Inserting entity with GID (0000000300000006).
+16-Dec-18 02:28:16 : Inserting entity with GID (0000000300000007).
+16-Dec-18 02:28:16 : Inserting entity with GID (0000000300000008).
+16-Dec-18 02:28:16 : Inserting entity with GID (0000000300000009).
+16-Dec-18 02:28:16 : Inserting entity with GID (000000030000000a).
+16-Dec-18 02:28:16 : The WCF service GenericDataAccess is ready.
+16-Dec-18 02:28:16 : Endpoints:
+16-Dec-18 02:28:16 : net.tcp://localhost:10000/NetworkModelService/GDA/
+16-Dec-18 02:28:16 : Connection string: ../NetworkModelData.data
+16-Dec-18 02:28:16 : Trace level: Info
+16-Dec-18 02:28:16 : The Network Model Service is started.
+16-Dec-18 02:28:16 : Press <Enter> to stop the service.
+16-Dec-18 02:31:38 : Starting Network Model Serivice...
+16-Dec-18 02:31:38 : Inserting entity with GID (0000000200000001).
+16-Dec-18 02:31:38 : Inserting entity with GID (0000000200000002).
+16-Dec-18 02:31:38 : Inserting entity with GID (0000000100000001).
+16-Dec-18 02:31:38 : Inserting entity with GID (0000000100000002).
+16-Dec-18 02:31:38 : Inserting entity with GID (0000000100000003).
+16-Dec-18 02:31:38 : Inserting entity with GID (0000000100000004).
+16-Dec-18 02:31:38 : Inserting entity with GID (0000000500000001).
+16-Dec-18 02:31:38 : Inserting entity with GID (0000000500000002).
+16-Dec-18 02:31:38 : Inserting entity with GID (0000000600000001).
+16-Dec-18 02:31:38 : Inserting entity with GID (0000000600000002).
+16-Dec-18 02:31:38 : Inserting entity with GID (0000000600000003).
+16-Dec-18 02:31:38 : Inserting entity with GID (0000000400000001).
+16-Dec-18 02:31:38 : Inserting entity with GID (0000000400000002).
+16-Dec-18 02:31:38 : Inserting entity with GID (0000000300000001).
+16-Dec-18 02:31:38 : Inserting entity with GID (0000000300000002).
+16-Dec-18 02:31:38 : Inserting entity with GID (0000000300000003).
+16-Dec-18 02:31:38 : Inserting entity with GID (0000000300000004).
+16-Dec-18 02:31:38 : Inserting entity with GID (0000000300000005).
+16-Dec-18 02:31:38 : Inserting entity with GID (0000000200000003).
+16-Dec-18 02:31:38 : Inserting entity with GID (0000000200000004).
+16-Dec-18 02:31:38 : Inserting entity with GID (0000000100000005).
+16-Dec-18 02:31:38 : Inserting entity with GID (0000000100000006).
+16-Dec-18 02:31:38 : Inserting entity with GID (0000000100000007).
+16-Dec-18 02:31:38 : Inserting entity with GID (0000000100000008).
+16-Dec-18 02:31:38 : Inserting entity with GID (0000000500000003).
+16-Dec-18 02:31:38 : Inserting entity with GID (0000000500000004).
+16-Dec-18 02:31:38 : Inserting entity with GID (0000000600000004).
+16-Dec-18 02:31:38 : Inserting entity with GID (0000000600000005).
+16-Dec-18 02:31:38 : Inserting entity with GID (0000000600000006).
+16-Dec-18 02:31:38 : Inserting entity with GID (0000000400000003).
+16-Dec-18 02:31:38 : Inserting entity with GID (0000000400000004).
+16-Dec-18 02:31:38 : Inserting entity with GID (0000000300000006).
+16-Dec-18 02:31:38 : Inserting entity with GID (0000000300000007).
+16-Dec-18 02:31:38 : Inserting entity with GID (0000000300000008).
+16-Dec-18 02:31:38 : Inserting entity with GID (0000000300000009).
+16-Dec-18 02:31:38 : Inserting entity with GID (000000030000000a).
+16-Dec-18 02:31:39 : The WCF service GenericDataAccess is ready.
+16-Dec-18 02:31:39 : Endpoints:
+16-Dec-18 02:31:39 : net.tcp://localhost:10000/NetworkModelService/GDA/
+16-Dec-18 02:31:39 : Connection string: ../NetworkModelData.data
+16-Dec-18 02:31:39 : Trace level: Info
+16-Dec-18 02:31:39 : The Network Model Service is started.
+16-Dec-18 02:31:39 : Press <Enter> to stop the service.
+16-Dec-18 02:33:56 : Starting Network Model Serivice...
+16-Dec-18 02:33:57 : Inserting entity with GID (0000000200000001).
+16-Dec-18 02:33:57 : Inserting entity with GID (0000000200000002).
+16-Dec-18 02:33:57 : Inserting entity with GID (0000000100000001).
+16-Dec-18 02:33:57 : Inserting entity with GID (0000000100000002).
+16-Dec-18 02:33:57 : Inserting entity with GID (0000000100000003).
+16-Dec-18 02:33:57 : Inserting entity with GID (0000000100000004).
+16-Dec-18 02:33:57 : Inserting entity with GID (0000000500000001).
+16-Dec-18 02:33:57 : Inserting entity with GID (0000000500000002).
+16-Dec-18 02:33:57 : Inserting entity with GID (0000000600000001).
+16-Dec-18 02:33:57 : Inserting entity with GID (0000000600000002).
+16-Dec-18 02:33:57 : Inserting entity with GID (0000000600000003).
+16-Dec-18 02:33:57 : Inserting entity with GID (0000000400000001).
+16-Dec-18 02:33:57 : Inserting entity with GID (0000000400000002).
+16-Dec-18 02:33:57 : Inserting entity with GID (0000000300000001).
+16-Dec-18 02:33:57 : Inserting entity with GID (0000000300000002).
+16-Dec-18 02:33:57 : Inserting entity with GID (0000000300000003).
+16-Dec-18 02:33:57 : Inserting entity with GID (0000000300000004).
+16-Dec-18 02:33:57 : Inserting entity with GID (0000000300000005).
+16-Dec-18 02:33:57 : Inserting entity with GID (0000000200000003).
+16-Dec-18 02:33:57 : Inserting entity with GID (0000000200000004).
+16-Dec-18 02:33:57 : Inserting entity with GID (0000000100000005).
+16-Dec-18 02:33:57 : Inserting entity with GID (0000000100000006).
+16-Dec-18 02:33:57 : Inserting entity with GID (0000000100000007).
+16-Dec-18 02:33:57 : Inserting entity with GID (0000000100000008).
+16-Dec-18 02:33:57 : Inserting entity with GID (0000000500000003).
+16-Dec-18 02:33:57 : Inserting entity with GID (0000000500000004).
+16-Dec-18 02:33:57 : Inserting entity with GID (0000000600000004).
+16-Dec-18 02:33:57 : Inserting entity with GID (0000000600000005).
+16-Dec-18 02:33:57 : Inserting entity with GID (0000000600000006).
+16-Dec-18 02:33:57 : Inserting entity with GID (0000000400000003).
+16-Dec-18 02:33:57 : Inserting entity with GID (0000000400000004).
+16-Dec-18 02:33:57 : Inserting entity with GID (0000000300000006).
+16-Dec-18 02:33:57 : Inserting entity with GID (0000000300000007).
+16-Dec-18 02:33:57 : Inserting entity with GID (0000000300000008).
+16-Dec-18 02:33:57 : Inserting entity with GID (0000000300000009).
+16-Dec-18 02:33:57 : Inserting entity with GID (000000030000000a).
+16-Dec-18 02:33:58 : The WCF service GenericDataAccess is ready.
+16-Dec-18 02:33:58 : Endpoints:
+16-Dec-18 02:33:58 : net.tcp://localhost:10000/NetworkModelService/GDA/
+16-Dec-18 02:33:58 : Connection string: ../NetworkModelData.data
+16-Dec-18 02:33:58 : Trace level: Info
+16-Dec-18 02:33:58 : The Network Model Service is started.
+16-Dec-18 02:33:58 : Press <Enter> to stop the service.
+16-Dec-18 02:36:57 : Starting Network Model Serivice...
+16-Dec-18 02:36:57 : Inserting entity with GID (0000000200000001).
+16-Dec-18 02:36:57 : Inserting entity with GID (0000000200000002).
+16-Dec-18 02:36:57 : Inserting entity with GID (0000000100000001).
+16-Dec-18 02:36:57 : Inserting entity with GID (0000000100000002).
+16-Dec-18 02:36:57 : Inserting entity with GID (0000000100000003).
+16-Dec-18 02:36:57 : Inserting entity with GID (0000000100000004).
+16-Dec-18 02:36:57 : Inserting entity with GID (0000000500000001).
+16-Dec-18 02:36:57 : Inserting entity with GID (0000000500000002).
+16-Dec-18 02:36:57 : Inserting entity with GID (0000000600000001).
+16-Dec-18 02:36:57 : Inserting entity with GID (0000000600000002).
+16-Dec-18 02:36:57 : Inserting entity with GID (0000000600000003).
+16-Dec-18 02:36:57 : Inserting entity with GID (0000000400000001).
+16-Dec-18 02:36:57 : Inserting entity with GID (0000000400000002).
+16-Dec-18 02:36:57 : Inserting entity with GID (0000000300000001).
+16-Dec-18 02:36:57 : Inserting entity with GID (0000000300000002).
+16-Dec-18 02:36:57 : Inserting entity with GID (0000000300000003).
+16-Dec-18 02:36:57 : Inserting entity with GID (0000000300000004).
+16-Dec-18 02:36:57 : Inserting entity with GID (0000000300000005).
+16-Dec-18 02:36:57 : Inserting entity with GID (0000000200000003).
+16-Dec-18 02:36:57 : Inserting entity with GID (0000000200000004).
+16-Dec-18 02:36:57 : Inserting entity with GID (0000000100000005).
+16-Dec-18 02:36:57 : Inserting entity with GID (0000000100000006).
+16-Dec-18 02:36:57 : Inserting entity with GID (0000000100000007).
+16-Dec-18 02:36:57 : Inserting entity with GID (0000000100000008).
+16-Dec-18 02:36:57 : Inserting entity with GID (0000000500000003).
+16-Dec-18 02:36:57 : Inserting entity with GID (0000000500000004).
+16-Dec-18 02:36:57 : Inserting entity with GID (0000000600000004).
+16-Dec-18 02:36:57 : Inserting entity with GID (0000000600000005).
+16-Dec-18 02:36:57 : Inserting entity with GID (0000000600000006).
+16-Dec-18 02:36:57 : Inserting entity with GID (0000000400000003).
+16-Dec-18 02:36:57 : Inserting entity with GID (0000000400000004).
+16-Dec-18 02:36:57 : Inserting entity with GID (0000000300000006).
+16-Dec-18 02:36:57 : Inserting entity with GID (0000000300000007).
+16-Dec-18 02:36:57 : Inserting entity with GID (0000000300000008).
+16-Dec-18 02:36:57 : Inserting entity with GID (0000000300000009).
+16-Dec-18 02:36:57 : Inserting entity with GID (000000030000000a).
+16-Dec-18 02:36:57 : The WCF service GenericDataAccess is ready.
+16-Dec-18 02:36:57 : Endpoints:
+16-Dec-18 02:36:57 : net.tcp://localhost:10000/NetworkModelService/GDA/
+16-Dec-18 02:36:57 : Connection string: ../NetworkModelData.data
+16-Dec-18 02:36:57 : Trace level: Info
+16-Dec-18 02:36:57 : The Network Model Service is started.
+16-Dec-18 02:36:57 : Press <Enter> to stop the service.
+16-Dec-18 02:38:15 : Starting Network Model Serivice...
+16-Dec-18 02:38:15 : Inserting entity with GID (0000000200000001).
+16-Dec-18 02:38:15 : Inserting entity with GID (0000000200000002).
+16-Dec-18 02:38:15 : Inserting entity with GID (0000000100000001).
+16-Dec-18 02:38:15 : Inserting entity with GID (0000000100000002).
+16-Dec-18 02:38:15 : Inserting entity with GID (0000000100000003).
+16-Dec-18 02:38:15 : Inserting entity with GID (0000000100000004).
+16-Dec-18 02:38:15 : Inserting entity with GID (0000000500000001).
+16-Dec-18 02:38:16 : Inserting entity with GID (0000000500000002).
+16-Dec-18 02:38:16 : Inserting entity with GID (0000000600000001).
+16-Dec-18 02:38:16 : Inserting entity with GID (0000000600000002).
+16-Dec-18 02:38:16 : Inserting entity with GID (0000000600000003).
+16-Dec-18 02:38:16 : Inserting entity with GID (0000000400000001).
+16-Dec-18 02:38:16 : Inserting entity with GID (0000000400000002).
+16-Dec-18 02:38:16 : Inserting entity with GID (0000000300000001).
+16-Dec-18 02:38:16 : Inserting entity with GID (0000000300000002).
+16-Dec-18 02:38:16 : Inserting entity with GID (0000000300000003).
+16-Dec-18 02:38:16 : Inserting entity with GID (0000000300000004).
+16-Dec-18 02:38:16 : Inserting entity with GID (0000000300000005).
+16-Dec-18 02:38:16 : Inserting entity with GID (0000000200000003).
+16-Dec-18 02:38:16 : Inserting entity with GID (0000000200000004).
+16-Dec-18 02:38:16 : Inserting entity with GID (0000000100000005).
+16-Dec-18 02:38:16 : Inserting entity with GID (0000000100000006).
+16-Dec-18 02:38:16 : Inserting entity with GID (0000000100000007).
+16-Dec-18 02:38:16 : Inserting entity with GID (0000000100000008).
+16-Dec-18 02:38:16 : Inserting entity with GID (0000000500000003).
+16-Dec-18 02:38:16 : Inserting entity with GID (0000000500000004).
+16-Dec-18 02:38:16 : Inserting entity with GID (0000000600000004).
+16-Dec-18 02:38:16 : Inserting entity with GID (0000000600000005).
+16-Dec-18 02:38:16 : Inserting entity with GID (0000000600000006).
+16-Dec-18 02:38:16 : Inserting entity with GID (0000000400000003).
+16-Dec-18 02:38:16 : Inserting entity with GID (0000000400000004).
+16-Dec-18 02:38:16 : Inserting entity with GID (0000000300000006).
+16-Dec-18 02:38:16 : Inserting entity with GID (0000000300000007).
+16-Dec-18 02:38:16 : Inserting entity with GID (0000000300000008).
+16-Dec-18 02:38:16 : Inserting entity with GID (0000000300000009).
+16-Dec-18 02:38:16 : Inserting entity with GID (000000030000000a).
+16-Dec-18 02:38:16 : The WCF service GenericDataAccess is ready.
+16-Dec-18 02:38:16 : Endpoints:
+16-Dec-18 02:38:16 : net.tcp://localhost:10000/NetworkModelService/GDA/
+16-Dec-18 02:38:16 : Connection string: ../NetworkModelData.data
+16-Dec-18 02:38:16 : Trace level: Info
+16-Dec-18 02:38:17 : The Network Model Service is started.
+16-Dec-18 02:38:17 : Press <Enter> to stop the service.
+16-Dec-18 02:38:25 : Starting Network Model Serivice...
+16-Dec-18 02:38:25 : Inserting entity with GID (0000000200000001).
+16-Dec-18 02:38:25 : Inserting entity with GID (0000000200000002).
+16-Dec-18 02:38:25 : Inserting entity with GID (0000000100000001).
+16-Dec-18 02:38:25 : Inserting entity with GID (0000000100000002).
+16-Dec-18 02:38:25 : Inserting entity with GID (0000000100000003).
+16-Dec-18 02:38:25 : Inserting entity with GID (0000000100000004).
+16-Dec-18 02:38:25 : Inserting entity with GID (0000000500000001).
+16-Dec-18 02:38:25 : Inserting entity with GID (0000000500000002).
+16-Dec-18 02:38:25 : Inserting entity with GID (0000000600000001).
+16-Dec-18 02:38:25 : Inserting entity with GID (0000000600000002).
+16-Dec-18 02:38:25 : Inserting entity with GID (0000000600000003).
+16-Dec-18 02:38:25 : Inserting entity with GID (0000000400000001).
+16-Dec-18 02:38:25 : Inserting entity with GID (0000000400000002).
+16-Dec-18 02:38:25 : Inserting entity with GID (0000000300000001).
+16-Dec-18 02:38:25 : Inserting entity with GID (0000000300000002).
+16-Dec-18 02:38:25 : Inserting entity with GID (0000000300000003).
+16-Dec-18 02:38:25 : Inserting entity with GID (0000000300000004).
+16-Dec-18 02:38:25 : Inserting entity with GID (0000000300000005).
+16-Dec-18 02:38:25 : Inserting entity with GID (0000000200000003).
+16-Dec-18 02:38:25 : Inserting entity with GID (0000000200000004).
+16-Dec-18 02:38:25 : Inserting entity with GID (0000000100000005).
+16-Dec-18 02:38:25 : Inserting entity with GID (0000000100000006).
+16-Dec-18 02:38:25 : Inserting entity with GID (0000000100000007).
+16-Dec-18 02:38:25 : Inserting entity with GID (0000000100000008).
+16-Dec-18 02:38:25 : Inserting entity with GID (0000000500000003).
+16-Dec-18 02:38:25 : Inserting entity with GID (0000000500000004).
+16-Dec-18 02:38:25 : Inserting entity with GID (0000000600000004).
+16-Dec-18 02:38:25 : Inserting entity with GID (0000000600000005).
+16-Dec-18 02:38:25 : Inserting entity with GID (0000000600000006).
+16-Dec-18 02:38:25 : Inserting entity with GID (0000000400000003).
+16-Dec-18 02:38:25 : Inserting entity with GID (0000000400000004).
+16-Dec-18 02:38:25 : Inserting entity with GID (0000000300000006).
+16-Dec-18 02:38:25 : Inserting entity with GID (0000000300000007).
+16-Dec-18 02:38:25 : Inserting entity with GID (0000000300000008).
+16-Dec-18 02:38:25 : Inserting entity with GID (0000000300000009).
+16-Dec-18 02:38:25 : Inserting entity with GID (000000030000000a).
+16-Dec-18 02:38:26 : The WCF service GenericDataAccess is ready.
+16-Dec-18 02:38:26 : Endpoints:
+16-Dec-18 02:38:26 : net.tcp://localhost:10000/NetworkModelService/GDA/
+16-Dec-18 02:38:26 : Connection string: ../NetworkModelData.data
+16-Dec-18 02:38:26 : Trace level: Info
+16-Dec-18 02:38:26 : The Network Model Service is started.
+16-Dec-18 02:38:26 : Press <Enter> to stop the service.
+16-Dec-18 02:45:03 : Starting Network Model Serivice...
+16-Dec-18 02:45:03 : Inserting entity with GID (0000000200000001).
+16-Dec-18 02:45:03 : Inserting entity with GID (0000000200000002).
+16-Dec-18 02:45:03 : Inserting entity with GID (0000000100000001).
+16-Dec-18 02:45:03 : Inserting entity with GID (0000000100000002).
+16-Dec-18 02:45:03 : Inserting entity with GID (0000000100000003).
+16-Dec-18 02:45:03 : Inserting entity with GID (0000000100000004).
+16-Dec-18 02:45:03 : Inserting entity with GID (0000000500000001).
+16-Dec-18 02:45:03 : Inserting entity with GID (0000000500000002).
+16-Dec-18 02:45:03 : Inserting entity with GID (0000000600000001).
+16-Dec-18 02:45:03 : Inserting entity with GID (0000000600000002).
+16-Dec-18 02:45:03 : Inserting entity with GID (0000000600000003).
+16-Dec-18 02:45:03 : Inserting entity with GID (0000000400000001).
+16-Dec-18 02:45:03 : Inserting entity with GID (0000000400000002).
+16-Dec-18 02:45:03 : Inserting entity with GID (0000000300000001).
+16-Dec-18 02:45:03 : Inserting entity with GID (0000000300000002).
+16-Dec-18 02:45:03 : Inserting entity with GID (0000000300000003).
+16-Dec-18 02:45:03 : Inserting entity with GID (0000000300000004).
+16-Dec-18 02:45:03 : Inserting entity with GID (0000000300000005).
+16-Dec-18 02:45:03 : Inserting entity with GID (0000000200000003).
+16-Dec-18 02:45:03 : Inserting entity with GID (0000000200000004).
+16-Dec-18 02:45:03 : Inserting entity with GID (0000000100000005).
+16-Dec-18 02:45:03 : Inserting entity with GID (0000000100000006).
+16-Dec-18 02:45:03 : Inserting entity with GID (0000000100000007).
+16-Dec-18 02:45:03 : Inserting entity with GID (0000000100000008).
+16-Dec-18 02:45:03 : Inserting entity with GID (0000000500000003).
+16-Dec-18 02:45:03 : Inserting entity with GID (0000000500000004).
+16-Dec-18 02:45:03 : Inserting entity with GID (0000000600000004).
+16-Dec-18 02:45:03 : Inserting entity with GID (0000000600000005).
+16-Dec-18 02:45:03 : Inserting entity with GID (0000000600000006).
+16-Dec-18 02:45:03 : Inserting entity with GID (0000000400000003).
+16-Dec-18 02:45:03 : Inserting entity with GID (0000000400000004).
+16-Dec-18 02:45:03 : Inserting entity with GID (0000000300000006).
+16-Dec-18 02:45:03 : Inserting entity with GID (0000000300000007).
+16-Dec-18 02:45:03 : Inserting entity with GID (0000000300000008).
+16-Dec-18 02:45:03 : Inserting entity with GID (0000000300000009).
+16-Dec-18 02:45:03 : Inserting entity with GID (000000030000000a).
+16-Dec-18 02:45:04 : The WCF service GenericDataAccess is ready.
+16-Dec-18 02:45:04 : Endpoints:
+16-Dec-18 02:45:04 : net.tcp://localhost:10000/NetworkModelService/GDA/
+16-Dec-18 02:45:04 : Connection string: ../NetworkModelData.data
+16-Dec-18 02:45:04 : Trace level: Info
+16-Dec-18 02:45:04 : The Network Model Service is started.
+16-Dec-18 02:45:04 : Press <Enter> to stop the service.
+16-Dec-18 20:10:26 : Starting Network Model Serivice...
+16-Dec-18 20:10:28 : Inserting entity with GID (0000000200000001).
+16-Dec-18 20:10:28 : Inserting entity with GID (0000000200000002).
+16-Dec-18 20:10:28 : Inserting entity with GID (0000000100000001).
+16-Dec-18 20:10:28 : Inserting entity with GID (0000000100000002).
+16-Dec-18 20:10:28 : Inserting entity with GID (0000000100000003).
+16-Dec-18 20:10:28 : Inserting entity with GID (0000000100000004).
+16-Dec-18 20:10:28 : Inserting entity with GID (0000000500000001).
+16-Dec-18 20:10:28 : Inserting entity with GID (0000000500000002).
+16-Dec-18 20:10:28 : Inserting entity with GID (0000000600000001).
+16-Dec-18 20:10:28 : Inserting entity with GID (0000000600000002).
+16-Dec-18 20:10:28 : Inserting entity with GID (0000000600000003).
+16-Dec-18 20:10:28 : Inserting entity with GID (0000000400000001).
+16-Dec-18 20:10:28 : Inserting entity with GID (0000000400000002).
+16-Dec-18 20:10:28 : Inserting entity with GID (0000000300000001).
+16-Dec-18 20:10:28 : Inserting entity with GID (0000000300000002).
+16-Dec-18 20:10:28 : Inserting entity with GID (0000000300000003).
+16-Dec-18 20:10:28 : Inserting entity with GID (0000000300000004).
+16-Dec-18 20:10:28 : Inserting entity with GID (0000000300000005).
+16-Dec-18 20:10:28 : Inserting entity with GID (0000000200000003).
+16-Dec-18 20:10:28 : Inserting entity with GID (0000000200000004).
+16-Dec-18 20:10:28 : Inserting entity with GID (0000000100000005).
+16-Dec-18 20:10:28 : Inserting entity with GID (0000000100000006).
+16-Dec-18 20:10:28 : Inserting entity with GID (0000000100000007).
+16-Dec-18 20:10:28 : Inserting entity with GID (0000000100000008).
+16-Dec-18 20:10:28 : Inserting entity with GID (0000000500000003).
+16-Dec-18 20:10:28 : Inserting entity with GID (0000000500000004).
+16-Dec-18 20:10:28 : Inserting entity with GID (0000000600000004).
+16-Dec-18 20:10:28 : Inserting entity with GID (0000000600000005).
+16-Dec-18 20:10:28 : Inserting entity with GID (0000000600000006).
+16-Dec-18 20:10:28 : Inserting entity with GID (0000000400000003).
+16-Dec-18 20:10:28 : Inserting entity with GID (0000000400000004).
+16-Dec-18 20:10:28 : Inserting entity with GID (0000000300000006).
+16-Dec-18 20:10:28 : Inserting entity with GID (0000000300000007).
+16-Dec-18 20:10:28 : Inserting entity with GID (0000000300000008).
+16-Dec-18 20:10:28 : Inserting entity with GID (0000000300000009).
+16-Dec-18 20:10:28 : Inserting entity with GID (000000030000000a).
+16-Dec-18 20:10:31 : The WCF service GenericDataAccess is ready.
+16-Dec-18 20:10:31 : Endpoints:
+16-Dec-18 20:10:31 : net.tcp://localhost:10000/NetworkModelService/GDA/
+16-Dec-18 20:10:31 : Connection string: ../NetworkModelData.data
+16-Dec-18 20:10:31 : Trace level: Info
+16-Dec-18 20:10:31 : The Network Model Service is started.
+16-Dec-18 20:10:31 : Press <Enter> to stop the service.
+16-Dec-18 20:18:09 : Starting Network Model Serivice...
+16-Dec-18 20:18:10 : The WCF service GenericDataAccess is ready.
+16-Dec-18 20:18:10 : Endpoints:
+16-Dec-18 20:18:10 : net.tcp://localhost:10000/NetworkModelService/GDA/
+16-Dec-18 20:18:10 : Connection string: ../NetworkModelData.data
+16-Dec-18 20:18:10 : Trace level: Info
+16-Dec-18 20:18:10 : The Network Model Service is started.
+16-Dec-18 20:18:10 : Press <Enter> to stop the service.
+16-Dec-18 20:20:03 : Applying  delta to network model.
+16-Dec-18 20:20:03 : Inserting entity with GID (0000000200000001).
+16-Dec-18 20:20:03 : Inserting entity with GID (0000000200000002).
+16-Dec-18 20:20:03 : Inserting entity with GID (0000000100000001).
+16-Dec-18 20:20:03 : Inserting entity with GID (0000000100000002).
+16-Dec-18 20:20:03 : Inserting entity with GID (0000000100000003).
+16-Dec-18 20:20:03 : Inserting entity with GID (0000000100000004).
+16-Dec-18 20:20:03 : Inserting entity with GID (0000000500000001).
+16-Dec-18 20:20:03 : Inserting entity with GID (0000000500000002).
+16-Dec-18 20:20:03 : Inserting entity with GID (0000000600000001).
+16-Dec-18 20:20:03 : Inserting entity with GID (0000000600000002).
+16-Dec-18 20:20:03 : Inserting entity with GID (0000000600000003).
+16-Dec-18 20:20:03 : Inserting entity with GID (0000000400000001).
+16-Dec-18 20:20:03 : Inserting entity with GID (0000000400000002).
+16-Dec-18 20:20:03 : Inserting entity with GID (0000000300000001).
+16-Dec-18 20:20:03 : Inserting entity with GID (0000000300000002).
+16-Dec-18 20:20:03 : Inserting entity with GID (0000000300000003).
+16-Dec-18 20:20:03 : Inserting entity with GID (0000000300000004).
+16-Dec-18 20:20:03 : Inserting entity with GID (0000000300000005).
+16-Dec-18 20:20:03 : Applying delta to network model successfully finished.
+16-Dec-18 20:21:27 : Starting Network Model Serivice...
+16-Dec-18 20:21:27 : Inserting entity with GID (0000000200000001).
+16-Dec-18 20:21:27 : Inserting entity with GID (0000000200000002).
+16-Dec-18 20:21:27 : Inserting entity with GID (0000000100000001).
+16-Dec-18 20:21:27 : Inserting entity with GID (0000000100000002).
+16-Dec-18 20:21:27 : Inserting entity with GID (0000000100000003).
+16-Dec-18 20:21:27 : Inserting entity with GID (0000000100000004).
+16-Dec-18 20:21:27 : Inserting entity with GID (0000000500000001).
+16-Dec-18 20:21:27 : Inserting entity with GID (0000000500000002).
+16-Dec-18 20:21:27 : Inserting entity with GID (0000000600000001).
+16-Dec-18 20:21:27 : Inserting entity with GID (0000000600000002).
+16-Dec-18 20:21:27 : Inserting entity with GID (0000000600000003).
+16-Dec-18 20:21:27 : Inserting entity with GID (0000000400000001).
+16-Dec-18 20:21:27 : Inserting entity with GID (0000000400000002).
+16-Dec-18 20:21:27 : Inserting entity with GID (0000000300000001).
+16-Dec-18 20:21:27 : Inserting entity with GID (0000000300000002).
+16-Dec-18 20:21:27 : Inserting entity with GID (0000000300000003).
+16-Dec-18 20:21:27 : Inserting entity with GID (0000000300000004).
+16-Dec-18 20:21:27 : Inserting entity with GID (0000000300000005).
+16-Dec-18 20:21:28 : The WCF service GenericDataAccess is ready.
+16-Dec-18 20:21:28 : Endpoints:
+16-Dec-18 20:21:28 : net.tcp://localhost:10000/NetworkModelService/GDA/
+16-Dec-18 20:21:28 : Connection string: ../NetworkModelData.data
+16-Dec-18 20:21:28 : Trace level: Info
+16-Dec-18 20:21:28 : The Network Model Service is started.
+16-Dec-18 20:21:28 : Press <Enter> to stop the service.
+16-Dec-18 22:59:16 : Starting Network Model Serivice...
+16-Dec-18 22:59:16 : Inserting entity with GID (0000000200000001).
+16-Dec-18 22:59:16 : Inserting entity with GID (0000000200000002).
+16-Dec-18 22:59:16 : Inserting entity with GID (0000000100000001).
+16-Dec-18 22:59:16 : Inserting entity with GID (0000000100000002).
+16-Dec-18 22:59:16 : Inserting entity with GID (0000000100000003).
+16-Dec-18 22:59:16 : Inserting entity with GID (0000000100000004).
+16-Dec-18 22:59:16 : Inserting entity with GID (0000000500000001).
+16-Dec-18 22:59:16 : Inserting entity with GID (0000000500000002).
+16-Dec-18 22:59:16 : Inserting entity with GID (0000000600000001).
+16-Dec-18 22:59:16 : Inserting entity with GID (0000000600000002).
+16-Dec-18 22:59:16 : Inserting entity with GID (0000000600000003).
+16-Dec-18 22:59:16 : Inserting entity with GID (0000000400000001).
+16-Dec-18 22:59:16 : Inserting entity with GID (0000000400000002).
+16-Dec-18 22:59:16 : Inserting entity with GID (0000000300000001).
+16-Dec-18 22:59:16 : Inserting entity with GID (0000000300000002).
+16-Dec-18 22:59:16 : Inserting entity with GID (0000000300000003).
+16-Dec-18 22:59:16 : Inserting entity with GID (0000000300000004).
+16-Dec-18 22:59:16 : Inserting entity with GID (0000000300000005).
+16-Dec-18 22:59:17 : The WCF service GenericDataAccess is ready.
+16-Dec-18 22:59:17 : Endpoints:
+16-Dec-18 22:59:17 : net.tcp://localhost:10000/NetworkModelService/GDA/
+16-Dec-18 22:59:17 : Connection string: ../NetworkModelData.data
+16-Dec-18 22:59:17 : Trace level: Info
+16-Dec-18 22:59:17 : The Network Model Service is started.
+16-Dec-18 22:59:17 : Press <Enter> to stop the service.

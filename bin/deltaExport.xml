@@ -1,0 +1,199 @@
+﻿<delta id="0">
+  <operations>
+    <operation type="insert">
+      <ResourceDescriptions count="18">
+        <ResourceDescription>
+          <id gid="0x00000002ffffffff" type="CONNECTNODECONTAINER" />
+          <Properties>
+            <Property id="IDOBJ_MRID" value="CNC_1" />
+            <Property id="IDOBJ_NAME" value="CNC_1" />
+            <Property id="IDOBJ_ALIASNAME" value="ConnectivityNodeContainer1" />
+          </Properties>
+        </ResourceDescription>
+        <ResourceDescription>
+          <id gid="0x00000002fffffffe" type="CONNECTNODECONTAINER" />
+          <Properties>
+            <Property id="IDOBJ_MRID" value="CNC_2" />
+            <Property id="IDOBJ_NAME" value="CNC_2" />
+            <Property id="IDOBJ_ALIASNAME" value="ConnectivityNodeContainer2" />
+          </Properties>
+        </ResourceDescription>
+        <ResourceDescription>
+          <id gid="0x00000001ffffffff" type="CONNECTNODE" />
+          <Properties>
+            <Property id="IDOBJ_MRID" value="CN_1" />
+            <Property id="IDOBJ_NAME" value="CN_1" />
+            <Property id="IDOBJ_ALIASNAME" value="ConnectivityNode1" />
+            <Property id="CONNECTNODE_DESCRIPTION" value="ConnectivityNode1" />
+            <Property id="CONNECTNODE_CONNECTNODECONTAINER" value="0x00000002ffffffff" />
+          </Properties>
+        </ResourceDescription>
+        <ResourceDescription>
+          <id gid="0x00000001fffffffe" type="CONNECTNODE" />
+          <Properties>
+            <Property id="IDOBJ_MRID" value="CN_2" />
+            <Property id="IDOBJ_NAME" value="CN_2" />
+            <Property id="IDOBJ_ALIASNAME" value="ConnectivityNode2" />
+            <Property id="CONNECTNODE_DESCRIPTION" value="ConnectivityNode2" />
+            <Property id="CONNECTNODE_CONNECTNODECONTAINER" value="0x00000002ffffffff" />
+          </Properties>
+        </ResourceDescription>
+        <ResourceDescription>
+          <id gid="0x00000001fffffffd" type="CONNECTNODE" />
+          <Properties>
+            <Property id="IDOBJ_MRID" value="CN_3" />
+            <Property id="IDOBJ_NAME" value="CN_3" />
+            <Property id="IDOBJ_ALIASNAME" value="ConnectivityNode3" />
+            <Property id="CONNECTNODE_DESCRIPTION" value="ConnectivityNode3" />
+            <Property id="CONNECTNODE_CONNECTNODECONTAINER" value="0x00000002ffffffff" />
+          </Properties>
+        </ResourceDescription>
+        <ResourceDescription>
+          <id gid="0x00000001fffffffc" type="CONNECTNODE" />
+          <Properties>
+            <Property id="IDOBJ_MRID" value="CN_4" />
+            <Property id="IDOBJ_NAME" value="CN_4" />
+            <Property id="IDOBJ_ALIASNAME" value="ConnectivityNode4" />
+            <Property id="CONNECTNODE_DESCRIPTION" value="ConnectivityNode4" />
+            <Property id="CONNECTNODE_CONNECTNODECONTAINER" value="0x00000002fffffffe" />
+          </Properties>
+        </ResourceDescription>
+        <ResourceDescription>
+          <id gid="0x00000005ffffffff" type="ACLINESEG" />
+          <Properties>
+            <Property id="IDOBJ_MRID" value="ACLS_1" />
+            <Property id="IDOBJ_NAME" value="ACLS_1" />
+            <Property id="IDOBJ_ALIASNAME" value="ACLineSegment1" />
+            <Property id="CONDUCTOR_LENGTH" value="2000" />
+            <Property id="ACLINESEG_B0CH" value="100" />
+            <Property id="ACLINESEG_BCH" value="100" />
+            <Property id="ACLINESEG_G0CH" value="100" />
+            <Property id="ACLINESEG_GCH" value="100" />
+            <Property id="ACLINESEG_R0" value="100" />
+            <Property id="ACLINESEG_R" value="100" />
+            <Property id="ACLINESEG_X0" value="100" />
+            <Property id="ACLINESEG_X" value="100" />
+          </Properties>
+        </ResourceDescription>
+        <ResourceDescription>
+          <id gid="0x00000005fffffffe" type="ACLINESEG" />
+          <Properties>
+            <Property id="IDOBJ_MRID" value="ACLS_2" />
+            <Property id="IDOBJ_NAME" value="ACLS_2" />
+            <Property id="IDOBJ_ALIASNAME" value="ACLineSegment2" />
+            <Property id="CONDUCTOR_LENGTH" value="5000" />
+            <Property id="ACLINESEG_B0CH" value="200" />
+            <Property id="ACLINESEG_BCH" value="200" />
+            <Property id="ACLINESEG_G0CH" value="200" />
+            <Property id="ACLINESEG_GCH" value="200" />
+            <Property id="ACLINESEG_R0" value="200" />
+            <Property id="ACLINESEG_R" value="200" />
+            <Property id="ACLINESEG_X0" value="200" />
+            <Property id="ACLINESEG_X" value="200" />
+          </Properties>
+        </ResourceDescription>
+        <ResourceDescription>
+          <id gid="0x00000006ffffffff" type="DCLINESEG" />
+          <Properties>
+            <Property id="IDOBJ_MRID" value="DCLS_1" />
+            <Property id="IDOBJ_NAME" value="DCLS_1" />
+            <Property id="IDOBJ_ALIASNAME" value="DCLineSegment1" />
+            <Property id="CONDUCTOR_LENGTH" value="1000" />
+          </Properties>
+        </ResourceDescription>
+        <ResourceDescription>
+          <id gid="0x00000006fffffffe" type="DCLINESEG" />
+          <Properties>
+            <Property id="IDOBJ_MRID" value="DCLS_2" />
+            <Property id="IDOBJ_NAME" value="DCLS_2" />
+            <Property id="IDOBJ_ALIASNAME" value="DCLineSegment2" />
+            <Property id="CONDUCTOR_LENGTH" value="2000" />
+          </Properties>
+        </ResourceDescription>
+        <ResourceDescription>
+          <id gid="0x00000006fffffffd" type="DCLINESEG" />
+          <Properties>
+            <Property id="IDOBJ_MRID" value="DCLS_3" />
+            <Property id="IDOBJ_NAME" value="DCLS_3" />
+            <Property id="IDOBJ_ALIASNAME" value="DCLineSegment3" />
+            <Property id="CONDUCTOR_LENGTH" value="3000" />
+          </Properties>
+        </ResourceDescription>
+        <ResourceDescription>
+          <id gid="0x00000004ffffffff" type="SERIESCOMPENSATOR" />
+          <Properties>
+            <Property id="IDOBJ_MRID" value="SC_1" />
+            <Property id="IDOBJ_NAME" value="SC_1" />
+            <Property id="IDOBJ_ALIASNAME" value="SeriesCompensator1" />
+            <Property id="SERIESCOMPENSATOR_R0" value="100" />
+            <Property id="SERIESCOMPENSATOR_R" value="100" />
+            <Property id="SERIESCOMPENSATOR_X0" value="100" />
+            <Property id="SERIESCOMPENSATOR_X" value="100" />
+          </Properties>
+        </ResourceDescription>
+        <ResourceDescription>
+          <id gid="0x00000004fffffffe" type="SERIESCOMPENSATOR" />
+          <Properties>
+            <Property id="IDOBJ_MRID" value="SC_2" />
+            <Property id="IDOBJ_NAME" value="SC_2" />
+            <Property id="IDOBJ_ALIASNAME" value="SeriesCompensator2" />
+            <Property id="SERIESCOMPENSATOR_R0" value="200" />
+            <Property id="SERIESCOMPENSATOR_R" value="200" />
+            <Property id="SERIESCOMPENSATOR_X0" value="200" />
+            <Property id="SERIESCOMPENSATOR_X" value="200" />
+          </Properties>
+        </ResourceDescription>
+        <ResourceDescription>
+          <id gid="0x00000003ffffffff" type="TERMINAL" />
+          <Properties>
+            <Property id="IDOBJ_MRID" value="TML_1" />
+            <Property id="IDOBJ_NAME" value="TML_1" />
+            <Property id="IDOBJ_ALIASNAME" value="Terminal1" />
+            <Property id="TERMINAL_CONDEQUIP" value="0x00000005ffffffff" />
+            <Property id="TERMINAL_CONNECTNODE" value="0x00000001ffffffff" />
+          </Properties>
+        </ResourceDescription>
+        <ResourceDescription>
+          <id gid="0x00000003fffffffe" type="TERMINAL" />
+          <Properties>
+            <Property id="IDOBJ_MRID" value="TML_2" />
+            <Property id="IDOBJ_NAME" value="TML_2" />
+            <Property id="IDOBJ_ALIASNAME" value="Terminal2" />
+            <Property id="TERMINAL_CONDEQUIP" value="0x00000005ffffffff" />
+            <Property id="TERMINAL_CONNECTNODE" value="0x00000001fffffffe" />
+          </Properties>
+        </ResourceDescription>
+        <ResourceDescription>
+          <id gid="0x00000003fffffffd" type="TERMINAL" />
+          <Properties>
+            <Property id="IDOBJ_MRID" value="TML_3" />
+            <Property id="IDOBJ_NAME" value="TML_3" />
+            <Property id="IDOBJ_ALIASNAME" value="Terminal3" />
+            <Property id="TERMINAL_CONDEQUIP" value="0x00000006ffffffff" />
+            <Property id="TERMINAL_CONNECTNODE" value="0x00000001fffffffd" />
+          </Properties>
+        </ResourceDescription>
+        <ResourceDescription>
+          <id gid="0x00000003fffffffc" type="TERMINAL" />
+          <Properties>
+            <Property id="IDOBJ_MRID" value="TML_4" />
+            <Property id="IDOBJ_NAME" value="TML_4" />
+            <Property id="IDOBJ_ALIASNAME" value="Terminal4" />
+            <Property id="TERMINAL_CONDEQUIP" value="0x00000006fffffffd" />
+            <Property id="TERMINAL_CONNECTNODE" value="0x00000001fffffffc" />
+          </Properties>
+        </ResourceDescription>
+        <ResourceDescription>
+          <id gid="0x00000003fffffffb" type="TERMINAL" />
+          <Properties>
+            <Property id="IDOBJ_MRID" value="TML_5" />
+            <Property id="IDOBJ_NAME" value="TML_5" />
+            <Property id="IDOBJ_ALIASNAME" value="Terminal5" />
+            <Property id="TERMINAL_CONDEQUIP" value="0x00000004ffffffff" />
+            <Property id="TERMINAL_CONNECTNODE" value="0x00000001ffffffff" />
+          </Properties>
+        </ResourceDescription>
+      </ResourceDescriptions>
+    </operation>
+  </operations>
+</delta>

@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+			xmlns:cim="http://iec.ch/TC57/2010/CIM-schema-cim15#"
+			xmlns:ftn="http://www.ftnydro.com/CIM15/2010/extension#">
+	
+	
+<!--[ Package_Core ]-->
+	
+	<!--ConnectivityNodeContainer-->
+	<cim:ConnectivityNodeContainer rdf:ID="CNC_1">
+		<cim:IdentifiedObject.aliasName>ConnectivityNodeContainer1</cim:IdentifiedObject.aliasName>
+		<cim:IdentifiedObject.mRID>CNC_1</cim:IdentifiedObject.mRID>
+		<cim:IdentifiedObject.name>CNC_1</cim:IdentifiedObject.name>
+	</cim:ConnectivityNodeContainer>
+	<cim:ConnectivityNodeContainer rdf:ID="CNC_2">
+		<cim:IdentifiedObject.aliasName>ConnectivityNodeContainer2</cim:IdentifiedObject.aliasName>
+		<cim:IdentifiedObject.mRID>CNC_2</cim:IdentifiedObject.mRID>
+		<cim:IdentifiedObject.name>CNC_2</cim:IdentifiedObject.name>
+	</cim:ConnectivityNodeContainer>
+	
+	<!--ConnectivityNode-->
+	<cim:ConnectivityNode rdf:ID="CN_1">
+		<cim:ConnectivityNode.ConnectivityNodeContainer rdf:resource="#CNC_1"/>
+		<cim:ConnectivityNode.description>ConnectivityNode1</cim:ConnectivityNode.description>
+		<cim:IdentifiedObject.aliasName>ConnectivityNode1</cim:IdentifiedObject.aliasName>
+		<cim:IdentifiedObject.mRID>CN_1</cim:IdentifiedObject.mRID>
+		<cim:IdentifiedObject.name>CN_1</cim:IdentifiedObject.name>
+	</cim:ConnectivityNode>
+	<cim:ConnectivityNode rdf:ID="CN_2">
+		<cim:ConnectivityNode.ConnectivityNodeContainer rdf:resource="#CNC_1"/>
+		<cim:ConnectivityNode.description>ConnectivityNode2</cim:ConnectivityNode.description>
+		<cim:IdentifiedObject.aliasName>ConnectivityNode2</cim:IdentifiedObject.aliasName>
+		<cim:IdentifiedObject.mRID>CN_2</cim:IdentifiedObject.mRID>
+		<cim:IdentifiedObject.name>CN_2</cim:IdentifiedObject.name>
+	</cim:ConnectivityNode>
+	<cim:ConnectivityNode rdf:ID="CN_3">
+		<cim:ConnectivityNode.ConnectivityNodeContainer rdf:resource="#CNC_1"/>
+		<cim:ConnectivityNode.description>ConnectivityNode3</cim:ConnectivityNode.description>
+		<cim:IdentifiedObject.aliasName>ConnectivityNode3</cim:IdentifiedObject.aliasName>
+		<cim:IdentifiedObject.mRID>CN_3</cim:IdentifiedObject.mRID>
+		<cim:IdentifiedObject.name>CN_3</cim:IdentifiedObject.name>
+	</cim:ConnectivityNode>
+	<cim:ConnectivityNode rdf:ID="CN_4">
+		<cim:ConnectivityNode.ConnectivityNodeContainer rdf:resource="#CNC_2"/>
+		<cim:ConnectivityNode.description>ConnectivityNode4</cim:ConnectivityNode.description>
+		<cim:IdentifiedObject.aliasName>ConnectivityNode4</cim:IdentifiedObject.aliasName>
+		<cim:IdentifiedObject.mRID>CN_4</cim:IdentifiedObject.mRID>
+		<cim:IdentifiedObject.name>CN_4</cim:IdentifiedObject.name>
+	</cim:ConnectivityNode>
+	
+	<!--Terminal-->
+	<cim:Terminal rdf:ID="TML_1">
+		<cim:Terminal.ConductingEquipment rdf:resource="#ACLS_1"/>
+		<cim:Terminal.ConnectivityNode rdf:resource="#CN_1"/>
+		<cim:IdentifiedObject.aliasName>Terminal1</cim:IdentifiedObject.aliasName>
+		<cim:IdentifiedObject.mRID>TML_1</cim:IdentifiedObject.mRID>
+		<cim:IdentifiedObject.name>TML_1</cim:IdentifiedObject.name>
+	</cim:Terminal>
+	<cim:Terminal rdf:ID="TML_2">
+		<cim:Terminal.ConductingEquipment rdf:resource="#ACLS_1"/>
+		<cim:Terminal.ConnectivityNode rdf:resource="#CN_2"/>
+		<cim:IdentifiedObject.aliasName>Terminal2</cim:IdentifiedObject.aliasName>
+		<cim:IdentifiedObject.mRID>TML_2</cim:IdentifiedObject.mRID>
+		<cim:IdentifiedObject.name>TML_2</cim:IdentifiedObject.name>
+	</cim:Terminal>
+	<cim:Terminal rdf:ID="TML_3">
+		<cim:Terminal.ConductingEquipment rdf:resource="#DCLS_1"/>
+		<cim:Terminal.ConnectivityNode rdf:resource="#CN_3"/>
+		<cim:IdentifiedObject.aliasName>Terminal3</cim:IdentifiedObject.aliasName>
+		<cim:IdentifiedObject.mRID>TML_3</cim:IdentifiedObject.mRID>
+		<cim:IdentifiedObject.name>TML_3</cim:IdentifiedObject.name>
+	</cim:Terminal>
+	<cim:Terminal rdf:ID="TML_4">
+		<cim:Terminal.ConductingEquipment rdf:resource="#DCLS_3"/>
+		<cim:Terminal.ConnectivityNode rdf:resource="#CN_4"/>
+		<cim:IdentifiedObject.aliasName>Terminal4</cim:IdentifiedObject.aliasName>
+		<cim:IdentifiedObject.mRID>TML_4</cim:IdentifiedObject.mRID>
+		<cim:IdentifiedObject.name>TML_4</cim:IdentifiedObject.name>
+	</cim:Terminal>
+	<cim:Terminal rdf:ID="TML_5">
+		<cim:Terminal.ConductingEquipment rdf:resource="#SC_1"/>
+		<cim:Terminal.ConnectivityNode rdf:resource="#CN_1"/>
+		<cim:IdentifiedObject.aliasName>Terminal5</cim:IdentifiedObject.aliasName>
+		<cim:IdentifiedObject.mRID>TML_5</cim:IdentifiedObject.mRID>
+		<cim:IdentifiedObject.name>TML_5</cim:IdentifiedObject.name>
+	</cim:Terminal>
+
+	
+<!--[ Package_Wire ]-->
+	
+	<!--ACLineSegment-->
+	<cim:ACLineSegment rdf:ID="ACLS_1">
+		<cim:ACLineSegment.b0ch>100</cim:ACLineSegment.b0ch>
+		<cim:ACLineSegment.bch>100</cim:ACLineSegment.bch>
+		<cim:ACLineSegment.g0ch>100</cim:ACLineSegment.g0ch>
+		<cim:ACLineSegment.gch>100</cim:ACLineSegment.gch>
+		<cim:ACLineSegment.r>100</cim:ACLineSegment.r>
+		<cim:ACLineSegment.r0>100</cim:ACLineSegment.r0>
+		<cim:ACLineSegment.x>100</cim:ACLineSegment.x>
+		<cim:ACLineSegment.x0>100</cim:ACLineSegment.x0>
+		<cim:Conductor.length>2000</cim:Conductor.length>
+		<cim:IdentifiedObject.aliasName>ACLineSegment1</cim:IdentifiedObject.aliasName>
+		<cim:IdentifiedObject.mRID>ACLS_1</cim:IdentifiedObject.mRID>
+		<cim:IdentifiedObject.name>ACLS_1</cim:IdentifiedObject.name>
+	</cim:ACLineSegment>
+	<cim:ACLineSegment rdf:ID="ACLS_2">
+		<cim:ACLineSegment.b0ch>200</cim:ACLineSegment.b0ch>
+		<cim:ACLineSegment.bch>200</cim:ACLineSegment.bch>
+		<cim:ACLineSegment.g0ch>200</cim:ACLineSegment.g0ch>
+		<cim:ACLineSegment.gch>200</cim:ACLineSegment.gch>
+		<cim:ACLineSegment.r>200</cim:ACLineSegment.r>
+		<cim:ACLineSegment.r0>200</cim:ACLineSegment.r0>
+		<cim:ACLineSegment.x>200</cim:ACLineSegment.x>
+		<cim:ACLineSegment.x0>200</cim:ACLineSegment.x0>
+		<cim:Conductor.length>5000</cim:Conductor.length>
+		<cim:IdentifiedObject.aliasName>ACLineSegment2</cim:IdentifiedObject.aliasName>
+		<cim:IdentifiedObject.mRID>ACLS_2</cim:IdentifiedObject.mRID>
+		<cim:IdentifiedObject.name>ACLS_2</cim:IdentifiedObject.name>
+	</cim:ACLineSegment>
+	
+	<!--DCLineSegment-->
+	<cim:DCLineSegment rdf:ID="DCLS_1">
+		<cim:Conductor.length>1000</cim:Conductor.length>
+		<cim:IdentifiedObject.aliasName>DCLineSegment1</cim:IdentifiedObject.aliasName>
+		<cim:IdentifiedObject.mRID>DCLS_1</cim:IdentifiedObject.mRID>
+		<cim:IdentifiedObject.name>DCLS_1</cim:IdentifiedObject.name>
+	</cim:DCLineSegment>
+	<cim:DCLineSegment rdf:ID="DCLS_2">
+		<cim:Conductor.length>2000</cim:Conductor.length>
+		<cim:IdentifiedObject.aliasName>DCLineSegment2</cim:IdentifiedObject.aliasName>
+		<cim:IdentifiedObject.mRID>DCLS_2</cim:IdentifiedObject.mRID>
+		<cim:IdentifiedObject.name>DCLS_2</cim:IdentifiedObject.name>
+	</cim:DCLineSegment>
+			<cim:DCLineSegment rdf:ID="DCLS_3">
+		<cim:Conductor.length>3000</cim:Conductor.length>
+		<cim:IdentifiedObject.aliasName>DCLineSegment3</cim:IdentifiedObject.aliasName>
+		<cim:IdentifiedObject.mRID>DCLS_3</cim:IdentifiedObject.mRID>
+		<cim:IdentifiedObject.name>DCLS_3</cim:IdentifiedObject.name>
+	</cim:DCLineSegment>
+	
+	<!--SeriesCompensator-->
+	<cim:SeriesCompensator rdf:ID="SC_1">
+		<cim:SeriesCompensator.r>100</cim:SeriesCompensator.r>
+		<cim:SeriesCompensator.r0>100</cim:SeriesCompensator.r0>
+		<cim:SeriesCompensator.x>100</cim:SeriesCompensator.x>
+		<cim:SeriesCompensator.x0>100</cim:SeriesCompensator.x0>
+		<cim:IdentifiedObject.aliasName>SeriesCompensator1</cim:IdentifiedObject.aliasName>
+		<cim:IdentifiedObject.mRID>SC_1</cim:IdentifiedObject.mRID>
+		<cim:IdentifiedObject.name>SC_1</cim:IdentifiedObject.name>
+	</cim:SeriesCompensator>
+<cim:SeriesCompensator rdf:ID="SC_2">
+		<cim:SeriesCompensator.r>200</cim:SeriesCompensator.r>
+		<cim:SeriesCompensator.r0>200</cim:SeriesCompensator.r0>
+		<cim:SeriesCompensator.x>200</cim:SeriesCompensator.x>
+		<cim:SeriesCompensator.x0>200</cim:SeriesCompensator.x0>
+		<cim:IdentifiedObject.aliasName>SeriesCompensator2</cim:IdentifiedObject.aliasName>
+		<cim:IdentifiedObject.mRID>SC_2</cim:IdentifiedObject.mRID>
+		<cim:IdentifiedObject.name>SC_2</cim:IdentifiedObject.name>
+	</cim:SeriesCompensator>
+</rdf:RDF>
