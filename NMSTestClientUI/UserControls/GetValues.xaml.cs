@@ -62,10 +62,17 @@ namespace NMSTestClientUI.UserControls
                     Type = dmsTypesModelCode.ToString(),
                 }));
             }
+
+            SelectedGID = null;
         }
 
         private void DataGrid_SelectionChanged(object sender, SelectionChangedEventArgs e)
         {
+            if(SelectedGID == null)
+            {
+                return;
+            }
+
             Properties.Children.Clear();
 
             Label label = new Label()
@@ -88,12 +95,55 @@ namespace NMSTestClientUI.UserControls
                 {
                     Content = property.ToString(),
                 };
+                checkBox.Unchecked += CheckBox_Unchecked;
                 Properties.Children.Add(checkBox);
+            }
+            CheckAllBtn.IsEnabled = true;
+        }
+
+        private void CheckBox_Unchecked(object sender, RoutedEventArgs e)
+        {
+            if ((sender as CheckBox).IsChecked == false)
+            {
+                CheckAllBtn.IsEnabled = true;
+            }
+        }
+
+        private void CheckAllBtn_Click(object sender, RoutedEventArgs e)
+        {
+            (sender as Button).IsEnabled = false;
+            UncheckAllBtn.IsEnabled = true;
+
+            foreach (var child in Properties.Children)
+            {
+                if (child is CheckBox checkBox)
+                {
+                    checkBox.IsChecked = true;
+                }
+            }
+        }
+
+        private void UncheckAllBtn_Click(object sender, RoutedEventArgs e)
+        {
+            (sender as Button).IsEnabled = false;
+            CheckAllBtn.IsEnabled = true;
+
+            foreach (var child in Properties.Children)
+            {
+                if (child is CheckBox checkBox)
+                {
+                    checkBox.IsChecked = false;
+                }
             }
         }
 
         private void ButtonGetValues_Click(object sender, RoutedEventArgs e)
         {
+            if(SelectedGID == null)
+            {
+                return;
+            }
+
             List<ModelCode> selectedProperties = new List<ModelCode>();
 
             foreach (var child in Properties.Children)
@@ -126,7 +176,7 @@ namespace NMSTestClientUI.UserControls
             {
                 StringBuilder sb = new StringBuilder();
                 sb.Append("Returned entity" + Environment.NewLine + Environment.NewLine);
-                sb.Append($"Entity with gid: {rd.Id}" + Environment.NewLine);
+                sb.Append($"Entity with gid: 0x{rd.Id:X16}" + Environment.NewLine);
 
                 foreach (Property property in rd.Properties)
                 {

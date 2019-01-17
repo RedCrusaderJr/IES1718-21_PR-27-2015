@@ -91,7 +91,7 @@ namespace TelventDMS.Services.NetworkModelService.TestClient.TestsUI
 					{ 
 						if (rds[i] != null)
 						{
-							tempSb.Append($"Entity with gid: {rds[i].Id}" + Environment.NewLine);
+							tempSb.Append($"Entity with gid: 0x{rds[i].Id:X16}" + Environment.NewLine);
 
 							foreach (Property property in rds[i].Properties)
 							{
@@ -166,7 +166,7 @@ namespace TelventDMS.Services.NetworkModelService.TestClient.TestsUI
 					{
 						if (rds[i] != null)
 						{
-							tempSb.Append($"Entity with gid: {rds[i].Id}" + Environment.NewLine);
+							tempSb.Append($"Entity with gid: 0x{rds[i].Id:X16}" + Environment.NewLine);
 
 							foreach (Property property in rds[i].Properties)
 							{

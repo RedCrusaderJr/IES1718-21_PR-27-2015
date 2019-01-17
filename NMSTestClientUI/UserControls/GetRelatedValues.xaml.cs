@@ -27,13 +27,14 @@ namespace NMSTestClientUI.UserControls
         private TestGda tgda;
         private ModelResourcesDesc modelResourcesDesc = new ModelResourcesDesc();
         private Dictionary<ModelCode, string> propertiesDesc = new Dictionary<ModelCode, string>();
-        private HashSet<DMSType> referencedDmsTypes = new HashSet<DMSType>();
 
         public ObservableCollection<GlobalIdentifierViewModel> GlobalIdentifiersRelated { get; private set; }
         public ObservableCollection<PropertyViewModel> RelationalProperties { get; private set; }
+        public ObservableCollection<DmsTypeViewModel> RelatedEntityDmsTypes { get; set; }
 
         public GlobalIdentifierViewModel SelectedGID { get; set; }
         public PropertyViewModel SelectedProperty { get; set; }
+        public DmsTypeViewModel SelectedDmsType { get; set; }
 
         public GetRelatedValues()
         {
@@ -42,6 +43,7 @@ namespace NMSTestClientUI.UserControls
 
             GlobalIdentifiersRelated = new ObservableCollection<GlobalIdentifierViewModel>();
             RelationalProperties = new ObservableCollection<PropertyViewModel>();
+            RelatedEntityDmsTypes = new ObservableCollection<DmsTypeViewModel>();
 
             try
             {
@@ -70,10 +72,16 @@ namespace NMSTestClientUI.UserControls
 
         private void GlobalIdentifiersDataGrid_SelectionChanged(object sender, SelectionChangedEventArgs e)
         {
-            PropertiesInRelated.Children.Clear();
+            if(SelectedGID == null)
+            {
+                return;
+            }
+
             RelationalProperties.Clear();
+            RelatedEntityDmsTypes.Clear();
             SelectedProperty = null;
             RelatedValues.Document.Blocks.Clear();
+            PropertiesInRelated.Children.Clear();
 
             short type = ModelCodeHelper.ExtractTypeFromGlobalId(SelectedGID.GID);
             List<ModelCode> properties = modelResourcesDesc.GetAllPropertyIds((DMSType)type);
@@ -98,9 +106,42 @@ namespace NMSTestClientUI.UserControls
                 return;
             }
 
+            RelatedEntityDmsTypes.Clear();
+            SelectedDmsType = null;
             PropertiesInRelated.Children.Clear();
             RelatedValues.Document.Blocks.Clear();
-            referencedDmsTypes.Clear();
+
+            List<DMSType> dmsTypes = new List<DMSType>();
+            if (RelationalPropertiesHelper.Relations.ContainsKey(SelectedProperty.Property))
+            {
+                ModelCode relatedEntity = RelationalPropertiesHelper.Relations[SelectedProperty.Property];
+                dmsTypes.AddRange(ModelResourcesDesc.GetLeavesForCoreEntities(relatedEntity));
+
+                if (dmsTypes.Count == 0)
+                {
+                    dmsTypes.Add(ModelCodeHelper.GetTypeFromModelCode(relatedEntity));
+                }
+            }
+
+            foreach(DMSType type in dmsTypes)
+            {
+                RelatedEntityDmsTypes.Add(new DmsTypeViewModel() { DmsType = type });
+            }
+
+            HashSet<ModelCode> referencedTypeProperties = new HashSet<ModelCode>();
+            if (RelatedEntityDmsTypes.Count > 0)
+            {
+                foreach (DmsTypeViewModel referencedDmsType in RelatedEntityDmsTypes)
+                {
+                    foreach (ModelCode propInReferencedType in modelResourcesDesc.GetAllPropertyIds(referencedDmsType.DmsType))
+                    {
+                        if (!referencedTypeProperties.Contains(propInReferencedType))
+                        {
+                            referencedTypeProperties.Add(propInReferencedType);
+                        }
+                    }
+                }
+            }
 
             Label label = new Label()
             {
@@ -109,9 +150,146 @@ namespace NMSTestClientUI.UserControls
             };
             PropertiesInRelated.Children.Add(label);
 
+            propertiesDesc.Clear();
+
+            if (referencedTypeProperties.Count > 0)
+            {
+                foreach (ModelCode property in referencedTypeProperties)
+                {
+                    if (propertiesDesc.ContainsKey(property))
+                    {
+                        continue;
+                    }
+
+                    propertiesDesc.Add(property, property.ToString());
+
+                    CheckBox checkBox = new CheckBox()
+                    {
+                        Content = property.ToString(),
+                    };
+                    checkBox.Unchecked += CheckBox_Unchecked;
+                    PropertiesInRelated.Children.Add(checkBox);
+                }
+                CheckAllBtn.IsEnabled = true;
+            }
+        }
+
+        private void RelatedEntityDmsTypesDataGrid_SelectionChanged(object sender, SelectionChangedEventArgs e)
+        {
+            if(SelectedDmsType == null)
+            {
+                return;
+            }
+
+            PropertiesInRelated.Children.Clear();
+            RelatedValues.Document.Blocks.Clear();
+
+            HashSet<ModelCode> referencedTypeProperties = new HashSet<ModelCode>();
+            foreach (ModelCode propInReferencedType in modelResourcesDesc.GetAllPropertyIds(SelectedDmsType.DmsType))
+            {
+                if (!referencedTypeProperties.Contains(propInReferencedType))
+                {
+                    referencedTypeProperties.Add(propInReferencedType);
+                }
+            }
+
+            Label label = new Label()
+            {
+                FontWeight = FontWeights.UltraBold,
+                Content = "Properties (for classes in selected relation)",
+            };
+            PropertiesInRelated.Children.Add(label);
+
+            propertiesDesc.Clear();
+
+            if (referencedTypeProperties.Count > 0)
+            {
+                foreach (ModelCode property in referencedTypeProperties)
+                {
+                    if (propertiesDesc.ContainsKey(property))
+                    {
+                        continue;
+                    }
+
+                    propertiesDesc.Add(property, property.ToString());
+
+                    CheckBox checkBox = new CheckBox()
+                    {
+                        Content = property.ToString(),
+                    };
+                    checkBox.Unchecked += CheckBox_Unchecked;
+                    PropertiesInRelated.Children.Add(checkBox);
+                }
+                    CheckAllBtn.IsEnabled = true;
+            }
+        }
+
+        private void CheckBox_Unchecked(object sender, RoutedEventArgs e)
+        {
+            if ((sender as CheckBox).IsChecked == false)
+            {
+                CheckAllBtn.IsEnabled = true;
+            }
+        }
+
+        private void CheckAllBtn_Click(object sender, RoutedEventArgs e)
+        {
+            (sender as Button).IsEnabled = false;
+            UncheckAllBtn.IsEnabled = true;
+
+            foreach (var child in PropertiesInRelated.Children)
+            {
+                if (child is CheckBox checkBox)
+                {
+                    checkBox.IsChecked = true;
+                }
+            }
+        }
+
+        private void UncheckAllBtn_Click(object sender, RoutedEventArgs e)
+        {
+            (sender as Button).IsEnabled = false;
+            CheckAllBtn.IsEnabled = true;
+
+            foreach (var child in PropertiesInRelated.Children)
+            {
+                if (child is CheckBox checkBox)
+                {
+                    checkBox.IsChecked = false;
+                }
+            }
+        }
+
+        private void ButtonGetRelatedValues_Click(object sender, RoutedEventArgs e)
+        {
+            if(SelectedProperty == null)
+            {
+                return;
+            }
+
+            List<ModelCode> selectedProperties = new List<ModelCode>();
+
+            foreach (var child in PropertiesInRelated.Children)
+            {
+                if (child is CheckBox checkBox && checkBox.IsChecked.Value)
+                {
+                    foreach (KeyValuePair<ModelCode, string> keyValuePair in propertiesDesc)
+                    {
+                        if (keyValuePair.Value.Equals(checkBox.Content))
+                        {
+                            selectedProperties.Add(keyValuePair.Key);
+                        }
+                    }
+                }
+            }
+
+            StringBuilder sb = new StringBuilder();
+            sb.Append("Returned entities" + Environment.NewLine + Environment.NewLine);
+
+            ////////////////////////////////////////////
             List<long> gidReferences = new List<long>();
             ResourceDescription rd = tgda.GetValues(SelectedGID.GID, new List<ModelCode>() { SelectedProperty.Property });
-            if(rd != null)
+            if (rd != null)
             {
                 Property prop = rd.GetProperty(SelectedProperty.Property);
 
@@ -125,9 +303,10 @@ namespace NMSTestClientUI.UserControls
                 }
             }
 
-            if (gidReferences.Count > 0 )
+            HashSet<DMSType> referencedDmsTypes = new HashSet<DMSType>();
+            if (gidReferences.Count > 0)
             {
-                foreach(long gidReference in gidReferences)
+                foreach (long gidReference in gidReferences)
                 {
                     DMSType dmsType = (DMSType)ModelCodeHelper.ExtractTypeFromGlobalId(gidReference);
                     if (!referencedDmsTypes.Contains(dmsType))
@@ -136,84 +315,52 @@ namespace NMSTestClientUI.UserControls
                     }
                 }
             }
-
-            HashSet<ModelCode> referencedTypeProperties = new HashSet<ModelCode>();
-            if (referencedDmsTypes.Count > 0)
-            {
-                foreach(DMSType referencedDmsType in referencedDmsTypes)
-                {
-                    foreach (ModelCode propInReferencedType in modelResourcesDesc.GetAllPropertyIds(referencedDmsType))
-                    {
-                        if (!referencedTypeProperties.Contains(propInReferencedType))
-                        {
-                            referencedTypeProperties.Add(propInReferencedType);
-                        }
-                    }
-                }
-            }
-
-            propertiesDesc.Clear();
-
-            if(referencedTypeProperties.Count > 0)
-            {
-                foreach (ModelCode property in referencedTypeProperties)
-                {
-                    if(propertiesDesc.ContainsKey(property))
-                    {
-                        continue;
-                    }
-
-                    propertiesDesc.Add(property, property.ToString());
-
-                    CheckBox checkBox = new CheckBox()
-                    {
-                        Content = property.ToString(),
-                    };
-                    PropertiesInRelated.Children.Add(checkBox);
-                }
-            }
-        }
-
-        private void ButtonGetRelatedValues_Click(object sender, RoutedEventArgs e)
-        {
-            if(SelectedProperty == null || referencedDmsTypes == null || referencedDmsTypes.Count == 0)
-            {
-                return;
-            }
-
-            List<ModelCode> selectedProperties = new List<ModelCode>();
-
-            foreach (var child in PropertiesInRelated.Children)
-            {
-                if (child is CheckBox checkBox)
-                {
-                    if (checkBox.IsChecked.Value)
-                    {
-                        foreach (KeyValuePair<ModelCode, string> keyValuePair in propertiesDesc)
-                        {
-                            if (keyValuePair.Value.Equals(checkBox.Content))
-                            {
-                                selectedProperties.Add(keyValuePair.Key);
-                            }
-                        }
-                    }
-                }
-            }
-
-            StringBuilder sb = new StringBuilder();
-            sb.Append("Returned entities" + Environment.NewLine + Environment.NewLine);
+            ////////////////////////////////////////////////////////
 
             try
             {
-                if (referencedDmsTypes.Count == 1)
+                if (SelectedDmsType != null)
                 {
-                    //association: source=SelectedProperty, type=referencedDmsTypes.First()
-                    Association association = new Association(SelectedProperty.Property, modelResourcesDesc.GetModelCodeFromType(referencedDmsTypes.First()));
+                    Association association = new Association(SelectedProperty.Property, modelResourcesDesc.GetModelCodeFromType(SelectedDmsType.DmsType));
                     List<long> gids = tgda.GetRelatedValues(SelectedGID.GID, selectedProperties, association, sb);
                 }
                 else
                 {
-                    throw new NotImplementedException("referencedDmsTypes count greater than 1");
+                    /////////////////////////////////////////////////////////////
+                    HashSet<ModelCode> referencedDmsTypesProperties = new HashSet<ModelCode>(modelResourcesDesc.GetAllPropertyIds(referencedDmsTypes.First()));
+                    List<ModelCode> toBeRemovedFormSelectedProperties = new List<ModelCode>();
+                    foreach (ModelCode property in selectedProperties)
+                    {
+                        if(!referencedDmsTypesProperties.Contains(property))
+                        {
+                            toBeRemovedFormSelectedProperties.Add(property);
+                        }
+                    }
+
+                    foreach(ModelCode property in toBeRemovedFormSelectedProperties)
+                    {
+                        selectedProperties.Remove(property);
+                    }
+
+                    foreach (var child in PropertiesInRelated.Children)
+                    {
+                        if (child is CheckBox checkBox && checkBox.IsChecked.Value)
+                        {
+                            foreach (KeyValuePair<ModelCode, string> keyValuePair in propertiesDesc)
+                            {
+                                if (keyValuePair.Value.Equals(checkBox.Content) && toBeRemovedFormSelectedProperties.Contains(keyValuePair.Key))
+                                {
+                                    checkBox.IsChecked = false;
+                                }
+                            }
+                        }
+                    }
+
+                    CheckAllBtn.IsEnabled = true;
+                    /////////////////////////////////////////////////////////////
+
+                    Association association = new Association(SelectedProperty.Property, 0x0000000000000000);
+                    List<long> gids = tgda.GetRelatedValues(SelectedGID.GID, selectedProperties, association, sb);
                 }
             }
             catch (Exception ex)
@@ -224,5 +371,6 @@ namespace NMSTestClientUI.UserControls
             RelatedValues.Document.Blocks.Clear();
             RelatedValues.AppendText(sb.ToString());
         }
+
     }
 }

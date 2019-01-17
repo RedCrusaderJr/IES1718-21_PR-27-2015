@@ -1,0 +1,26 @@
+19-Dec-18 00:16:11 : Starting Network Model Serivice...
+19-Dec-18 00:16:11 : Inserting entity with GID (0000000200000001).
+19-Dec-18 00:16:11 : Inserting entity with GID (0000000200000002).
+19-Dec-18 00:16:11 : Inserting entity with GID (0000000100000001).
+19-Dec-18 00:16:11 : Inserting entity with GID (0000000100000002).
+19-Dec-18 00:16:11 : Inserting entity with GID (0000000100000003).
+19-Dec-18 00:16:11 : Inserting entity with GID (0000000100000004).
+19-Dec-18 00:16:11 : Inserting entity with GID (0000000500000001).
+19-Dec-18 00:16:11 : Inserting entity with GID (0000000500000002).
+19-Dec-18 00:16:11 : Inserting entity with GID (0000000600000001).
+19-Dec-18 00:16:11 : Inserting entity with GID (0000000600000002).
+19-Dec-18 00:16:11 : Inserting entity with GID (0000000600000003).
+19-Dec-18 00:16:11 : Inserting entity with GID (0000000400000001).
+19-Dec-18 00:16:11 : Inserting entity with GID (0000000400000002).
+19-Dec-18 00:16:11 : Inserting entity with GID (0000000300000001).
+19-Dec-18 00:16:11 : Inserting entity with GID (0000000300000002).
+19-Dec-18 00:16:11 : Inserting entity with GID (0000000300000003).
+19-Dec-18 00:16:11 : Inserting entity with GID (0000000300000004).
+19-Dec-18 00:16:11 : Inserting entity with GID (0000000300000005).
+19-Dec-18 00:16:13 : The communication object, System.ServiceModel.ServiceHost, cannot be used for communication because it is in the Faulted state.
+19-Dec-18 00:16:13 : NetworkModelService failed.
+19-Dec-18 00:16:13 :    at System.ServiceModel.Channels.CommunicationObject.Close(TimeSpan timeout)
+   at System.ServiceModel.Channels.CommunicationObject.Close()
+   at FTN.Services.NetworkModelService.NetworkModelService.CloseHosts() in D:\FAX\BLOK_3\IES1718-21_PR-27-2015\ModelLabs\NetworkModelService\NetworkModelService.cs:line 96
+   at FTN.Services.NetworkModelService.NetworkModelService.Dispose() in D:\FAX\BLOK_3\IES1718-21_PR-27-2015\ModelLabs\NetworkModelService\NetworkModelService.cs:line 34
+   at FTN.Services.NetworkModelService.Program.Main(String[] args) in D:\FAX\BLOK_3\IES1718-21_PR-27-2015\ModelLabs\NetworkModelService\ServiceHost\NetworkModelServiceSelfHost\Program.cs:line 30

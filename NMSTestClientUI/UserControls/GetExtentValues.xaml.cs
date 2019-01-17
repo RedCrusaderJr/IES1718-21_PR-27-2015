@@ -58,10 +58,17 @@ namespace NMSTestClientUI.UserControls
                 ModelCode dmsTypesModelCode = modelResourcesDesc.GetModelCodeFromType(dmsType);
                 ClassTypes.Add(new ClassTypeViewModel() { ClassType = dmsTypesModelCode });
             }
+
+            SelectedType = null;
         }
 
         private void DataGrid_SelectionChanged(object sender, SelectionChangedEventArgs e)
         {
+            if(SelectedType == null)
+            {
+                return;
+            }
+
             Properties.Children.Clear();
 
             Label label = new Label()
@@ -83,12 +90,56 @@ namespace NMSTestClientUI.UserControls
                 {
                     Content = property.ToString(),
                 };
+                checkBox.Unchecked += CheckBox_Unchecked;
                 Properties.Children.Add(checkBox);
+            }
+            CheckAllBtn.IsEnabled = true;
+
+        }
+
+        private void CheckBox_Unchecked(object sender, RoutedEventArgs e)
+        {
+            if((sender as CheckBox).IsChecked == false)
+            {
+                CheckAllBtn.IsEnabled = true;
+            }
+        }
+
+        private void CheckAllBtn_Click(object sender, RoutedEventArgs e)
+        {
+            (sender as Button).IsEnabled = false;
+            UncheckAllBtn.IsEnabled = true;
+
+            foreach (var child in Properties.Children)
+            {
+                if (child is CheckBox checkBox)
+                {
+                    checkBox.IsChecked = true;
+                }
+            }
+        }
+
+        private void UncheckAllBtn_Click(object sender, RoutedEventArgs e)
+        {
+            (sender as Button).IsEnabled = false;
+            CheckAllBtn.IsEnabled = true;
+
+            foreach (var child in Properties.Children)
+            {
+                if (child is CheckBox checkBox)
+                {
+                    checkBox.IsChecked = false;
+                }
             }
         }
 
         private void ButtonGetExtentValues_Click(object sender, RoutedEventArgs e)
         {
+            if (SelectedType == null)
+            {
+                return;
+            }
+
             List<ModelCode> selectedProperties = new List<ModelCode>();
 
             foreach (var child in Properties.Children)

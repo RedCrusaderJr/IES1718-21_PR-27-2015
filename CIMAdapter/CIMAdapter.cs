@@ -124,28 +124,8 @@ namespace FTN.ESI.SIMES.CIM.CIMAdapter
 
 				switch (extractType)
 				{
-                    //case supportedprofiles.powertransformer:
-                    //    {
-                    //        // transformation to dms delta					
-                    //        transformandloadreport report = powertransformerimporter.instance.createnmsdelta(concretemodel);
-
-                    //        if (report.success)
-                    //        {
-                    //            nmsdelta = powertransformerimporter.instance.nmsdelta;
-                    //            success = true;
-                    //        }
-                    //        else
-                    //        {
-                    //            success = false;
-                    //        }
-                    //        log = report.report.tostring();
-                    //        powertransformerimporter.instance.reset();
-
-                    //        break;
-                    //    }
                     case SupportedProfiles.IES21:
                         {
-                            //TODO:
                             TransformAndLoadReport report = IES21Importer.Instance.CreateNMSDelta(concreteModel);
 
                             if(report.Success)

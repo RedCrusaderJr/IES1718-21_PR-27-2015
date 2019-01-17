@@ -1,7 +1,7 @@
 ﻿<delta id="0">
   <operations>
     <operation type="insert">
-      <ResourceDescriptions count="18">
+      <ResourceDescriptions count="21">
         <ResourceDescription>
           <id gid="0x00000002ffffffff" type="CONNECTNODECONTAINER" />
           <Properties>
@@ -120,6 +120,15 @@
           </Properties>
         </ResourceDescription>
         <ResourceDescription>
+          <id gid="0x00000006fffffffc" type="DCLINESEG" />
+          <Properties>
+            <Property id="IDOBJ_MRID" value="DCLS_4" />
+            <Property id="IDOBJ_NAME" value="DCLS_4" />
+            <Property id="IDOBJ_ALIASNAME" value="DCLineSegment4" />
+            <Property id="CONDUCTOR_LENGTH" value="4000" />
+          </Properties>
+        </ResourceDescription>
+        <ResourceDescription>
           <id gid="0x00000004ffffffff" type="SERIESCOMPENSATOR" />
           <Properties>
             <Property id="IDOBJ_MRID" value="SC_1" />
@@ -190,6 +199,26 @@
             <Property id="IDOBJ_NAME" value="TML_5" />
             <Property id="IDOBJ_ALIASNAME" value="Terminal5" />
             <Property id="TERMINAL_CONDEQUIP" value="0x00000004ffffffff" />
+            <Property id="TERMINAL_CONNECTNODE" value="0x00000001ffffffff" />
+          </Properties>
+        </ResourceDescription>
+        <ResourceDescription>
+          <id gid="0x00000003fffffffa" type="TERMINAL" />
+          <Properties>
+            <Property id="IDOBJ_MRID" value="TML_6" />
+            <Property id="IDOBJ_NAME" value="TML_6" />
+            <Property id="IDOBJ_ALIASNAME" value="Terminal5" />
+            <Property id="TERMINAL_CONDEQUIP" value="0x00000006fffffffc" />
+            <Property id="TERMINAL_CONNECTNODE" value="0x00000001ffffffff" />
+          </Properties>
+        </ResourceDescription>
+        <ResourceDescription>
+          <id gid="0x00000003fffffff9" type="TERMINAL" />
+          <Properties>
+            <Property id="IDOBJ_MRID" value="TML_7" />
+            <Property id="IDOBJ_NAME" value="TML_7" />
+            <Property id="IDOBJ_ALIASNAME" value="Terminal5" />
+            <Property id="TERMINAL_CONDEQUIP" value="0x00000006fffffffc" />
             <Property id="TERMINAL_CONNECTNODE" value="0x00000001ffffffff" />
           </Properties>
         </ResourceDescription>

@@ -19,9 +19,29 @@ namespace FTN.Services.NetworkModelService.TestClientUI
         public ModelCode ClassType { get; set; }
     }
 
+    public class DmsTypeViewModel
+    {
+        public DMSType DmsType { get; set; }
+    }
+
     public class PropertyViewModel
     {
         public ModelCode Property { get; set; }
+    }
+
+    public static class RelationalPropertiesHelper
+    {
+        private static readonly Dictionary<ModelCode, ModelCode> relations = new Dictionary<ModelCode, ModelCode>
+        {
+            { ModelCode.CONNECTNODECONTAINER_CONNECTNODES,  ModelCode.CONNECTNODE           },
+            { ModelCode.CONNECTNODE_CONNECTNODECONTAINER,   ModelCode.CONNECTNODECONTAINER  },
+            { ModelCode.CONNECTNODE_TERMINALS,              ModelCode.TERMINAL              },
+            { ModelCode.TERMINAL_CONNECTNODE,               ModelCode.CONNECTNODE           },
+            { ModelCode.TERMINAL_CONDEQUIP,                 ModelCode.CONDEQUIP             },
+            { ModelCode.CONDEQUIP_TERMINALS,                ModelCode.TERMINAL              },
+        };
+ 
+        public static Dictionary<ModelCode, ModelCode> Relations { get { return relations; } }
     }
 
     public static class StringAppender
@@ -31,13 +51,13 @@ namespace FTN.Services.NetworkModelService.TestClientUI
             sb.Append($"\t{property.Id}: {Environment.NewLine}");
             foreach (long gid in property.AsReferences())
             {
-                sb.Append($"\t\tGid:{gid}{ Environment.NewLine}");
+                sb.Append($"\t\tGid: 0x{gid:X16}{ Environment.NewLine}");
             }
         }
 
         public static void AppendReference(StringBuilder sb, Property property)
         {
-            sb.Append($"\t{property.Id}: {property.AsReference()}{Environment.NewLine}");
+            sb.Append($"\t{property.Id}: 0x{property.AsReference():X16}{Environment.NewLine}");
         }
 
         public static void AppendString(StringBuilder sb, Property property)
@@ -52,7 +72,7 @@ namespace FTN.Services.NetworkModelService.TestClientUI
 
         public static void AppendLong(StringBuilder sb, Property property)
         {
-            sb.Append($"\t{property.Id}: {property.AsLong()}{Environment.NewLine}");
+            sb.Append($"\t{property.Id}: 0x{property.AsLong():X16}{Environment.NewLine}");
         }
     }
 }

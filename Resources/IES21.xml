@@ -84,6 +84,20 @@
 		<cim:IdentifiedObject.mRID>TML_5</cim:IdentifiedObject.mRID>
 		<cim:IdentifiedObject.name>TML_5</cim:IdentifiedObject.name>
 	</cim:Terminal>
+  <cim:Terminal rdf:ID="TML_6">
+		<cim:Terminal.ConductingEquipment rdf:resource="#DCLS_4"/>
+		<cim:Terminal.ConnectivityNode rdf:resource="#CN_1"/>
+		<cim:IdentifiedObject.aliasName>Terminal5</cim:IdentifiedObject.aliasName>
+		<cim:IdentifiedObject.mRID>TML_6</cim:IdentifiedObject.mRID>
+		<cim:IdentifiedObject.name>TML_6</cim:IdentifiedObject.name>
+	</cim:Terminal>
+      <cim:Terminal rdf:ID="TML_7">
+		<cim:Terminal.ConductingEquipment rdf:resource="#DCLS_4"/>
+		<cim:Terminal.ConnectivityNode rdf:resource="#CN_1"/>
+		<cim:IdentifiedObject.aliasName>Terminal5</cim:IdentifiedObject.aliasName>
+		<cim:IdentifiedObject.mRID>TML_7</cim:IdentifiedObject.mRID>
+		<cim:IdentifiedObject.name>TML_7</cim:IdentifiedObject.name>
+	</cim:Terminal>
 
 	
 <!--[ Package_Wire ]-->
@@ -131,12 +145,19 @@
 		<cim:IdentifiedObject.mRID>DCLS_2</cim:IdentifiedObject.mRID>
 		<cim:IdentifiedObject.name>DCLS_2</cim:IdentifiedObject.name>
 	</cim:DCLineSegment>
-			<cim:DCLineSegment rdf:ID="DCLS_3">
+  <cim:DCLineSegment rdf:ID="DCLS_3">
 		<cim:Conductor.length>3000</cim:Conductor.length>
 		<cim:IdentifiedObject.aliasName>DCLineSegment3</cim:IdentifiedObject.aliasName>
 		<cim:IdentifiedObject.mRID>DCLS_3</cim:IdentifiedObject.mRID>
 		<cim:IdentifiedObject.name>DCLS_3</cim:IdentifiedObject.name>
 	</cim:DCLineSegment>
+  <cim:DCLineSegment rdf:ID="DCLS_4">
+		<cim:Conductor.length>4000</cim:Conductor.length>
+		<cim:IdentifiedObject.aliasName>DCLineSegment4</cim:IdentifiedObject.aliasName>
+		<cim:IdentifiedObject.mRID>DCLS_4</cim:IdentifiedObject.mRID>
+		<cim:IdentifiedObject.name>DCLS_4</cim:IdentifiedObject.name>
+	</cim:DCLineSegment>
+  
 	
 	<!--SeriesCompensator-->
 	<cim:SeriesCompensator rdf:ID="SC_1">
